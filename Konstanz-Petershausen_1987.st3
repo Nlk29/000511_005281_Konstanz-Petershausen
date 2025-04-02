@@ -1022,24 +1022,15 @@
 <b X="2164.0439" Y="-968.5329" Z="400.7328"/>
 <InfoNormRichtung vMax="33.3333" km="412.4108" pos="1"/>
 <InfoGegenRichtung vMax="33.3333" km="412.4155"/>
-<NachNorm Nr="48"/>
+<NachNorm Nr="1907"/>
 <NachGegen Nr="45"/>
 </StrElement>
 <StrElement Nr="47" kr="0.000595" spTrass="33.3333" Oberbau="Holz K-Oberbau">
 <g X="2172.344" Y="-972.8065" Z="400.7345"/>
-<b X="2168.2" Y="-970.6583" Z="400.7336"/>
-<InfoNormRichtung vMax="33.3333" km="412.4248"/>
-<InfoGegenRichtung vMax="33.3333" km="412.4201" pos="1"/>
-<NachNorm Nr="48"/>
+<b X="2169.2322" Y="-971.2043" Z="400.7339"/>
+<InfoGegenRichtung vMax="33.3333" km="412.4359" pos="1"/>
+<NachNorm Nr="1907"/>
 <NachGegen Nr="49"/>
-</StrElement>
-<StrElement Nr="48" kr="0.001785" spTrass="33.3333" Anschluss="257" Oberbau="Holz K-Oberbau">
-<g X="2168.2" Y="-970.6583" Z="400.7336"/>
-<b X="2164.0439" Y="-968.5331" Z="400.7328"/>
-<InfoNormRichtung vMax="33.3333" km="412.4201"/>
-<InfoGegenRichtung vMax="33.3333" km="412.4155" pos="1"/>
-<NachNorm Nr="46"/>
-<NachGegen Nr="47"/>
 </StrElement>
 <StrElement Nr="49" spTrass="33.3333" Oberbau="Holz K-Oberbau">
 <g X="2172.344" Y="-972.8065" Z="400.7345"/>
@@ -1852,7 +1843,39 @@
 <StrElement Nr="98" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="2086.7329" Y="-943.2468" Z="400.7181"/>
 <b X="2164.4741" Y="-979.9654" Z="400.7337"/>
-<InfoNormRichtung vMax="27.7778" km="412.3347" pos="1"/>
+<InfoNormRichtung vMax="27.7778" km="412.3347" pos="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
+<p X="2165.8191" Y="-977.117" Z="402.7337"/>
+<phi Z="-0.441258"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_weiss.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.33"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Zuordnungspfeil-re.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="-0.33"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1972_DB\Nebensignale\Ne5-Laengentafeln\DB_Laengentafel_160m.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="15" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="412.4207">
 <Ereignis Er="1000008" Beschr="Konstanz Petershausen"/>
 </InfoGegenRichtung>
@@ -11997,7 +12020,27 @@
 <g X="1979.127" Y="-885.0789" Z="400.6959"/>
 <b X="1992.337" Y="-890.3702" Z="400.6985"/>
 <InfoNormRichtung vMax="3.3333" km="412.2126" pos="1"/>
-<InfoGegenRichtung vMax="3.3333" km="412.2268"/>
+<InfoGegenRichtung vMax="3.3333" km="412.2268">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
+<p X="1978.3278" Y="-887.0748" Z="402.6959"/>
+<phi Z="2.760615"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_weiss.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="756"/>
 <NachGegen Nr="747"/>
 </StrElement>
@@ -26990,6 +27033,25 @@
 <b X="-1526.442" Y="770.3926" Z="398.8586"/>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000009" Beschr="Reichenau Baden"/>
+<Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" SignalTyp="1" BoundingR="10">
+<p X="-1563.2648" Y="791.2211" Z="400.8508"/>
+<phi Z="2.700163"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_schwarz.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="1853"/>
 <NachGegen Nr="1213"/>
@@ -27012,6 +27074,25 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000009" Beschr="Reichenau Baden"/>
+<Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" SignalTyp="1" BoundingR="10">
+<p X="-1507.118" Y="753.3974" Z="400.8631"/>
+<phi Z="-0.441572"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_schwarz.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="1815"/>
 <NachGegen Nr="1710"/>
@@ -27539,6 +27620,45 @@
 <b X="1832.5341" Y="-861.2878" Z="400.2498"/>
 <NachNorm Nr="761"/>
 <NachGegen Nr="1902"/>
+</StrElement>
+<StrElement Nr="1907" kr="0.000595" spTrass="33.3333" Anschluss="257" Oberbau="Holz K-Oberbau">
+<g X="2169.2322" Y="-971.2043" Z="400.7339"/>
+<b X="2164.0439" Y="-968.5331" Z="400.7328"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
+<p X="2167.502" Y="-973.8003" Z="402.7339"/>
+<phi Z="-0.475473"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_weiss.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.33"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Zuordnungspfeil-li.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="-0.33"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1972_DB\Nebensignale\Ne5-Laengentafeln\DB_Laengentafel_160m.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="15" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="46"/>
+<NachGegen Nr="47"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Reichenau Baden D" FahrstrTyp="TypZug" Laenge="575.79">
 <FahrstrStart Ref="295">
