@@ -8,6 +8,48 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast9m.lod.ls3"/>
+<p X="-442.1302" Y="-423.4111" Z="400.7122"/>
+<phi Z="-0.416177"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast9m.lod.ls3"/>
+<p X="-384.2026" Y="-450.8021" Z="400.7311"/>
+<phi Z="-0.456974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast9m.lod.ls3"/>
+<p X="-501.6435" Y="-397.0141" Z="400.7016"/>
+<phi Z="-0.371816"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast9m.lod.ls3"/>
+<p X="-326.4551" Y="-479.0324" Z="400.7339"/>
+<phi Z="2.666106"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_4m2\Ausleger_4m2-Bstg_geerdet_Kurve_l.lod.ls3"/>
+<p X="-324.3787" Y="-474.9996" Z="400.7339"/>
+<phi Z="-0.475486"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_5m\Ausleger_5m-Bstg_geerdet_Kurve_l.lod.ls3"/>
+<p X="-381.8486" Y="-446.0145" Z="400.7311"/>
+<phi Z="-0.456974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_5m\Ausleger_5m-Bstg_geerdet_Kurve_l.lod.ls3"/>
+<p X="-439.9734" Y="-418.5315" Z="400.7122"/>
+<phi Z="-0.416177"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="132" MeshI="252">
 <RenderFlags TexVoreinstellung="3"/>
