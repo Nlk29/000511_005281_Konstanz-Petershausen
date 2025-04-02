@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=4,49427509307861  kr=0,000936098978854716  ue=-0,0119935302063823	  l=4,49427509307861  kr=0,00131759198848158  ue=-0,0191557202488184	  l=4,49427509307861  kr=0,00169908395037055  ue=-0,0263179093599319	  l=4,49427509307861  kr=0,00208057602867484  ue=-0,0334801003336906	  l=4,49427509307861  kr=0,00246206903830171  ue=-0,0406422801315784	  l=4,49427509307861  kr=0,00284356204792857  ue=-0,0478044711053371	  l=4,49427509307861  kr=0,00322505389340222  ue=-0,0549666583538055	  l=4,49427509307861  kr=0,00360654690302908  ue=-0,0621288493275642	  l=4,49427509307861  kr=0,00398803921416402  ue=-0,0692910328507423	  l=4,79427814483643  kr=0,00436953222379088  ue=-0,0764532163739204	">
+<AutorEintrag AutorID="1" AutorName="Carsten Hölscher" AutorEmail="carsten.hoelscher@zusi.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="3" SichtbarBis="150" Vorlade="1" LODbit="12">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\lod\Antrieb_RolleLi.lod1.ls3"/>
+<p X="0" Y="0.0006"/>
+<phi Z="3.142688"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte BoundingR="3" SichtbarAb="150" SichtbarBis="500" Vorlade="1" LODbit="3">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\lod\Antrieb_RolleLi.lod2.ls3"/>
+<p X="0" Y="0.0006"/>
+<phi Z="3.142688"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="300" Vorlade="1" LODbit="6">
+<Datei Dateiname="PERMANENTWAY\DEUTSCHLAND\1435MM\REGELOBERBAU\WEICHEN\ANTRIEBE\MECHANISCH\Drahtzugeingang.lod1.ls3"/>
+<p X="-0.5514" Y="2.4533" Z="-0.1256"/>
+<phi Z="3.142173"/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

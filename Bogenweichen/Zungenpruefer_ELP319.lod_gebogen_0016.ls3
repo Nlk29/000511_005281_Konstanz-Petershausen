@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=4,49427509307861  kr=0,000936098978854716  ue=-0,0119935302063823	  l=4,49427509307861  kr=0,00131759198848158  ue=-0,0191557202488184	  l=4,49427509307861  kr=0,00169908395037055  ue=-0,0263179093599319	  l=4,49427509307861  kr=0,00208057602867484  ue=-0,0334801003336906	  l=4,49427509307861  kr=0,00246206903830171  ue=-0,0406422801315784	  l=4,49427509307861  kr=0,00284356204792857  ue=-0,0478044711053371	  l=4,49427509307861  kr=0,00322505389340222  ue=-0,0549666583538055	  l=4,49427509307861  kr=0,00360654690302908  ue=-0,0621288493275642	  l=4,49427509307861  kr=0,00398803921416402  ue=-0,0692910328507423	  l=4,79427814483643  kr=0,00436953222379088  ue=-0,0764532163739204	">
+<AutorEintrag AutorID="33" AutorName="Alwin Meschede" AutorEmail="ameschede@gmx.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="800" Vorlade="1" LODbit="7">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Zungenpruefer_ELP319.lod1.ls3"/>
+<p X="0" Y="-0.0147"/>
+<phi Z="3.147218"/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=0,5  kr=0,000985740451142192  ue=-0,00278672995045781	  l=0,5  kr=0,00116761203389615  ue=-0,00341607397422194	  l=0,5  kr=0,0013494830345735  ue=-0,00404541799798608	  l=0,5  kr=0,00153135403525084  ue=-0,00467476202175021	  l=0,5  kr=0,00171322503592819  ue=-0,00530410604551434	  l=0,5  kr=0,00189509696792811  ue=-0,00593345006927848	  l=0,5  kr=0,00207696808502078  ue=-0,00656279409304261	  l=0,5  kr=0,00225883908569813  ue=-0,00719213718548417	  l=0,5  kr=0,00244071008637547  ue=-0,00782148167490959	  l=0,800000190734863  kr=0,0026225820183754  ue=-0,00845082569867373	">
+<AutorEintrag AutorID="33" AutorName="Alwin Meschede" AutorEmail="ameschede@gmx.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="1" SichtbarBis="350" Vorlade="1" LODbit="7">
+<Datei Dateiname="PERMANENTWAY\DEUTSCHLAND\1435MM\REGELOBERBAU\GLEISTORE\Gleistor_gelb_Pfosten.lod1.ls3"/>
+<p X="-0.0083" Y="2.5037" Z="-0.0145"/>
+<phi Z="4.715763"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte BoundingR="3" SichtbarBis="350" Vorlade="1" LODbit="7">
+<Datei Dateiname="PERMANENTWAY\DEUTSCHLAND\1435MM\REGELOBERBAU\GLEISTORE\Gleistor_gelb_Tor.lod1.ls3"/>
+<p X="-0.0083" Y="2.5037" Z="-0.0145"/>
+<phi Z="4.715763"/>
+<sk/>
+</Verknuepfte>
+<Animation AniBeschreibung="geschlossen">
+<AniNrs AniNr="1"/>
+</Animation>
+<Animation AniBeschreibung="offen">
+<AniNrs AniNr="2"/>
+</Animation>
+</Landschaft>
+</Zusi>

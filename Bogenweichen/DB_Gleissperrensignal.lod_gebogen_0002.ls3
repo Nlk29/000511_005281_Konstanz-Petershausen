@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=0,5  kr=0,00746430782601237  ue=-0,0241642706096172	  l=0,5  kr=0,00728243682533503  ue=-0,0235179532319307	  l=0,5  kr=0,00710056582465768  ue=-0,0228716339915991	  l=0,5  kr=0,00691869482398033  ue=-0,0222253166139126	  l=0,5  kr=0,00673682382330298  ue=-0,0215789992362261	  l=0,5  kr=0,00655495282262564  ue=-0,0209326818585396	  l=0,5  kr=0,00637308182194829  ue=-0,0202863626182079	  l=0,5  kr=0,00619121082127094  ue=-0,0196400452405214	  l=0,5  kr=0,00600933982059359  ue=-0,0189937278628349	  l=0,800000190734863  kr=0,00582746881991625  ue=-0,0183474104851484	">
+<AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="12">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
+<p X="0.0403" Y="-0.0269" Z="-0.0427"/>
+<phi Z="0.01939"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="12">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\Lod\DB_Gleissperrensignal.lod1.ls3"/>
+<p X="0.0403" Y="-0.0269" Z="0.0573"/>
+<phi Z="0.01939"/>
+<sk/>
+</Verknuepfte>
+<Animation AniBeschreibung="angelegt"/>
+<Animation AniBeschreibung="abgelegt"/>
+</Landschaft>
+</Zusi>

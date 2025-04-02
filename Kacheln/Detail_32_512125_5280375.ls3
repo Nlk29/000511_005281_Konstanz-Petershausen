@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="1259" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="4.8031" Y="71.4204" Z="400.7375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<lsb Dateiname="Detail_32_512125_5280375.lsb"/>
+<SubSet Cd="00FFFFFF" TypLs3="8" MeterProTex="50" MeshV="1512" MeshI="4392">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\rail.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

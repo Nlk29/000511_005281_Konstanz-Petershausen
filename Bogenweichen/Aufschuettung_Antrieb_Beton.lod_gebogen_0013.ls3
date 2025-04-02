@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=3,78089809417725  kr=-0,0004951186128892  ue=0,0056104389950633	  l=3,78089809417725  kr=-0,000816056679468602  ue=0,0115888500586152	  l=3,78089809417725  kr=-0,00113699503708631  ue=0,0175672508776188	  l=3,78089809417725  kr=-0,00145793298725039  ue=0,0235456600785255	  l=3,78089809417725  kr=-0,00177887105382979  ue=0,0295240692794323	  l=3,78089809417725  kr=-0,00209980900399387  ue=0,0355024710297585	  l=3,78089809417725  kr=-0,00242074788548052  ue=0,0414808802306652	  l=3,78089809417725  kr=-0,00274168606847525  ue=0,047459289431572	  l=3,78089809417725  kr=-0,00306262401863933  ue=0,0534376986324787	  l=4,08089685440063  kr=-0,00338356196880341  ue=0,0594161003828049	">
+<AutorEintrag AutorID="1" AutorName="Carsten Hölscher" AutorEmail="carsten.hoelscher@zusi.de"/>
+<AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="4" SichtbarBis="750" Vorlade="1" LODbit="14">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\lod\Aufschuettung_Antrieb_Beton.lod1.ls3"/>
+<p X="-0.0021" Y="-2.5007" Z="-0.1457"/>
+<phi Z="-0.000832"/>
+<sk X="1.1" Y="0.85"/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>
