@@ -2,7 +2,7 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="16" BoundingR="1259" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
 <p X="4.8031" Y="71.4204" Z="400.7375"/>
 <phi/>
@@ -14,6 +14,9 @@
 <Textur>
 <Datei Dateiname="PermanentWay\Default\rail.dds"/>
 </Textur>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="12" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 </Landschaft>
 </Zusi>

@@ -44,6 +44,12 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="1424" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kacheln\32_510500_5280500.ls3"/>
+<p X="-500" Y="-500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <Ankerpunkt AnkerKat="2" Beschreibung="BÜ-Kn-PhSchneckenburg-Höhenpunkt" Farbe="00FFFF00">
 <p X="1847.6851" Y="-828.0957" Z="400.6697"/>
 <phi/>

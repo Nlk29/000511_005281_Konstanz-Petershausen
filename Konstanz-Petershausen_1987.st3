@@ -1185,12 +1185,11 @@
 </StrElement>
 <StrElement Nr="65" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1101.251" Y="-472.6761" Z="400.4156"/>
-<b X="1182.5967" Y="-511.1841" Z="400.4432"/>
-<InfoNormRichtung vMax="-1">
+<b X="1137.4047" Y="-489.7908" Z="400.4279"/>
+<InfoGegenRichtung vMax="38.8889" km="411.1877">
 <Ereignis Er="1000010" Beschr="Konstanz Fürstenberg Hp"/>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="411.3327"/>
-<NachNorm Nr="1835"/>
+</InfoGegenRichtung>
+<NachNorm Nr="1910"/>
 <NachGegen Nr="64"/>
 </StrElement>
 <StrElement Nr="67" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -22083,15 +22082,13 @@
 </StrElement>
 <StrElement Nr="1682" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1077.354" Y="558.1479" Z="398.9498"/>
-<b X="-1154.807" Y="594.7742" Z="398.9341"/>
-<InfoNormRichtung vMax="38.8889" km="408.8325" Reg="5051">
-<Ereignis Er="6"/>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="408.7469" pos="1" Reg="5051">
+<b X="-1090.9143" Y="564.5603" Z="398.9471"/>
+<InfoGegenRichtung vMax="38.8889" km="409.0046" pos="1" Reg="5051">
 <Ereignis Er="4"/>
 <Ereignis Er="28" Beschr="720"/>
+<Ereignis Er="6"/>
 </InfoGegenRichtung>
-<NachNorm Nr="1684"/>
+<NachNorm Nr="1914"/>
 <NachGegen Nr="1681"/>
 </StrElement>
 <StrElement Nr="1683" spTrass="27.7778" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -22112,7 +22109,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="408.7432" pos="1"/>
 <NachNorm Nr="1688"/>
-<NachGegen Nr="1682"/>
+<NachGegen Nr="1914"/>
 </StrElement>
 <StrElement Nr="1685" spTrass="27.7778" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1155.683" Y="593.1589" Z="398.9341"/>
@@ -26404,7 +26401,7 @@
 <Ereignis Er="1000009" Beschr="Konstanz Fürstenberg Hp"/>
 </InfoGegenRichtung>
 <NachNorm Nr="67"/>
-<NachGegen Nr="65"/>
+<NachGegen Nr="1910"/>
 </StrElement>
 <StrElement Nr="1837" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1136.9008" Y="-493.9816" Z="400.4282"/>
@@ -27780,6 +27777,18 @@
 </InfoGegenRichtung>
 <NachNorm Nr="46"/>
 <NachGegen Nr="47"/>
+</StrElement>
+<StrElement Nr="1910" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="1137.4047" Y="-489.7908" Z="400.4279"/>
+<b X="1182.5967" Y="-511.1841" Z="400.4432"/>
+<NachNorm Nr="1835"/>
+<NachGegen Nr="65"/>
+</StrElement>
+<StrElement Nr="1914" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="-1090.9143" Y="564.5603" Z="398.9471"/>
+<b X="-1154.807" Y="594.7742" Z="398.9341"/>
+<NachNorm Nr="1684"/>
+<NachGegen Nr="1682"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Reichenau Baden D" FahrstrTyp="TypZug" Laenge="575.79">
 <FahrstrStart Ref="295">
