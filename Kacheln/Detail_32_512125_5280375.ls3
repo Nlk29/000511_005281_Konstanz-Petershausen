@@ -30,5 +30,11 @@
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="57" MeshI="198">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="8" MeterProTex="50" MeshV="1512" MeshI="4392">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\rail.dds"/>
+</Textur>
+</SubSet>
 </Landschaft>
 </Zusi>

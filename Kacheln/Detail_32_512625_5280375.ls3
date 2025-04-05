@@ -126,5 +126,17 @@
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="81" MeshI="288">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="8" MeterProTex="50" MeshV="26" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\rail.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="8" MeterProTex="50" MeshV="528" MeshI="1389">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\rail.dds"/>
+</Textur>
+</SubSet>
 </Landschaft>
 </Zusi>
