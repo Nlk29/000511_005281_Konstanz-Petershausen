@@ -20,7 +20,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="667" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="4" BoundingR="668" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kacheln\32_509500_5281500.ls3"/>
 <p X="-1500" Y="500"/>
 <phi/>
@@ -38,7 +38,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="680" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="4" BoundingR="685" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kacheln\32_510500_5281500.ls3"/>
 <p X="-500" Y="500"/>
 <phi/>
