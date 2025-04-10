@@ -8,18 +8,6 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-BT35_neben_ged.lod.ls3"/>
-<p X="-500" Y="-500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_ged.lod.ls3"/>
-<p X="-500" Y="-500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_l.lod.ls3"/>
 <p X="-403.4208" Y="-497.0752" Z="400.0737"/>
@@ -36,12 +24,6 @@
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_l.lod.ls3"/>
 <p X="-477.4254" Y="-466.4228" Z="400.0208"/>
 <phi Z="5.841459"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\Unterfuehrung_Fahrrad\Unterfuehrung_Fahrrad.lod.ls3"/>
-<p X="-500" Y="-500"/>
-<phi/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_511500_5281500.lsb"/>

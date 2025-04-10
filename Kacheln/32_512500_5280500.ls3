@@ -1514,11 +1514,251 @@
 <phi Z="-0.4433"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2040" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000455_005689_Eversberg\Objekte\Eversberg_03_Stw_Evf\Eversberg_03_Stw_Evf.lod.ls3"/>
-<p X="362.6755" Y="-325.0401" Z="400.6575"/>
-<phi Z="1.12901"/>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000415_005704_Froendenberg\Objekte\Froendenberg_17_Bretterbude\Froendenberg_17_Bude.lod.ls3"/>
+<p X="361.0583" Y="-324.9698" Z="400.6575"/>
+<phi Z="2.699806"/>
 <sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="51" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005691_Hagen_Hbf\Objekte\Hagen_Hbf_21_Stadtkulisse\Hagen_Hbf_21_Boeler-Eck-Block-8.lod.ls3"/>
+<p X="477.1881" Y="-344.596" Z="400.7104"/>
+<phi Z="1.131464"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Empfang_Peter\KoPf_Empfang_Peter.lod.ls3"/>
+<p X="439.6555" Y="-360.484" Z="400.7009"/>
+<phi Z="-1.971595"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="404.8444" Y="-335.8091" Z="400.7206"/>
+<phi Z="2.354333"/>
+<sk X="1.1529" Y="1.1529" Z="1.1529"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="392.285" Y="-320.2443" Z="400.7227"/>
+<phi Z="1.658503"/>
+<sk X="1.2593" Y="1.2593" Z="1.2593"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="377.0653" Y="-320.1947" Z="400.7389"/>
+<phi Z="-2.26301"/>
+<sk X="1.0252" Y="1.0252" Z="1.0252"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="408.8604" Y="-324.8521" Z="400.6969"/>
+<phi Z="-2.625825"/>
+<sk X="1.0267" Y="1.0267" Z="1.0267"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="391.2404" Y="-334.3144" Z="400.7275"/>
+<phi Z="-2.663761"/>
+<sk X="0.77" Y="0.77" Z="0.77"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="381.2343" Y="-307.2359" Z="400.799"/>
+<phi Z="-1.550664"/>
+<sk X="0.9362" Y="0.9362" Z="0.9362"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="368.4821" Y="-322.3653" Z="400.7372"/>
+<phi Z="-0.734871"/>
+<sk X="1.2734" Y="1.2734" Z="1.2734"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="387.9198" Y="-325.9243" Z="400.7139"/>
+<phi Z="0.012737"/>
+<sk X="1.1626" Y="1.1626" Z="1.1626"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="396.4823" Y="-313.9149" Z="400.7497"/>
+<phi Z="0.993662"/>
+<sk X="1.0711" Y="1.0711" Z="1.0711"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="381.8667" Y="-311.6721" Z="400.7762"/>
+<phi Z="-1.882196"/>
+<sk X="1.1701" Y="1.1701" Z="1.1701"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="397.3956" Y="-324.2758" Z="400.704"/>
+<phi Z="-1.656015"/>
+<sk X="0.8914" Y="0.8914" Z="0.8914"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="376.4237" Y="-306.8355" Z="400.806"/>
+<phi Z="1.012668"/>
+<sk X="1.1359" Y="1.1359" Z="1.1359"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="408.0848" Y="-346.7013" Z="400.739"/>
+<phi Z="0.737549"/>
+<sk X="0.8914" Y="0.8914" Z="0.8914"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_W123\D_W123_gruen.lod.ls3"/>
+<p X="422.2502" Y="-340.5125" Z="400.7231"/>
+<phi Z="7.873558"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="412.9726" Y="-337.519" Z="400.7859"/>
+<phi Z="0.244706"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
+<p X="435.4773" Y="-356.1447" Z="400.7859"/>
+<phi Z="0.244706"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_Golf1\vw_golf1_2t_ws.lod.ls3"/>
+<p X="426.8581" Y="-344.2649" Z="400.7231"/>
+<phi Z="2.647469"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
+<p X="490.3405" Y="-393.5333" Z="400.6983"/>
+<phi Z="2.700333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
+<p X="471.6116" Y="-385.5542" Z="400.6947"/>
+<phi Z="2.700333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
+<p X="453.5273" Y="-377.0127" Z="400.691"/>
+<phi Z="2.700333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleismitte.ls3"/>
+<p X="454.2187" Y="-374.6522" Z="400.6907"/>
+<phi Z="2.737893"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisrand2m.ls3"/>
+<p X="454.2187" Y="-374.6522" Z="400.6907"/>
+<phi Z="2.737893"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisrand2m.ls3"/>
+<p X="454.2187" Y="-374.6522" Z="400.6907"/>
+<phi Z="-0.415085"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Pilzleuchte01_5m.lod.ls3"/>
+<p X="383.0817" Y="-320.9774" Z="400.7361"/>
+<phi Z="1.452402"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Pilzleuchte01_5m.lod.ls3"/>
+<p X="394.9587" Y="-329.0034" Z="400.7179"/>
+<phi Z="3.708111"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="468.0479" Y="-374.3462" Z="395.6817"/>
+<phi Z="1.180552"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="465.2354" Y="-373.0571" Z="395.6817"/>
+<phi Z="1.143736"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="401.1843" Y="-340.9499" Z="400.7388"/>
+<phi Z="0.356358"/>
+<sk X="1.0182" Y="1.0182" Z="1.0182"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="424.6262" Y="-353.3576" Z="400.7736"/>
+<phi Z="-0.564039"/>
+<sk X="0.9294" Y="0.9294" Z="0.9294"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="446.4156" Y="-358.5114" Z="400.822"/>
+<phi Z="0.534243"/>
+<sk X="0.8204" Y="0.8204" Z="0.8204"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="465.5098" Y="-364.4622" Z="400.5407"/>
+<phi Z="-0.59716"/>
+<sk X="0.9098" Y="0.9098" Z="0.9098"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="484.604" Y="-370.4129" Z="400.4662"/>
+<phi Z="-1.294305"/>
+<sk X="0.9146" Y="0.9146" Z="0.9146"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="498.0043" Y="-374.3304" Z="400.5031"/>
+<phi Z="2.533754"/>
+<sk X="0.9668" Y="0.9668" Z="0.9668"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="494.8289" Y="-359.0616" Z="400.7763"/>
+<phi Z="1.309004"/>
+<sk X="1.1825" Y="1.1825" Z="1.1825"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="485.8715" Y="-358.319" Z="400.7188"/>
+<phi Z="2.474505"/>
+<sk X="0.9541" Y="0.9541" Z="0.9541"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="476.9141" Y="-350.1701" Z="400.7011"/>
+<phi Z="1.649161"/>
+<sk X="0.8731" Y="0.8731" Z="0.8731"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="476.787" Y="-373.8975" Z="400.3521"/>
+<phi Z="-0.590223"/>
+<sk X="0.9685" Y="0.9685" Z="0.9685"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="486.261" Y="-377.098" Z="400.3757"/>
+<phi Z="0.758259"/>
+<sk X="0.9372" Y="0.9372" Z="0.9372"/>
 </Verknuepfte>
 <lsb Dateiname="32_512500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeterProTex="5" MeterProTex2="10" MeshV="729" MeshI="1224">
@@ -2452,6 +2692,45 @@
 </Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="2" zBias="-5" MeshV="34" MeshI="96">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="2" zBias="-5" MeshV="32" MeshI="90">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" zBias="-3" MeshV="22" MeshI="60">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="14" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel03.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="24" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\38cm\38cm_Naturstein_Split.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

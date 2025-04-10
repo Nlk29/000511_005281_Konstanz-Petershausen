@@ -1172,24 +1172,6 @@
 <phi Z="2.269878"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahlblech1_grau.lod.ls3"/>
-<p X="-92.9392" Y="353.0386" Z="400.7882"/>
-<phi Z="2.269878"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahlblech1_grau.lod.ls3"/>
-<p X="-105.8096" Y="368.3472" Z="400.7846"/>
-<phi Z="2.269878"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahlblech1_grau.lod.ls3"/>
-<p X="-118.6797" Y="383.6559" Z="400.7809"/>
-<phi Z="2.269878"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh0-scheibe.lod.ls3"/>
 <p X="-80.1021" Y="336.5261" Z="402.0919"/>
@@ -1206,6 +1188,72 @@
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh0-scheibe.lod.ls3"/>
 <p X="-276.2561" Y="447.4954" Z="402.049"/>
 <phi Z="2.263224"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
+<p X="-239.5437" Y="477.9979" Z="400.7529"/>
+<phi Z="2.695502"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
+<p X="-256.8111" Y="486.549" Z="400.7493"/>
+<phi Z="2.700333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
+<p X="-274.3272" Y="495.3156" Z="400.7456"/>
+<phi Z="2.700333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gleisfeldleuchte_10m_Rundmast.lod.ls3"/>
+<p X="-154.7205" Y="424.1869" Z="400.771"/>
+<phi Z="2.566293"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gleisfeldleuchte_10m_Rundmast.lod.ls3"/>
+<p X="-180.8508" Y="439.74" Z="400.7656"/>
+<phi Z="2.609437"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gleisfeldleuchte_10m_Rundmast.lod.ls3"/>
+<p X="-207.8538" Y="454.0326" Z="400.76"/>
+<phi Z="2.619209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gleisfeldleuchte_10m_Rundmast.lod.ls3"/>
+<p X="-234.3" Y="468.4236" Z="400.7546"/>
+<phi Z="2.68644"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-143.2305" Y="405.8409" Z="400.7169"/>
+<phi Z="-2.273304"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-122.6477" Y="384.4905" Z="400.7803"/>
+<phi Z="-2.400786"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-103.342" Y="361.5275" Z="400.7858"/>
+<phi Z="-2.400786"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-84.0366" Y="338.5645" Z="400.7913"/>
+<phi Z="-2.400786"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>

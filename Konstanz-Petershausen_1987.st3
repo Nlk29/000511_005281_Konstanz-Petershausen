@@ -693,31 +693,8 @@
 </StrElement>
 <StrElement Nr="21" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1855.209" Y="-829.3507" Z="400.6711"/>
-<b X="1848.504" Y="-826.3074" Z="400.6698"/>
-<InfoNormRichtung vMax="38.8889" km="412.0767"/>
-<InfoGegenRichtung vMax="38.8889" km="412.0694" pos="1"/>
-<NachNorm Nr="22"/>
-<NachGegen Nr="41"/>
-</StrElement>
-<StrElement Nr="22" spTrass="38.8889" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="1848.504" Y="-826.3074" Z="400.6698"/>
-<b X="1842.506" Y="-823.5851" Z="400.6678"/>
-<InfoNormRichtung vMax="38.8889" km="412.0694">
-<Ereignis Er="1000027" Wert="334" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
-<p X="1848.46" Y="-826.29" Z="400.67"/>
-<phi/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag/>
-<MatrixEintrag MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="412.0628" pos="1">
+<b X="1795.1219" Y="-801.1538" Z="400.6516"/>
+<InfoNormRichtung vMax="38.8889" km="412.0767">
 <Ereignis Er="1000027" Wert="333" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
 <p X="1848.46" Y="-826.29" Z="400.67"/>
@@ -731,9 +708,25 @@
 <MatrixEintrag/>
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="38.8889" km="412.0694" pos="1">
+<Ereignis Er="1000027" Wert="334" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
+<Ereignis Er="4"/>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
+<p X="1848.46" Y="-826.29" Z="400.67"/>
+<phi/>
+<KoppelSignal ReferenzNr="329">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
-<NachNorm Nr="50"/>
-<NachGegen Nr="21"/>
+<NachNorm Nr="435"/>
+<NachGegen Nr="41"/>
 </StrElement>
 <StrElement Nr="23" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="68.4771" Y="16.228" Z="400.0641"/>
@@ -1120,16 +1113,6 @@
 </InfoGegenRichtung>
 <NachNorm Nr="472"/>
 <NachGegen Nr="47"/>
-</StrElement>
-<StrElement Nr="50" spTrass="38.8889" Anschluss="1" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="1795.1219" Y="-801.1538" Z="400.6516"/>
-<b X="1842.506" Y="-823.5851" Z="400.6678"/>
-<InfoNormRichtung vMax="38.8889" km="412.0103" pos="1" Reg="5007">
-<Ereignis Er="4"/>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="412.0628" Reg="5007"/>
-<NachNorm Nr="22"/>
-<NachGegen Nr="435"/>
 </StrElement>
 <StrElement Nr="51" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1604.48" Y="-715.3303" Z="400.5874"/>
@@ -8623,7 +8606,7 @@
 <NachNorm Nr="444"/>
 <NachGegen Nr="1542"/>
 </StrElement>
-<StrElement Nr="435" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<StrElement Nr="435" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1795.1219" Y="-801.1538" Z="400.6516"/>
 <b X="1794.037" Y="-800.6404" Z="400.6513"/>
 <InfoNormRichtung vMax="-1" km="412.0103" pos="1" Reg="5025">
@@ -8838,7 +8821,7 @@
 <InfoGegenRichtung vMax="-1" km="412.0092" pos="1" Reg="5025"/>
 <NachNorm Nr="436"/>
 <NachNorm Nr="438"/>
-<NachGegen Nr="50"/>
+<NachGegen Nr="21"/>
 </StrElement>
 <StrElement Nr="436" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1794.037" Y="-800.6404" Z="400.6513"/>
@@ -9163,6 +9146,53 @@
 <b X="2261.9468" Y="-1019.39" Z="400.7528"/>
 <InfoNormRichtung vMax="27.7778" km="412.5195" pos="1">
 <Ereignis Er="1000009" Beschr="Konstanz Petershausen"/>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" BoundingR="10">
+<p X="2260.561" Y="-1021.7686" Z="404.7528"/>
+<phi Z="-0.482083"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Sonstiges\DB_Fahrtanzeiger.Lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+</Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="412.5258"/>
 <NachNorm Nr="475"/>
@@ -12995,7 +13025,9 @@
 <StrElement Nr="744" kr="0.000799" spTrass="3.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1926.915" Y="-862.4225" Z="400.6855"/>
 <b X="1939.87" Y="-868.3088" Z="400.6881"/>
-<InfoNormRichtung vMax="3.3333" km="412.1557" pos="1"/>
+<InfoNormRichtung vMax="3.3333" km="412.1557" pos="1">
+<Ereignis Er="1000010"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="3.3333" km="412.1699"/>
 <NachNorm Nr="745"/>
 <NachGegen Nr="41"/>
@@ -13016,6 +13048,53 @@
 <InfoNormRichtung vMax="3.3333" km="412.1841" pos="1"/>
 <InfoGegenRichtung vMax="3.3333" km="412.1984">
 <Ereignis Er="1000012" Beschr="Konstanz Petershausen"/>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" BoundingR="10">
+<p X="1953.6652" Y="-876.768" Z="404.6907"/>
+<phi Z="2.633173"/>
+<SignalFrame>
+<p/>
+<phi Z="0.087266"/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Sonstiges\DB_Fahrtanzeiger.Lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="747"/>
 <NachGegen Nr="745"/>
@@ -13033,6 +13112,7 @@
 <b X="1992.337" Y="-890.3702" Z="400.6985"/>
 <InfoNormRichtung vMax="3.3333" km="412.2126" pos="1"/>
 <InfoGegenRichtung vMax="3.3333" km="412.2268">
+<Ereignis Er="1000007"/>
 <Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
 <p X="1978.3278" Y="-887.0748" Z="402.6959"/>
 <phi Z="2.760615"/>
@@ -27294,6 +27374,53 @@
 <b X="2259.6526" Y="-1024.9873" Z="400.7529"/>
 <InfoNormRichtung vMax="-1">
 <Ereignis Er="1000012" Beschr="Konstanz Petershausen"/>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" BoundingR="10">
+<p X="2260.2969" Y="-1022.1918" Z="404.7529"/>
+<phi Z="-0.44609"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Sonstiges\DB_Fahrtanzeiger.Lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+</Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1"/>
 <NachNorm Nr="1831"/>
@@ -27304,6 +27431,53 @@
 <b X="2008.993" Y="-906.5281" Z="400.7025"/>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000009" Beschr="Konstanz Petershausen"/>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" BoundingR="10">
+<p X="1953.4497" Y="-877.2524" Z="404.6906"/>
+<phi Z="2.700333"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Sonstiges\DB_Fahrtanzeiger.Lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="97"/>
 <NachGegen Nr="96"/>
@@ -28875,7 +29049,7 @@
 <g X="326.6707" Y="-105.998" Z="400.152"/>
 <b X="375.0262" Y="-128.889" Z="400.1685"/>
 <InfoNormRichtung vMax="-1">
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="6" BoundingR="10">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="AAv" SignalTyp="6" BoundingR="10">
 <p X="376.3654" Y="-126.06" Z="400.1685"/>
 <phi Z="-0.442134"/>
 <SignalFrame>
@@ -29068,8 +29242,8 @@
 <b X="-757.4241" Y="402.4319" Z="399.1059"/>
 <InfoNormRichtung vMax="38.8889" km="409.1389" pos="1" Reg="5066"/>
 <InfoGegenRichtung vMax="-1" Reg="5066">
-<Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="AA" SignalTyp="13" BoundingR="10">
-<p X="-803.3908" Y="420.74" Z="399.0536"/>
+<Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="A\" SignalTyp="13" BoundingR="10">
+<p X="-803.3909" Y="420.7401" Z="399.0536"/>
 <phi Z="2.699866"/>
 <SignalFrame>
 <p Z="0.3"/>
@@ -29123,7 +29297,7 @@
 <p Y="-0.21" Z="1.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1995_DBAG\Nebensignale\Ne1Km\8.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1995_DBAG\Nebensignale\Ne1Km\9.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="-3.1"/>
@@ -30097,6 +30271,210 @@
 <b X="768.1351" Y="-319.4108" Z="400.3028"/>
 <NachNorm Nr="78"/>
 <NachGegen Nr="76"/>
+</StrElement>
+<StrElement Nr="2077" spTrass="27.7778" Fkt="2">
+<g X="1864.7931" Y="-814.2873" Z="400.7812"/>
+<b X="1868.9625" Y="-816.6913" Z="400.7648"/>
+<NachNorm Nr="2078"/>
+</StrElement>
+<StrElement Nr="2078" spTrass="27.7778" Fkt="2">
+<g X="1868.9625" Y="-816.6913" Z="400.7648"/>
+<b X="1870.7781" Y="-817.2646" Z="400.76"/>
+<NachNorm Nr="2079"/>
+</StrElement>
+<StrElement Nr="2079" spTrass="27.7778" Fkt="2">
+<g X="1870.7781" Y="-817.2646" Z="400.76"/>
+<b X="1872.6173" Y="-816.6268" Z="400.7613"/>
+<NachNorm Nr="2080"/>
+</StrElement>
+<StrElement Nr="2080" spTrass="27.7778" Fkt="2">
+<g X="1872.6173" Y="-816.6268" Z="400.7613"/>
+<b X="1874.0115" Y="-816.353" Z="400.7612"/>
+<NachNorm Nr="2081"/>
+</StrElement>
+<StrElement Nr="2081" spTrass="27.7778" Fkt="2">
+<g X="1874.0115" Y="-816.353" Z="400.7612"/>
+<b X="1875.4584" Y="-815.8699" Z="400.7621"/>
+<NachNorm Nr="2082"/>
+</StrElement>
+<StrElement Nr="2082" spTrass="27.7778" Fkt="2">
+<g X="1875.4584" Y="-815.8699" Z="400.7621"/>
+<b X="1877.3995" Y="-814.8515" Z="400.7651"/>
+<NachNorm Nr="2083"/>
+</StrElement>
+<StrElement Nr="2083" spTrass="27.7778" Fkt="2">
+<g X="1877.3995" Y="-814.8515" Z="400.7651"/>
+<b X="1878.7926" Y="-814.0877" Z="400.7674"/>
+<NachNorm Nr="2084"/>
+</StrElement>
+<StrElement Nr="2084" spTrass="27.7778" Fkt="2">
+<g X="1878.7926" Y="-814.0877" Z="400.7674"/>
+<b X="1880.7533" Y="-813.3549" Z="400.769"/>
+<NachNorm Nr="2085"/>
+</StrElement>
+<StrElement Nr="2085" spTrass="27.7778" Fkt="2">
+<g X="1880.7533" Y="-813.3549" Z="400.769"/>
+<b X="1881.6893" Y="-813.3997" Z="400.7678"/>
+<NachNorm Nr="2086"/>
+</StrElement>
+<StrElement Nr="2086" spTrass="27.7778" Fkt="2">
+<g X="1881.6893" Y="-813.3997" Z="400.7678"/>
+<b X="1882.9757" Y="-813.4755" Z="400.7661"/>
+<NachNorm Nr="2095"/>
+</StrElement>
+<StrElement Nr="2090" spTrass="27.7778" Fkt="2">
+<g X="1885.4454" Y="-812.4708" Z="400.7685"/>
+<b X="1887.7505" Y="-807.8893" Z="400.7888"/>
+<NachNorm Nr="2091"/>
+</StrElement>
+<StrElement Nr="2091" spTrass="27.7778" Fkt="2">
+<g X="1887.7505" Y="-807.8893" Z="400.7888"/>
+<b X="1887.9363" Y="-805.8091" Z="400.799"/>
+<NachNorm Nr="2092"/>
+</StrElement>
+<StrElement Nr="2092" spTrass="27.7778" Fkt="2">
+<g X="1887.9363" Y="-805.8091" Z="400.799"/>
+<b X="1887.7059" Y="-804.5761" Z="400.8054"/>
+<NachNorm Nr="2093"/>
+</StrElement>
+<StrElement Nr="2093" spTrass="27.7778" Fkt="2">
+<g X="1887.7059" Y="-804.5761" Z="400.8054"/>
+<b X="1887.7607" Y="-803.4122" Z="400.811"/>
+<NachNorm Nr="2094"/>
+</StrElement>
+<StrElement Nr="2094" spTrass="27.7778" Fkt="2">
+<g X="1887.7607" Y="-803.4122" Z="400.811"/>
+<b X="1887.6437" Y="-802.5782" Z="400.8124"/>
+</StrElement>
+<StrElement Nr="2095" spTrass="27.7778" Fkt="2">
+<g X="1882.9757" Y="-813.4755" Z="400.7661"/>
+<b X="1885.4454" Y="-812.4708" Z="400.7685"/>
+<NachNorm Nr="2090"/>
+</StrElement>
+<StrElement Nr="2096" spTrass="27.7778" Fkt="2">
+<g X="1878.7545" Y="-814.1509" Z="400.7672"/>
+<b X="1882.2964" Y="-819.6415" Z="400.7361"/>
+<NachNorm Nr="2097"/>
+</StrElement>
+<StrElement Nr="2097" spTrass="27.7778" Fkt="2">
+<g X="1882.2964" Y="-819.6415" Z="400.7361"/>
+<b X="1882.139" Y="-820.9643" Z="400.7297"/>
+<NachNorm Nr="2098"/>
+</StrElement>
+<StrElement Nr="2098" spTrass="27.7778" Fkt="2">
+<g X="1882.139" Y="-820.9643" Z="400.7297"/>
+<b X="1880.8688" Y="-822.8832" Z="400.7215"/>
+<NachNorm Nr="2099"/>
+</StrElement>
+<StrElement Nr="2099" spTrass="27.7778" Fkt="2">
+<g X="1880.8688" Y="-822.8832" Z="400.7215"/>
+<b X="1879.9263" Y="-826.0738" Z="400.7198"/>
+<NachNorm Nr="2100"/>
+</StrElement>
+<StrElement Nr="2100" spTrass="27.7778" Fkt="2">
+<g X="1879.9263" Y="-826.0738" Z="400.7198"/>
+<b X="1880.5062" Y="-829.8975" Z="400.7267"/>
+<NachNorm Nr="2101"/>
+</StrElement>
+<StrElement Nr="2101" spTrass="27.7778" Fkt="2">
+<g X="1880.5062" Y="-829.8975" Z="400.7267"/>
+<b X="1882.1216" Y="-831.2215" Z="400.7281"/>
+<NachNorm Nr="2102"/>
+</StrElement>
+<StrElement Nr="2102" spTrass="27.7778" Fkt="2">
+<g X="1882.1216" Y="-831.2215" Z="400.7281"/>
+<b X="1884.7429" Y="-831.8167" Z="400.7273"/>
+<NachNorm Nr="2103"/>
+</StrElement>
+<StrElement Nr="2103" spTrass="27.7778" Fkt="2">
+<g X="1884.7429" Y="-831.8167" Z="400.7273"/>
+<b X="1890.2594" Y="-828.9214" Z="400.7179"/>
+<NachNorm Nr="2104"/>
+</StrElement>
+<StrElement Nr="2104" spTrass="27.7778" Fkt="2">
+<g X="1890.2594" Y="-828.9214" Z="400.7179"/>
+<b X="1895.295" Y="-825.7184" Z="400.7082"/>
+<NachNorm Nr="2105"/>
+</StrElement>
+<StrElement Nr="2105" spTrass="27.7778" Fkt="2">
+<g X="1895.295" Y="-825.7184" Z="400.7082"/>
+<b X="1900.8174" Y="-827.5161" Z="400.7077"/>
+<NachNorm Nr="2106"/>
+</StrElement>
+<StrElement Nr="2106" spTrass="27.7778" Fkt="2">
+<g X="1900.8174" Y="-827.5161" Z="400.7077"/>
+<b X="1904.2867" Y="-828.0101" Z="400.7061"/>
+<NachNorm Nr="2107"/>
+</StrElement>
+<StrElement Nr="2107" spTrass="27.7778" Fkt="2">
+<g X="1904.2867" Y="-828.0101" Z="400.7061"/>
+<b X="1909.0272" Y="-826.8488" Z="400.7006"/>
+<NachNorm Nr="2108"/>
+</StrElement>
+<StrElement Nr="2108" spTrass="27.7778" Fkt="2">
+<g X="1909.0272" Y="-826.8488" Z="400.7006"/>
+<b X="1917.3219" Y="-826.6696" Z="400.6943"/>
+<NachNorm Nr="2109"/>
+</StrElement>
+<StrElement Nr="2109" spTrass="27.7778" Fkt="2">
+<g X="1917.3219" Y="-826.6696" Z="400.6943"/>
+<b X="1920.7294" Y="-829.1567" Z="400.6966"/>
+<NachNorm Nr="2110"/>
+</StrElement>
+<StrElement Nr="2110" spTrass="27.7778" Fkt="2">
+<g X="1920.7294" Y="-829.1567" Z="400.6966"/>
+<b X="1920.6024" Y="-832.5737" Z="400.7032"/>
+</StrElement>
+<StrElement Nr="2111" spTrass="27.7778" Fkt="2">
+<g X="1917.1982" Y="-843.7" Z="400.7231"/>
+<b X="1928.6432" Y="-849.8654" Z="400.7686"/>
+<NachNorm Nr="2120"/>
+</StrElement>
+<StrElement Nr="2112" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="1932.9987" Y="-850.6729" Z="400.7819"/>
+<b X="1935.9401" Y="-849.9384" Z="400.7859"/>
+<NachNorm Nr="2113"/>
+<NachGegen Nr="2120"/>
+</StrElement>
+<StrElement Nr="2113" spTrass="27.7778" Fkt="2">
+<g X="1935.9401" Y="-849.9384" Z="400.7859"/>
+<b X="1938.4619" Y="-846.3481" Z="400.7754"/>
+<NachNorm Nr="2114"/>
+</StrElement>
+<StrElement Nr="2114" spTrass="27.7778" Fkt="2">
+<g X="1938.4619" Y="-846.3481" Z="400.7754"/>
+<b X="1941.8823" Y="-844.8779" Z="400.7665"/>
+<NachNorm Nr="2115"/>
+</StrElement>
+<StrElement Nr="2115" spTrass="27.7778" Fkt="2">
+<g X="1941.8823" Y="-844.8779" Z="400.7665"/>
+<b X="1945.5808" Y="-845.2941" Z="400.7656"/>
+<NachNorm Nr="2116"/>
+</StrElement>
+<StrElement Nr="2116" spTrass="27.7778" Fkt="2">
+<g X="1945.5808" Y="-845.2941" Z="400.7656"/>
+<b X="1949.5336" Y="-844.726" Z="400.7602"/>
+<NachNorm Nr="2117"/>
+</StrElement>
+<StrElement Nr="2117" spTrass="27.7778" Fkt="2">
+<g X="1949.5336" Y="-844.726" Z="400.7602"/>
+<b X="1951.7983" Y="-841.8088" Z="400.7459"/>
+<NachNorm Nr="2118"/>
+</StrElement>
+<StrElement Nr="2118" spTrass="27.7778" Fkt="2">
+<g X="1951.7983" Y="-841.8088" Z="400.7459"/>
+<b X="1952.9764" Y="-839.1282" Z="400.7335"/>
+<NachNorm Nr="2119"/>
+</StrElement>
+<StrElement Nr="2119" spTrass="27.7778" Fkt="2">
+<g X="1952.9764" Y="-839.1282" Z="400.7335"/>
+<b X="1954.5934" Y="-835.551" Z="400.7168"/>
+</StrElement>
+<StrElement Nr="2120" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="1928.6432" Y="-849.8654" Z="400.7686"/>
+<b X="1932.9987" Y="-850.6729" Z="400.7819"/>
+<NachNorm Nr="2112"/>
+<NachGegen Nr="2111"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Reichenau Baden D" FahrstrTyp="TypZug" Laenge="575.79">
 <FahrstrStart Ref="295">
