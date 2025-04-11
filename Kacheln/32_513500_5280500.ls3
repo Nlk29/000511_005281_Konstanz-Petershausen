@@ -464,6 +464,60 @@
 <phi Z="1.131941"/>
 <sk X="1.1602" Y="1.1602" Z="1.1602"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="77" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_ZGK\KoPf_ZGK.lod.ls3"/>
+<p X="-379.4675" Y="-337.3682" Z="401.2176"/>
+<phi Z="5.870255"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-334.1159" Y="-370.6026" Z="401.2176"/>
+<phi Z="2.721299"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-322.6433" Y="-345.4659" Z="401.2176"/>
+<phi Z="2.728662"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="101" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Berufsschule\AHM_Berufsschule.lod.ls3"/>
+<p X="-302.7741" Y="-438.4646" Z="400.39"/>
+<phi Z="1.159111"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000400_005700_Schwerte\Objekte\Schwerte_24_Westendamm\Schwerte_24_WH_1\Schwerte_24_Parkplatz.lod.ls3"/>
+<p X="-265.0114" Y="-471.4472" Z="400.5647"/>
+<phi Z="1.151324"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005929_Wilhelmsburg\Objekte\AWLB_25_HCU\AWLB_25_HCU.lod.ls3"/>
+<p X="-278.5979" Y="-451.2184" Z="400.5743"/>
+<phi Z="-0.435121"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005929_Wilhelmsburg\Objekte\AWLB_25_HCU\AWLB_25_HCU.lod.ls3"/>
+<p X="-247.2881" Y="-465.4414" Z="400.5647"/>
+<phi Z="2.72212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-228.7139" Y="-498.3002" Z="400.6105"/>
+<phi Z="1.046576"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Garden\BeerGardenBench\BeerGardenBench.lod.ls3"/>
+<p X="-461.8098" Y="-398.2072" Z="400.7096"/>
+<phi Z="-0.322043"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="132" MeshI="252">
 <RenderFlags TexVoreinstellung="3"/>
@@ -940,24 +994,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="2" MeshV="6" MeshI="12">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="2" MeshV="4" MeshI="6">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="16" MeshI="36">

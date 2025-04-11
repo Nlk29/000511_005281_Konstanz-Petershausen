@@ -1256,6 +1256,1098 @@
 <phi Z="-2.400786"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000509_005707_Warburg\Objekte\Haus_1_km143-77\Haus_1_km143-77.lod.ls3"/>
+<p X="-215.0442" Y="502.8793" Z="400.5699"/>
+<phi Z="7.314332"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-230.3684" Y="482.3939" Z="400.7539"/>
+<phi Z="-0.48868"/>
+<sk X="0.477" Y="0.477" Z="0.477"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-225.3057" Y="479.9891" Z="400.7549"/>
+<phi Z="-0.48868"/>
+<sk X="0.7156" Y="0.7156" Z="0.7156"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-221.147" Y="477.7697" Z="400.7557"/>
+<phi Z="-0.493368"/>
+<sk X="1.2273" Y="1.2273" Z="1.2273"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-217.0452" Y="474.7036" Z="400.7567"/>
+<phi Z="-0.498997"/>
+<sk X="0.7232" Y="0.7232" Z="0.7232"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-211.9912" Y="472.4149" Z="400.7576"/>
+<phi Z="-0.505528"/>
+<sk X="1.2989" Y="1.2989" Z="1.2989"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-208.332" Y="469.9716" Z="400.7585"/>
+<phi Z="-0.505528"/>
+<sk X="1.3984" Y="1.3984" Z="1.3984"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-204.0542" Y="467.7676" Z="400.7594"/>
+<phi Z="-0.512791"/>
+<sk X="1.5463" Y="1.5463" Z="1.5463"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-198.9988" Y="464.7667" Z="400.7603"/>
+<phi Z="-0.521433"/>
+<sk X="0.6488" Y="0.6488" Z="0.6488"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-195.0403" Y="463.2578" Z="400.7612"/>
+<phi Z="-0.53081"/>
+<sk X="0.2631" Y="0.2631" Z="0.2631"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-190.8184" Y="460.5952" Z="400.7621"/>
+<phi Z="-0.540932"/>
+<sk X="0.6363" Y="0.6363" Z="0.6363"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-186.269" Y="457.4165" Z="400.7629"/>
+<phi Z="-0.540932"/>
+<sk X="0.8123" Y="0.8123" Z="0.8123"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-182.5708" Y="454.6083" Z="400.7639"/>
+<phi Z="-0.552272"/>
+<sk X="1.3081" Y="1.3081" Z="1.3081"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-177.5303" Y="452.5713" Z="400.7648"/>
+<phi Z="-0.564285"/>
+<sk X="1.5582" Y="1.5582" Z="1.5582"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-165.5659" Y="443.7623" Z="400.7675"/>
+<phi Z="-0.591485"/>
+<sk X="1.1089" Y="1.1089" Z="1.1089"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-160.6819" Y="440.473" Z="400.7684"/>
+<phi Z="-0.606478"/>
+<sk X="1.69" Y="1.69" Z="1.69"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-156.7515" Y="437.833" Z="400.7693"/>
+<phi Z="-0.622221"/>
+<sk X="1.3408" Y="1.3408" Z="1.3408"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-152.5969" Y="435.0422" Z="400.7702"/>
+<phi Z="-0.639177"/>
+<sk X="1.891" Y="1.891" Z="1.891"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-148.2827" Y="432.0671" Z="400.7711"/>
+<phi Z="-0.656885"/>
+<sk X="1.4258" Y="1.4258" Z="1.4258"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-140.5142" Y="425.9652" Z="400.7729"/>
+<phi Z="-0.675465"/>
+<sk X="1.2072" Y="1.2072" Z="1.2072"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-137.0271" Y="424.1461" Z="400.7738"/>
+<phi Z="-0.695225"/>
+<sk X="1.8994" Y="1.8994" Z="1.8994"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-132.8779" Y="419.7865" Z="400.7747"/>
+<phi Z="-0.715759"/>
+<sk X="1.8011" Y="1.8011" Z="1.8011"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-128.6394" Y="415.6864" Z="400.7756"/>
+<phi Z="-0.737376"/>
+<sk X="1.5723" Y="1.5723" Z="1.5723"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-125.4937" Y="412.5663" Z="400.7765"/>
+<phi Z="-0.737376"/>
+<sk X="0.6281" Y="0.6281" Z="0.6281"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-121.1182" Y="409.0492" Z="400.7774"/>
+<phi Z="-0.75954"/>
+<sk X="1.7466" Y="1.7466" Z="1.7466"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-117.9001" Y="405.8231" Z="400.7783"/>
+<phi Z="-0.783038"/>
+<sk X="1.144" Y="1.144" Z="1.144"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-114.4553" Y="401.4977" Z="400.7792"/>
+<phi Z="-0.807302"/>
+<sk X="1.2201" Y="1.2201" Z="1.2201"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-110.5427" Y="397.5901" Z="400.7802"/>
+<phi Z="-0.832634"/>
+<sk X="0.9714" Y="0.9714" Z="0.9714"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-106.8509" Y="394.1906" Z="400.781"/>
+<phi Z="-0.832634"/>
+<sk X="1.8732" Y="1.8732" Z="1.8732"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-103.8054" Y="390.6499" Z="400.7819"/>
+<phi Z="-0.858667"/>
+<sk X="1.0309" Y="1.0309" Z="1.0309"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-101.2573" Y="386.5985" Z="400.795"/>
+<phi Z="-0.872116"/>
+<sk X="0.9994" Y="0.9994" Z="0.9994"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-97.6428" Y="383.2419" Z="400.8179"/>
+<phi Z="-0.872116"/>
+<sk X="1.1721" Y="1.1721" Z="1.1721"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-93.7783" Y="378.7802" Z="400.8409"/>
+<phi Z="-0.872116"/>
+<sk X="1.6374" Y="1.6374" Z="1.6374"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-91.5493" Y="375.3173" Z="400.8639"/>
+<phi Z="-0.872116"/>
+<sk X="1.2053" Y="1.2053" Z="1.2053"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-87.7544" Y="371.9945" Z="400.8696"/>
+<phi Z="-0.872184"/>
+<sk X="1.0018" Y="1.0018" Z="1.0018"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-84.4182" Y="367.4877" Z="400.8705"/>
+<phi Z="-0.872146"/>
+<sk X="1.0324" Y="1.0324" Z="1.0324"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-81.417" Y="363.8782" Z="400.8714"/>
+<phi Z="-0.872146"/>
+<sk X="1.4145" Y="1.4145" Z="1.4145"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000390_005704_Do-Barop\Objekte\02_Do_Barop-Stw\02_Do_Barop-Stw.lod.ls3"/>
+<p X="-65.0118" Y="350.834" Z="400.4402"/>
+<phi Z="6.981829"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-224.3972" Y="499.1769" Z="400.6067"/>
+<phi Z="1.046576"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-220.0803" Y="496.6541" Z="400.6029"/>
+<phi Z="1.046576"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-211.4514" Y="491.4469" Z="400.5757"/>
+<phi Z="1.0309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-207.1338" Y="488.7762" Z="400.5374"/>
+<phi Z="1.015349"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-202.8977" Y="486.1198" Z="400.4837"/>
+<phi Z="1.015349"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-198.613" Y="483.3948" Z="400.4488"/>
+<phi Z="0.999747"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-190.1685" Y="477.8936" Z="400.4367"/>
+<phi Z="0.984056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-186.0176" Y="475.106" Z="400.4419"/>
+<phi Z="0.984056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-181.8027" Y="472.2736" Z="400.4469"/>
+<phi Z="0.968405"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-177.696" Y="469.4213" Z="400.4346"/>
+<phi Z="0.968405"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-173.5894" Y="466.5691" Z="400.4223"/>
+<phi Z="0.968405"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-165.394" Y="460.7046" Z="400.4809"/>
+<phi Z="0.952846"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-161.2976" Y="457.7042" Z="400.4781"/>
+<phi Z="0.937233"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
+<p X="-157.2817" Y="454.7253" Z="400.4527"/>
+<phi Z="0.937233"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauertor-3.lod.ls3"/>
+<p X="-215.7283" Y="494.0371" Z="400.5904"/>
+<phi Z="1.0309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000497_005731_Buke\Objekte\Wohnhaus_2Etg_V2\Wh-2Etg-V2-2-2.lod.ls3"/>
+<p X="-189.8894" Y="487.5494" Z="400.447"/>
+<phi Z="4.120986"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauertor-3.lod.ls3"/>
+<p X="-194.4189" Y="480.6726" Z="400.4414"/>
+<phi Z="0.999747"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000449_005689_Meschede\Objekte\Meschede_63_Kolping_Haus_2\Meschede_63_Kolping_Haus_1.lod.ls3"/>
+<p X="-168.9165" Y="474.1741" Z="400.4938"/>
+<phi Z="4.089776"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauertor-3.lod.ls3"/>
+<p X="-169.4558" Y="463.6205" Z="400.4473"/>
+<phi Z="0.952846"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000504_005743_Bergheim\Objekte\Haus_km97_4\Haus_km97_4.lod.ls3"/>
+<p X="-140.4305" Y="456.2019" Z="400.4267"/>
+<phi Z="0.916903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-52.3169" Y="329.6055" Z="400.8571"/>
+<phi Z="-0.882441"/>
+<sk X="0.4375" Y="0.4375" Z="0.4375"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-49.9006" Y="325.4598" Z="400.89"/>
+<phi Z="-0.882441"/>
+<sk X="0.8818" Y="0.8818" Z="0.8818"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-46.8337" Y="321.7915" Z="400.9228"/>
+<phi Z="-0.903224"/>
+<sk X="1.3988" Y="1.3988" Z="1.3988"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-43.3855" Y="317.4468" Z="400.9558"/>
+<phi Z="-0.903224"/>
+<sk X="0.9706" Y="0.9706" Z="0.9706"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-40.0073" Y="313.9972" Z="400.9887"/>
+<phi Z="-0.917971"/>
+<sk X="1.5623" Y="1.5623" Z="1.5623"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-36.9644" Y="309.7611" Z="401.0215"/>
+<phi Z="-0.928247"/>
+<sk X="1.6647" Y="1.6647" Z="1.6647"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-34.2263" Y="305.5946" Z="401.0544"/>
+<phi Z="-0.944734"/>
+<sk X="0.9746" Y="0.9746" Z="0.9746"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-31.0435" Y="301.4478" Z="401.0872"/>
+<phi Z="-0.965406"/>
+<sk X="1.0125" Y="1.0125" Z="1.0125"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-28.0737" Y="297.1254" Z="401.1202"/>
+<phi Z="-0.965406"/>
+<sk X="1.377" Y="1.377" Z="1.377"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-25.467" Y="292.7881" Z="401.1531"/>
+<phi Z="-0.986231"/>
+<sk X="1.5383" Y="1.5383" Z="1.5383"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-22.9663" Y="289.3179" Z="401.1859"/>
+<phi Z="-0.986231"/>
+<sk X="1.5674" Y="1.5674" Z="1.5674"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-19.772" Y="284.54" Z="401.2188"/>
+<phi Z="-1.006965"/>
+<sk X="0.8043" Y="0.8043" Z="0.8043"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-17.1663" Y="280.3153" Z="401.2517"/>
+<phi Z="-1.006965"/>
+<sk X="0.863" Y="0.863" Z="0.863"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-14.2783" Y="276.4949" Z="401.2846"/>
+<phi Z="-1.027693"/>
+<sk X="1.6736" Y="1.6736" Z="1.6736"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-12.1414" Y="272.1056" Z="401.3175"/>
+<phi Z="-1.048495"/>
+<sk X="0.9629" Y="0.9629" Z="0.9629"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-9.8997" Y="267.7062" Z="401.3503"/>
+<phi Z="-1.048495"/>
+<sk X="1.3719" Y="1.3719" Z="1.3719"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-7.1265" Y="262.7593" Z="401.3832"/>
+<phi Z="-1.069295"/>
+<sk X="1.6107" Y="1.6107" Z="1.6107"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-4.467" Y="258.6812" Z="401.4161"/>
+<phi Z="-1.069295"/>
+<sk X="0.651" Y="0.651" Z="0.651"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-2.3833" Y="254.2462" Z="401.449"/>
+<phi Z="-1.089934"/>
+<sk X="1.3565" Y="1.3565" Z="1.3565"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="0.5803" Y="249.6897" Z="401.4819"/>
+<phi Z="-1.110673"/>
+<sk X="1.6503" Y="1.6503" Z="1.6503"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="2.1602" Y="244.5983" Z="401.5148"/>
+<phi Z="-1.110673"/>
+<sk X="1.42" Y="1.42" Z="1.42"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-60.3059" Y="323.5477" Z="400.8571"/>
+<phi Z="-0.882441"/>
+<sk X="0.8253" Y="0.8253" Z="0.8253"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-57.1104" Y="319.5011" Z="400.89"/>
+<phi Z="-0.882441"/>
+<sk X="1.7568" Y="1.7568" Z="1.7568"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-54.626" Y="315.3455" Z="400.9228"/>
+<phi Z="-0.903224"/>
+<sk X="0.8063" Y="0.8063" Z="0.8063"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-51.2004" Y="311.7544" Z="400.9558"/>
+<phi Z="-0.903224"/>
+<sk X="0.8042" Y="0.8042" Z="0.8042"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-47.9536" Y="307.9163" Z="400.9887"/>
+<phi Z="-0.917971"/>
+<sk X="1.108" Y="1.108" Z="1.108"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-44.6746" Y="303.9169" Z="401.0215"/>
+<phi Z="-0.928247"/>
+<sk X="0.6447" Y="0.6447" Z="0.6447"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-41.8696" Y="299.5625" Z="401.0544"/>
+<phi Z="-0.944734"/>
+<sk X="1.1912" Y="1.1912" Z="1.1912"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-39.3108" Y="296.2432" Z="401.0872"/>
+<phi Z="-0.965406"/>
+<sk X="0.2912" Y="0.2912" Z="0.2912"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-36.2212" Y="291.5122" Z="401.1202"/>
+<phi Z="-0.965406"/>
+<sk X="1.311" Y="1.311" Z="1.311"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-33.6531" Y="287.4269" Z="401.1531"/>
+<phi Z="-0.986231"/>
+<sk X="1.1318" Y="1.1318" Z="1.1318"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-30.583" Y="283.3958" Z="401.1859"/>
+<phi Z="-0.986231"/>
+<sk X="0.9796" Y="0.9796" Z="0.9796"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-28.6069" Y="279.5824" Z="401.2188"/>
+<phi Z="-1.006965"/>
+<sk X="0.793" Y="0.793" Z="0.793"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-25.1082" Y="275.0538" Z="401.2517"/>
+<phi Z="-1.006965"/>
+<sk X="0.5282" Y="0.5282" Z="0.5282"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-23.4275" Y="271.0962" Z="401.2846"/>
+<phi Z="-1.027693"/>
+<sk X="1.0016" Y="1.0016" Z="1.0016"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-20.3669" Y="266.9045" Z="401.3175"/>
+<phi Z="-1.048495"/>
+<sk X="1.6699" Y="1.6699" Z="1.6699"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-18.0295" Y="262.4471" Z="401.3503"/>
+<phi Z="-1.048495"/>
+<sk X="1.9477" Y="1.9477" Z="1.9477"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-15.8167" Y="258.1516" Z="401.3832"/>
+<phi Z="-1.069295"/>
+<sk X="0.9624" Y="0.9624" Z="0.9624"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-13.3132" Y="253.7549" Z="401.4161"/>
+<phi Z="-1.069295"/>
+<sk X="0.547" Y="0.547" Z="0.547"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-10.9497" Y="249.0979" Z="401.449"/>
+<phi Z="-1.089934"/>
+<sk X="0.97" Y="0.97" Z="0.97"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-8.7598" Y="245.215" Z="401.4819"/>
+<phi Z="-1.110673"/>
+<sk X="1.7031" Y="1.7031" Z="1.7031"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-6.5232" Y="240.132" Z="401.5148"/>
+<phi Z="-1.110673"/>
+<sk X="1.0262" Y="1.0262" Z="1.0262"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-4.2568" Y="236.7717" Z="401.5476"/>
+<phi Z="-1.131472"/>
+<sk X="0.3702" Y="0.3702" Z="0.3702"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-0.5583" Y="227.6328" Z="401.6134"/>
+<phi Z="-1.15215"/>
+<sk X="1.2159" Y="1.2159" Z="1.2159"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="1.4346" Y="222.7936" Z="401.6463"/>
+<phi Z="-1.15215"/>
+<sk X="0.4414" Y="0.4414" Z="0.4414"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="3.376" Y="218.2147" Z="401.6792"/>
+<phi Z="-1.173004"/>
+<sk X="1.383" Y="1.383" Z="1.383"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="5.7161" Y="213.6224" Z="401.7121"/>
+<phi Z="-1.193733"/>
+<sk X="0.8768" Y="0.8768" Z="0.8768"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="7.0369" Y="208.7524" Z="401.745"/>
+<phi Z="-1.193733"/>
+<sk X="1.2526" Y="1.2526" Z="1.2526"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="9.0332" Y="204.0927" Z="401.7779"/>
+<phi Z="-1.214397"/>
+<sk X="1.5391" Y="1.5391" Z="1.5391"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="10.845" Y="199.3954" Z="401.8107"/>
+<phi Z="-1.214397"/>
+<sk X="0.8063" Y="0.8063" Z="0.8063"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="12.7913" Y="195.4414" Z="401.8436"/>
+<phi Z="-1.235182"/>
+<sk X="1.646" Y="1.646" Z="1.646"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="14.1958" Y="190.5577" Z="401.8765"/>
+<phi Z="-1.235182"/>
+<sk X="1.3889" Y="1.3889" Z="1.3889"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="16.0146" Y="185.9219" Z="401.9094"/>
+<phi Z="-1.255914"/>
+<sk X="0.6598" Y="0.6598" Z="0.6598"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="17.5884" Y="180.7206" Z="401.9423"/>
+<phi Z="-1.276627"/>
+<sk X="1.2705" Y="1.2705" Z="1.2705"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="18.9438" Y="176.6016" Z="401.9752"/>
+<phi Z="-1.276627"/>
+<sk X="0.6496" Y="0.6496" Z="0.6496"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="20.2195" Y="171.5807" Z="402.0081"/>
+<phi Z="-1.297434"/>
+<sk X="1.0098" Y="1.0098" Z="1.0098"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="21.7913" Y="166.7075" Z="402.041"/>
+<phi Z="-1.297434"/>
+<sk X="0.5536" Y="0.5536" Z="0.5536"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="22.207" Y="162.119" Z="402.0738"/>
+<phi Z="-1.318195"/>
+<sk X="1.3155" Y="1.3155" Z="1.3155"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="23.8235" Y="157.7477" Z="402.1067"/>
+<phi Z="-1.338957"/>
+<sk X="1.4421" Y="1.4421" Z="1.4421"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="24.7327" Y="152.3739" Z="402.1396"/>
+<phi Z="-1.338957"/>
+<sk X="1.6098" Y="1.6098" Z="1.6098"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="26.2769" Y="147.7107" Z="402.1725"/>
+<phi Z="-1.359636"/>
+<sk X="0.3796" Y="0.3796" Z="0.3796"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="27.4949" Y="142.9241" Z="402.2054"/>
+<phi Z="-1.359636"/>
+<sk X="0.3903" Y="0.3903" Z="0.3903"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="27.8965" Y="137.8679" Z="402.2383"/>
+<phi Z="-1.38035"/>
+<sk X="0.4876" Y="0.4876" Z="0.4876"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="29.4438" Y="133.1995" Z="402.2711"/>
+<phi Z="-1.38035"/>
+<sk X="0.7927" Y="0.7927" Z="0.7927"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="29.4063" Y="128.3219" Z="402.304"/>
+<phi Z="-1.401202"/>
+<sk X="0.4067" Y="0.4067" Z="0.4067"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="30.7231" Y="123.1002" Z="402.3369"/>
+<phi Z="-1.421891"/>
+<sk X="0.7534" Y="0.7534" Z="0.7534"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="31.563" Y="118.7056" Z="402.3698"/>
+<phi Z="-1.421891"/>
+<sk X="1.0595" Y="1.0595" Z="1.0595"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="31.9976" Y="113.4122" Z="402.4027"/>
+<phi Z="-1.442585"/>
+<sk X="0.8718" Y="0.8718" Z="0.8718"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="32.3069" Y="108.8944" Z="402.4356"/>
+<phi Z="-1.442585"/>
+<sk X="0.4128" Y="0.4128" Z="0.4128"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="32.9998" Y="104.231" Z="402.4685"/>
+<phi Z="-1.463471"/>
+<sk X="0.2728" Y="0.2728" Z="0.2728"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="34.1626" Y="99.146" Z="402.5013"/>
+<phi Z="-1.463471"/>
+<sk X="1.3404" Y="1.3404" Z="1.3404"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="33.8621" Y="93.851" Z="402.5342"/>
+<phi Z="-1.484085"/>
+<sk X="1.1696" Y="1.1696" Z="1.1696"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="34.5776" Y="88.95" Z="402.5671"/>
+<phi Z="-1.504922"/>
+<sk X="1.2853" Y="1.2853" Z="1.2853"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="34.9131" Y="83.9049" Z="402.6"/>
+<phi Z="-1.504922"/>
+<sk X="0.9258" Y="0.9258" Z="0.9258"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="35.175" Y="78.8109" Z="402.6329"/>
+<phi Z="-1.525557"/>
+<sk X="1.0225" Y="1.0225" Z="1.0225"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="35.562" Y="74.3135" Z="402.6657"/>
+<phi Z="-1.525557"/>
+<sk X="1.5181" Y="1.5181" Z="1.5181"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="36.136" Y="69.2445" Z="402.6986"/>
+<phi Z="-1.546342"/>
+<sk X="0.5211" Y="0.5211" Z="0.5211"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="35.4026" Y="64.6052" Z="402.7315"/>
+<phi Z="-1.567202"/>
+<sk X="0.2989" Y="0.2989" Z="0.2989"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="35.5166" Y="59.6116" Z="402.7644"/>
+<phi Z="-1.567202"/>
+<sk X="1.3073" Y="1.3073" Z="1.3073"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="35.4565" Y="54.5062" Z="402.7973"/>
+<phi Z="-1.587833"/>
+<sk X="0.9586" Y="0.9586" Z="0.9586"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="35.4775" Y="49.3944" Z="402.8302"/>
+<phi Z="-1.587833"/>
+<sk X="0.5264" Y="0.5264" Z="0.5264"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="35.6096" Y="44.5737" Z="402.8631"/>
+<phi Z="-1.608589"/>
+<sk X="0.9882" Y="0.9882" Z="0.9882"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="35.6741" Y="40.0869" Z="402.896"/>
+<phi Z="-1.608589"/>
+<sk X="1.0056" Y="1.0056" Z="1.0056"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="34.8625" Y="34.9449" Z="402.9288"/>
+<phi Z="-1.629383"/>
+<sk X="1.7418" Y="1.7418" Z="1.7418"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="34.4241" Y="29.5529" Z="402.9617"/>
+<phi Z="-1.650183"/>
+<sk X="1.4166" Y="1.4166" Z="1.4166"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="34.6299" Y="25.3348" Z="402.9946"/>
+<phi Z="-1.650183"/>
+<sk X="0.9991" Y="0.9991" Z="0.9991"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="34.3875" Y="20.3231" Z="403.0275"/>
+<phi Z="-1.670747"/>
+<sk X="1.2378" Y="1.2378" Z="1.2378"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="33.0371" Y="15.4165" Z="403.0604"/>
+<phi Z="-1.670747"/>
+<sk X="0.6279" Y="0.6279" Z="0.6279"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="33.2534" Y="9.8601" Z="403.0933"/>
+<phi Z="-1.691648"/>
+<sk X="1.5168" Y="1.5168" Z="1.5168"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="32.3088" Y="5.3403" Z="403.1261"/>
+<phi Z="-1.691648"/>
+<sk X="1.5464" Y="1.5464" Z="1.5464"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="31.9087" Y="0.6304" Z="403.159"/>
+<phi Z="-1.712353"/>
+<sk X="1.6333" Y="1.6333" Z="1.6333"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="31.0576" Y="-4.4445" Z="403.1919"/>
+<phi Z="-1.733112"/>
+<sk X="1.5862" Y="1.5862" Z="1.5862"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="29.7419" Y="-9.3523" Z="403.2248"/>
+<phi Z="-1.733112"/>
+<sk X="1.1612" Y="1.1612" Z="1.1612"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="29.5867" Y="-14.0148" Z="403.2577"/>
+<phi Z="-1.753809"/>
+<sk X="0.5542" Y="0.5542" Z="0.5542"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="27.9233" Y="-18.8538" Z="403.2906"/>
+<phi Z="-1.753809"/>
+<sk X="1.3312" Y="1.3312" Z="1.3312"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="27.0437" Y="-23.9479" Z="403.3234"/>
+<phi Z="-1.774586"/>
+<sk X="0.8956" Y="0.8956" Z="0.8956"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="25.9084" Y="-28.828" Z="403.3545"/>
+<phi Z="-1.784956"/>
+<sk X="1.2935" Y="1.2935" Z="1.2935"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="25.2507" Y="-33.4188" Z="403.3664"/>
+<phi Z="-1.784956"/>
+<sk X="0.756" Y="0.756" Z="0.756"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="24.6528" Y="-38.1649" Z="403.3783"/>
+<phi Z="-1.784956"/>
+<sk X="1.1799" Y="1.1799" Z="1.1799"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="23.2034" Y="-43.9282" Z="403.3901"/>
+<phi Z="-1.784956"/>
+<sk X="0.2443" Y="0.2443" Z="0.2443"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="21.8464" Y="-48.0582" Z="403.402"/>
+<phi Z="-1.784956"/>
+<sk X="1.2667" Y="1.2667" Z="1.2667"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000461_005691_Nuttlar\Objekte\Nuttlar_08_Wohnhaeuser\Nuttlar_08_Duemel_Haus_3.lod.ls3"/>
+<p X="-123.5155" Y="440.1767" Z="400.4228"/>
+<phi Z="0.885613"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\03_20_WHaus\03_20_WHaus.lod.ls3"/>
+<p X="-52.0481" Y="371.4454" Z="401.0633"/>
+<phi Z="3.872323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\03_20_WHaus\03_20_WHaus.lod.ls3"/>
+<p X="-29.7051" Y="383.4689" Z="401.0633"/>
+<phi Z="5.415875"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\APO_Uebernachtungsbebaeude\APO_Uebernachtungsgebaeude.lod.ls3"/>
+<p X="-155.7112" Y="461.0564" Z="400.4378"/>
+<phi Z="4.074162"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_13_WGHaus_Borchener\04_13_WGHaus.lod.ls3"/>
+<p X="-83.3485" Y="402.8989" Z="400.5898"/>
+<phi Z="7.093915"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000602_005887_Bienenbuettel\Objekte\ABIL_12_Bahnhofstrasse26\ABIL_12_Bahnhofstrasse26.lod.ls3"/>
+<p X="-107.2904" Y="428.4284" Z="400.3979"/>
+<phi Z="0.85449"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-215.8118" Y="482.0525" Z="400.5728"/>
+<phi Z="-0.330047"/>
+<sk X="1.4361" Y="1.4361" Z="1.4361"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-198.0168" Y="470.9482" Z="400.4385"/>
+<phi Z="-0.709092"/>
+<sk X="1.291" Y="1.291" Z="1.291"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-180.4307" Y="459.4119" Z="400.4272"/>
+<phi Z="-0.535268"/>
+<sk X="1.0065" Y="1.0065" Z="1.0065"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-163.6716" Y="446.9674" Z="400.4578"/>
+<phi Z="-0.898261"/>
+<sk X="1.0444" Y="1.0444" Z="1.0444"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-147.2356" Y="434.1456" Z="400.4333"/>
+<phi Z="-0.751905"/>
+<sk X="0.4017" Y="0.4017" Z="0.4017"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-131.397" Y="421.5227" Z="400.4405"/>
+<phi Z="-0.501681"/>
+<sk X="1.0073" Y="1.0073" Z="1.0073"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-115.8826" Y="408.0529" Z="400.4113"/>
+<phi Z="-0.717558"/>
+<sk X="0.728" Y="0.728" Z="0.728"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-100.1724" Y="393.2466" Z="400.4402"/>
+<phi Z="-0.683049"/>
+<sk X="1.2338" Y="1.2338" Z="1.2338"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-85.146" Y="378.9911" Z="400.5646"/>
+<phi Z="-0.968721"/>
+<sk X="1.0226" Y="1.0226" Z="1.0226"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="95" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_20_Tennisanlage\Arnsberg_20_Sportplatz.lod.ls3"/>
+<p X="-209.113" Y="623.0749" Z="400.6105"/>
+<phi Z="-0.513223"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\PeinerEck.lod.ls3"/>
+<p X="62.9623" Y="130.1618" Z="400.9965"/>
+<phi Z="1.14251"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
+<p X="60.5776" Y="111.8126" Z="400.9965"/>
+<phi Z="1.698179"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
+<p X="61.9109" Y="100.2905" Z="401.0232"/>
+<phi Z="1.679369"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
+<p X="62.6537" Y="89.3573" Z="400.9906"/>
+<phi Z="1.606365"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
+<p X="62.8963" Y="77.894" Z="400.9753"/>
+<phi Z="1.575772"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
+<p X="62.8452" Y="66.4557" Z="400.9521"/>
+<phi Z="1.555376"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2929" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
+<p X="61.9492" Y="52.4313" Z="400.9658"/>
+<phi Z="4.66912"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeterProTex="5" MeterProTex2="10" MeshV="168" MeshI="468">
 <RenderFlags TexVoreinstellung="3"/>
@@ -1822,6 +2914,12 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>

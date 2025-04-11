@@ -1760,6 +1760,60 @@
 <phi Z="0.758259"/>
 <sk X="0.9372" Y="0.9372" Z="0.9372"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Mariabrunnstr\AC_WH_Mariabrunnstr46.lod.ls3"/>
+<p X="470.565" Y="-297.3697" Z="400.7231"/>
+<phi Z="4.265927"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Mariabrunnstr\AC_WH_Mariabrunnstr46.lod.ls3"/>
+<p X="466.0403" Y="-306.8641" Z="400.7231"/>
+<phi Z="7.407519"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Mariabrunnstr\AC_WH_Mariabrunnstr46.lod.ls3"/>
+<p X="475.0919" Y="-287.8729" Z="400.7231"/>
+<phi Z="7.407519"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Mariabrunnstr\AC_WH_Mariabrunnstr46.lod.ls3"/>
+<p X="479.667" Y="-278.3947" Z="400.7231"/>
+<phi Z="4.265927"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Mariabrunnstr\AC_WH_Mariabrunnstr46.lod.ls3"/>
+<p X="484.222" Y="-268.9306" Z="400.7231"/>
+<phi Z="7.407519"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Mariabrunnstr\AC_WH_Mariabrunnstr46.lod.ls3"/>
+<p X="488.763" Y="-259.4455" Z="400.7231"/>
+<phi Z="4.265927"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="459.5948" Y="-371.5788" Z="400.6933"/>
+<phi Z="-0.4037"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="451.8784" Y="-368.4236" Z="400.6907"/>
+<phi Z="-0.415085"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Garden\BeerGardenBench\BeerGardenBench.lod.ls3"/>
+<p X="495.1955" Y="-380.2103" Z="400.3825"/>
+<phi Z="-0.415085"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_512500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeterProTex="5" MeterProTex2="10" MeshV="729" MeshI="1224">
 <RenderFlags TexVoreinstellung="3"/>
