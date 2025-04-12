@@ -470,18 +470,6 @@
 <phi Z="1.040659"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast.lod.ls3"/>
-<p X="-64.1829" Y="-256.2851" Z="401.1398"/>
-<phi Z="-2.135231"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast.lod.ls3"/>
-<p X="-95.5558" Y="-293.5013" Z="401.1411"/>
-<phi Z="1.006362"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-standard_k.lod.ls3"/>
 <p X="-64.6052" Y="-256.0177" Z="401.1398"/>
@@ -1666,7 +1654,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-22.9663" Y="289.3179" Z="401.1859"/>
+<p X="-21.5718" Y="288.9429" Z="401.1859"/>
 <phi Z="-0.986231"/>
 <sk X="1.5674" Y="1.5674" Z="1.5674"/>
 </Verknuepfte>
@@ -1678,7 +1666,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-17.1663" Y="280.3153" Z="401.2517"/>
+<p X="-16.7679" Y="280.8661" Z="401.2517"/>
 <phi Z="-1.006965"/>
 <sk X="0.863" Y="0.863" Z="0.863"/>
 </Verknuepfte>
@@ -2342,10 +2330,154 @@
 <phi Z="1.555376"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2929" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
 <p X="61.9492" Y="52.4313" Z="400.9658"/>
 <phi Z="4.66912"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Fernmeldeamt\KoPf_Fernmeldeamt.lod.ls3"/>
+<p X="99.7222" Y="298.097" Z="403.0847"/>
+<phi Z="-0.512186"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Vaalserstr24-26.lod.ls3"/>
+<p X="50.8181" Y="166.0667" Z="400.8899"/>
+<phi Z="-2.403668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="39" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Schanz18-26.lod.ls3"/>
+<p X="34.6228" Y="216.6213" Z="401.8274"/>
+<phi Z="-1.164212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Vaalserstr24-26.lod.ls3"/>
+<p X="13.5154" Y="264.7694" Z="400.8468"/>
+<phi Z="2.085826"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="34" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Vaalserstr1-13.lod.ls3"/>
+<p X="50.3987" Y="254.5722" Z="402.019"/>
+<phi Z="2.615934"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="33" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Vaalserstr1-13.lod.ls3"/>
+<p X="96.0073" Y="228.5228" Z="403.0847"/>
+<phi Z="2.629407"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-30.7036" Y="311.0209" Z="400.9138"/>
+<phi Z="-0.882442"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="33" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Vaalserstr1-13.lod.ls3"/>
+<p X="138.9683" Y="197.7963" Z="403.0847"/>
+<phi Z="-0.512186"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_11_Schwerte-Str\Hagen_Gbf_11_WHaus_14\Hagen_Gbf_11_WHaus_14.lod.ls3"/>
+<p X="60.3638" Y="-70.4277" Z="399.8609"/>
+<phi Z="3.0272"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005641_Herzogenrath\Objekte\City\Bahnhofstr16-18\Bahnhofstr16-18.lod.ls3"/>
+<p X="39.5229" Y="-120.6873" Z="400.6223"/>
+<phi Z="1.175026"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005641_Herzogenrath\Objekte\City\Bahnhofstr16-18\Bahnhofstr16-18.lod.ls3"/>
+<p X="34.7627" Y="-132.1695" Z="400.6208"/>
+<phi Z="7.400308"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005641_Herzogenrath\Objekte\City\Bahnhofstr16-18\Bahnhofstr16-18.lod.ls3"/>
+<p X="29.3715" Y="-143.5221" Z="400.6246"/>
+<phi Z="7.35843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="28" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_13_WH_1\Hagen_Gbf_13_E-WH_1.lod.ls3"/>
+<p X="14.1841" Y="-216.5533" Z="398.4449"/>
+<phi Z="4.415642"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="28" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_13_WH_1\Hagen_Gbf_13_E-WH_1.lod.ls3"/>
+<p X="10.3286" Y="-185.0037" Z="398.4369"/>
+<phi Z="15.410809"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-92.7081" Y="-295.306" Z="401.1411"/>
+<phi Z="1.006362"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-66.9016" Y="-254.5859" Z="401.1398"/>
+<phi Z="1.006362"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-80.0925" Y="-275.407" Z="401.1406"/>
+<phi Z="1.006364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-53.947" Y="-233.7426" Z="401.1409"/>
+<phi Z="1.006346"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-105.9087" Y="-316.3074" Z="401.1398"/>
+<phi Z="1.006359"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-41.3589" Y="-213.2632" Z="401.3352"/>
+<phi Z="7.325412"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_17_WHaeuser_Leostr_77\04_17_Wh_Leo77_a.lod.ls3"/>
+<p X="31.9587" Y="-221.3533" Z="398.5244"/>
+<phi Z="4.395937"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="57" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_21_Stadtkulisse\Hagen_Gbf_Brinkstr_10er-Block_2.lod.ls3"/>
+<p X="72.9031" Y="-231.7869" Z="398.5308"/>
+<phi Z="4.420353"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schifffahrt\Schiffe\DGZRS\23-1-Meter-Klasse\DGZRS_23-1-Meter.lod.ls3"/>
+<p X="-58.9712" Y="-273.2024" Z="394.7537"/>
+<phi Z="5.697427"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="45" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schifffahrt\Schiffe\Ausflugsschiffe\Schaufelraddampfer\Schaufelraddampfer.lod.ls3"/>
+<p X="-226.397" Y="-229.0813" Z="394.7537"/>
+<phi Z="2.551417"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
@@ -2923,6 +3055,72 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="12" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\river04_10m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="12" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\river04_10m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="66">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" zBias="20" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" zBias="20" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="2" zBias="20" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="2" zBias="20" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="2" zBias="20" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="2" zBias="20" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

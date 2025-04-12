@@ -254,6 +254,48 @@
 <phi Z="4.270254"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg.lod.ls3"/>
+<p X="483.2513" Y="138.7258" Z="404.6343"/>
+<phi Z="-0.442134"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_13_WGHaus_Borchener\04_13_WGHaus.lod.ls3"/>
+<p X="379.7142" Y="192.1944" Z="402.4136"/>
+<phi Z="0.029105"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Mauerstr\AC_Mauerstr112-114_MFH.lod.ls3"/>
+<p X="341.7806" Y="204.7217" Z="401.8511"/>
+<phi Z="1.594993"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\10_01_WHaus_km_124_585\10_01_WHaus.lod.ls3"/>
+<p X="244.8741" Y="260.4128" Z="400.8316"/>
+<phi Z="2.699459"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="223.3385" Y="286.1061" Z="400.9783"/>
+<phi Z="5.885942"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="197.309" Y="300.1473" Z="400.8131"/>
+<phi Z="5.830302"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="762" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0061\000489_006071_Niebuell\Objekte\ANB_Mietgaragen\ANB_Mietgaragen.lod.ls3"/>
+<p X="141.5629" Y="287.4208" Z="401.3756"/>
+<phi Z="5.830302"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_511500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="66" MeshI="126">
 <RenderFlags TexVoreinstellung="3"/>

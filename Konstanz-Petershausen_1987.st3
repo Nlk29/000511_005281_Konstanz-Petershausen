@@ -383,17 +383,38 @@
 <ReferenzElemente ReferenzNr="360" StrElement="1917" RefTyp="4" Info="Signal: Reichenau Baden 500 Hz (AA)"/>
 <ReferenzElemente ReferenzNr="361" StrElement="100" RefTyp="4" Info="Signal: Konstanz "/>
 <ReferenzElemente ReferenzNr="362" StrElement="37"/>
+<ReferenzElemente ReferenzNr="363" StrElement="18" StrNorm="1" RefTyp="4" Info="Signal: Reichenau Baden BB"/>
+<ReferenzElemente ReferenzNr="364" StrElement="18" StrNorm="1" RefTyp="2" Info="Register-Nr. 5001"/>
+<ReferenzElemente ReferenzNr="365" StrElement="18" RefTyp="2" Info="Register-Nr. 5001"/>
+<ReferenzElemente ReferenzNr="366" StrElement="21" RefTyp="4" Info="Fahrweg: Konstanz Petershausen Bü Petershausen Schneckenburgerstraße"/>
+<ReferenzElemente ReferenzNr="367" StrElement="21" StrNorm="1" RefTyp="4" Info="Fahrweg: Konstanz Petershausen Bü Petershausen Schneckenburgerstraße"/>
+<ReferenzElemente ReferenzNr="368" StrElement="21" RefTyp="5" Info="Auflösepunkt"/>
+<ReferenzElemente ReferenzNr="369" StrElement="21" StrNorm="1" RefTyp="2" Info="Register-Nr. 5003"/>
+<ReferenzElemente ReferenzNr="370" StrElement="21" RefTyp="2" Info="Register-Nr. 5003"/>
+<ReferenzElemente ReferenzNr="371" StrElement="170" RefTyp="4" Info="Signal: Konstanz Petershausen P 4"/>
+<ReferenzElemente ReferenzNr="372" StrElement="474" StrNorm="1" RefTyp="4" Info="Signal: Konstanz Petershausen "/>
+<ReferenzElemente ReferenzNr="373" StrElement="746" RefTyp="4" Info="Signal: Konstanz Petershausen "/>
+<ReferenzElemente ReferenzNr="374" StrElement="1462" RefTyp="3" Info="Weiche "/>
+<ReferenzElemente ReferenzNr="375" StrElement="1462" StrNorm="1" RefTyp="2" Info="Register-Nr. 5046"/>
+<ReferenzElemente ReferenzNr="376" StrElement="1462" RefTyp="2" Info="Register-Nr. 5046"/>
+<ReferenzElemente ReferenzNr="377" StrElement="1709" StrNorm="1" RefTyp="4" Info="Signal: Reichenau Baden 500 Hz (BB)"/>
+<ReferenzElemente ReferenzNr="378" StrElement="1766" RefTyp="4" Info="Signal: Reichenau Baden DD"/>
+<ReferenzElemente ReferenzNr="379" StrElement="1766" StrNorm="1" RefTyp="2" Info="Register-Nr. 5060"/>
+<ReferenzElemente ReferenzNr="380" StrElement="1766" RefTyp="2" Info="Register-Nr. 5060"/>
+<ReferenzElemente ReferenzNr="381" StrElement="1824" StrNorm="1" RefTyp="4" Info="Signal: Konstanz Petershausen "/>
+<ReferenzElemente ReferenzNr="382" StrElement="1827" RefTyp="4" Info="Signal: Konstanz Petershausen "/>
+<ReferenzElemente ReferenzNr="383" StrElement="1923" StrNorm="1" RefTyp="4" Info="Signal: Reichenau Baden "/>
+<ReferenzElemente ReferenzNr="384" StrElement="1939" StrNorm="1" RefTyp="4" Info="Fahrweg: Reichenau Baden BÜ Reichenau Mühlenweg"/>
+<ReferenzElemente ReferenzNr="385" StrElement="1994" RefTyp="3" Info="Weiche "/>
+<ReferenzElemente ReferenzNr="386" StrElement="1994" StrNorm="1" RefTyp="2" Info="Register-Nr. 5070"/>
+<ReferenzElemente ReferenzNr="387" StrElement="1994" RefTyp="2" Info="Register-Nr. 5070"/>
 <StrElement Nr="1" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1853.511" Y="-833.0909" Z="400.6711"/>
 <b X="1846.774" Y="-829.9702" Z="400.6698"/>
 <InfoNormRichtung vMax="38.8889" km="412.0768">
-<Ereignis Er="1000027" Wert="332" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1846.78" Y="-829.97" Z="400.67"/>
 <phi/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -402,13 +423,9 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="412.0694" pos="1">
-<Ereignis Er="1000027" Wert="331" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1846.78" Y="-829.97" Z="400.67"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -598,7 +615,7 @@
 <StrElement Nr="18" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1667.047" Y="832.516" Z="398.8188"/>
 <b X="-1711.3218" Y="853.5099" Z="398.8034"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="-1" Reg="5001">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="BB" BoundingR="10">
 <p X="-1710.3578" Y="855.543" Z="398.8034"/>
 <phi Z="2.698818"/>
@@ -670,7 +687,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="408.2296" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="408.2296" pos="1" Reg="5001">
 <Ereignis Er="28" Beschr="720"/>
 </InfoGegenRichtung>
 <NachNorm Nr="2071"/>
@@ -687,21 +704,17 @@
 <StrElement Nr="20" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1809.475" Y="900.0519" Z="398.7693"/>
 <b X="-1880.689" Y="933.8199" Z="398.7445"/>
-<InfoNormRichtung vMax="38.8889" km="408.0245" Reg="5001"/>
-<InfoGegenRichtung vMax="38.8889" km="407.9456" pos="1" Reg="5001"/>
+<InfoNormRichtung vMax="38.8889" km="408.0245" Reg="5002"/>
+<InfoGegenRichtung vMax="38.8889" km="407.9456" pos="1" Reg="5002"/>
 <NachGegen Nr="19"/>
 </StrElement>
 <StrElement Nr="21" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1855.209" Y="-829.3507" Z="400.6711"/>
 <b X="1795.1219" Y="-801.1538" Z="400.6516"/>
-<InfoNormRichtung vMax="38.8889" km="412.0767">
-<Ereignis Er="1000027" Wert="333" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
-<p X="1848.46" Y="-826.29" Z="400.67"/>
-<phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
+<InfoNormRichtung vMax="38.8889" km="412.0767" Reg="5003">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
+<p X="1848.5" Y="-826.2" Z="400.67"/>
+<phi/>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -709,15 +722,11 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="412.0694" pos="1">
-<Ereignis Er="1000027" Wert="334" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0694" pos="1" Reg="5003">
 <Ereignis Er="4"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
-<p X="1848.46" Y="-826.29" Z="400.67"/>
-<phi/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
+<p X="1848.5" Y="-826.2" Z="400.67"/>
+<phi Z="3.141593"/>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -768,8 +777,8 @@
 <StrElement Nr="25" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-844.9969" Y="448.269" Z="399.0012"/>
 <b X="-800.3555" Y="427.1584" Z="399.0536"/>
-<InfoNormRichtung vMax="-1" Reg="5002"/>
-<InfoGegenRichtung vMax="38.8889" km="409.1388" Reg="5002">
+<InfoNormRichtung vMax="-1" Reg="5004"/>
+<InfoGegenRichtung vMax="38.8889" km="409.1388" Reg="5004">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1801"/>
@@ -909,8 +918,8 @@
 <StrElement Nr="37" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1878.975" Y="937.434" Z="398.7445"/>
 <b X="-1807.761" Y="903.666" Z="398.7693"/>
-<InfoNormRichtung vMax="38.8889" km="407.9457" pos="1" Reg="5003"/>
-<InfoGegenRichtung vMax="38.8889" km="408.0245" Reg="5003"/>
+<InfoNormRichtung vMax="38.8889" km="407.9457" pos="1" Reg="5005"/>
+<InfoGegenRichtung vMax="38.8889" km="408.0245" Reg="5005"/>
 <NachNorm Nr="38"/>
 </StrElement>
 <StrElement Nr="38" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -924,8 +933,8 @@
 <StrElement Nr="39" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1736.547" Y="869.8981" Z="398.794"/>
 <b X="-1709.4401" Y="857.0444" Z="398.8034"/>
-<InfoNormRichtung vMax="-1" Reg="5004"/>
-<InfoGegenRichtung vMax="38.8889" km="408.0536" Reg="5004">
+<InfoNormRichtung vMax="-1" Reg="5006"/>
+<InfoGegenRichtung vMax="38.8889" km="408.0536" Reg="5006">
 <Ereignis Er="3"/>
 <Ereignis Er="39" Beschr="720"/>
 </InfoGegenRichtung>
@@ -943,8 +952,8 @@
 <StrElement Nr="41" spTrass="33.3333" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1855.209" Y="-829.3507" Z="400.6711"/>
 <b X="1926.916" Y="-862.4225" Z="400.6855"/>
-<InfoNormRichtung vMax="33.3333" km="412.0767" pos="1" Reg="5005"/>
-<InfoGegenRichtung vMax="33.3333" km="412.1557" Reg="5005">
+<InfoNormRichtung vMax="33.3333" km="412.0767" pos="1" Reg="5007"/>
+<InfoGegenRichtung vMax="33.3333" km="412.1557" Reg="5007">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="P 1" SignalTyp="9" BoundingR="10">
 <p X="1856.256" Y="-827.0805" Z="400.6711"/>
 <phi Z="2.709458"/>
@@ -1077,8 +1086,8 @@
 <StrElement Nr="44" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2419.2161" Y="-1781.233" Z="401.1398"/>
 <b X="2384.7329" Y="-1835.696" Z="401.1398"/>
-<InfoNormRichtung vMax="16.6667" km="413.5" pos="1" Reg="5006"/>
-<InfoGegenRichtung vMax="16.6667" km="413.5645" Reg="5006"/>
+<InfoNormRichtung vMax="16.6667" km="413.5" pos="1" Reg="5008"/>
+<InfoGegenRichtung vMax="16.6667" km="413.5645" Reg="5008"/>
 <NachGegen Nr="1922"/>
 </StrElement>
 <StrElement Nr="45" kr="-0.000595" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -1264,7 +1273,7 @@
 <StrElement Nr="67" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1273.38" Y="-554.1602" Z="400.4741"/>
 <b X="1325.8029" Y="-578.9765" Z="400.4919"/>
-<InfoNormRichtung vMax="-1" Reg="5008">
+<InfoNormRichtung vMax="-1" Reg="5009">
 <Ereignis Er="1000012" Beschr="Konstanz Fürstenberg Hp"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="AA" SignalTyp="7" BoundingR="10">
 <p X="1327.1421" Y="-576.1475" Z="400.4919"/>
@@ -1938,7 +1947,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="411.4052" Reg="5008">
+<InfoGegenRichtung vMax="38.8889" km="411.4052" Reg="5009">
 <Ereignis Er="1000008" Beschr="Konstanz Fürstenberg Hp"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1834"/>
@@ -1963,8 +1972,8 @@
 <StrElement Nr="69" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1445.51" Y="-635.6442" Z="400.5327"/>
 <b X="1531.574" Y="-676.3862" Z="400.562"/>
-<InfoNormRichtung vMax="38.8889" km="411.6235" pos="1" Reg="5009"/>
-<InfoGegenRichtung vMax="38.8889" km="411.7188" Reg="5009">
+<InfoNormRichtung vMax="38.8889" km="411.6235" pos="1" Reg="5010"/>
+<InfoGegenRichtung vMax="38.8889" km="411.7188" Reg="5010">
 <Ereignis Er="4"/>
 <Ereignis Er="39" Beschr="720"/>
 </InfoGegenRichtung>
@@ -2199,10 +2208,10 @@
 <StrElement Nr="84" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1285.1301" Y="-564.1523" Z="400.4787"/>
 <b X="1381.8409" Y="-609.9342" Z="400.5116"/>
-<InfoNormRichtung vMax="38.8889" km="411.458" pos="1" Reg="5010">
+<InfoNormRichtung vMax="38.8889" km="411.458" pos="1" Reg="5011">
 <Ereignis Er="3"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="411.555" Reg="5010">
+<InfoGegenRichtung vMax="38.8889" km="411.555" Reg="5011">
 <Signal NameBetriebsstelle="Konstanz Fürstenberg Hp" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="1">
 <p X="1286.3281" Y="-561.6215" Z="401.6937"/>
 <phi Z="2.17586"/>
@@ -2225,8 +2234,8 @@
 <StrElement Nr="86" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1469.5129" Y="-651.4376" Z="400.5414"/>
 <b X="1557.1851" Y="-692.9409" Z="400.5713"/>
-<InfoNormRichtung vMax="38.8889" km="411.652" pos="1" Reg="5011"/>
-<InfoGegenRichtung vMax="38.8889" km="411.749" Reg="5011">
+<InfoNormRichtung vMax="38.8889" km="411.652" pos="1" Reg="5012"/>
+<InfoGegenRichtung vMax="38.8889" km="411.749" Reg="5012">
 <Ereignis Er="4"/>
 <Ereignis Er="28" Beschr="720"/>
 </InfoGegenRichtung>
@@ -2244,10 +2253,10 @@
 <StrElement Nr="88" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1924.839" Y="-871.2664" Z="400.6859"/>
 <b X="1997.774" Y="-905.8972" Z="400.7005"/>
-<InfoNormRichtung vMax="11.1111" km="412.1576" pos="1" Reg="5012">
+<InfoNormRichtung vMax="11.1111" km="412.1576" pos="1" Reg="5013">
 <Ereignis Er="6"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="11.1111" km="412.2383" Reg="5012">
+<InfoGegenRichtung vMax="11.1111" km="412.2383" Reg="5013">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="P 3" SignalTyp="9" BoundingR="10">
 <p X="1925.9113" Y="-869.0081" Z="400.6859"/>
 <phi Z="2.698294"/>
@@ -2417,8 +2426,8 @@
 <StrElement Nr="95" spTrass="27.7778" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1853.511" Y="-833.0909" Z="400.6711"/>
 <b X="1931.252" Y="-869.8095" Z="400.6868"/>
-<InfoNormRichtung vMax="27.7778" km="412.0768" pos="1" Reg="5013"/>
-<InfoGegenRichtung vMax="27.7778" km="412.1628" Reg="5013">
+<InfoNormRichtung vMax="27.7778" km="412.0768" pos="1" Reg="5014"/>
+<InfoGegenRichtung vMax="27.7778" km="412.1628" Reg="5014">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="P 2" SignalTyp="9" BoundingR="10">
 <p X="1854.5787" Y="-830.8303" Z="400.6711"/>
 <phi Z="2.700333"/>
@@ -2654,8 +2663,12 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1972_DB\Lichtsignale_Kompakt\SchaltkastenKsKomp-e.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
 <VsigBegriff VsigGeschw="-1"/>
 <MatrixEintrag Signalbild="13" MatrixGeschw="-1">
+<Ereignis Er="28" Wert="1"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="15" MatrixGeschw="-1">
 <Ereignis Er="28" Wert="1"/>
 </MatrixEintrag>
 </Signal>
@@ -3345,13 +3358,9 @@
 <g X="1851.903" Y="-836.6355" Z="400.6712"/>
 <b X="1845.137" Y="-833.4371" Z="400.6698"/>
 <InfoNormRichtung vMax="11.1111" km="412.0768">
-<Ereignis Er="1000027" Wert="336" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1845.1899" Y="-833.46" Z="400.67"/>
 <phi/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -3360,13 +3369,9 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="412.0694" pos="1">
-<Ereignis Er="1000027" Wert="335" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1845.1899" Y="-833.46" Z="400.67"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -3380,10 +3385,10 @@
 <StrElement Nr="125" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1845.137" Y="-833.4371" Z="400.6698"/>
 <b X="1773.8409" Y="-799.733" Z="400.6455"/>
-<InfoNormRichtung vMax="11.1111" km="412.0694" Reg="5014">
+<InfoNormRichtung vMax="11.1111" km="412.0694" Reg="5015">
 <Ereignis Er="3"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="11.1111" km="411.9905" pos="1" Reg="5014"/>
+<InfoGegenRichtung vMax="11.1111" km="411.9905" pos="1" Reg="5015"/>
 <NachNorm Nr="126"/>
 <NachGegen Nr="124"/>
 </StrElement>
@@ -3398,8 +3403,8 @@
 <StrElement Nr="127" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1695.78" Y="-762.8305" Z="400.619"/>
 <b X="1617.718" Y="-725.928" Z="400.5924"/>
-<InfoNormRichtung vMax="11.1111" km="411.9041" Reg="5015"/>
-<InfoGegenRichtung vMax="11.1111" km="411.8178" pos="1" Reg="5015">
+<InfoNormRichtung vMax="11.1111" km="411.9041" Reg="5016"/>
+<InfoGegenRichtung vMax="11.1111" km="411.8178" pos="1" Reg="5016">
 <Ereignis Er="4"/>
 </InfoGegenRichtung>
 <NachNorm Nr="129"/>
@@ -4095,13 +4100,9 @@
 <g X="1850.187" Y="-840.2489" Z="400.6712"/>
 <b X="1843.429" Y="-837.0558" Z="400.6698"/>
 <InfoNormRichtung vMax="11.1111" km="412.0768">
-<Ereignis Er="1000027" Wert="338" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1843.54" Y="-837.11" Z="400.67"/>
 <phi/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -4110,13 +4111,9 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="412.0694" pos="1">
-<Ereignis Er="1000027" Wert="337" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1843.54" Y="-837.11" Z="400.67"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -4145,7 +4142,7 @@
 <StrElement Nr="155" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1643.457" Y="-742.5698" Z="400.6018"/>
 <b X="1642.3719" Y="-742.0572" Z="400.6014"/>
-<InfoNormRichtung vMax="-1" km="411.8482" pos="1" Reg="5016">
+<InfoNormRichtung vMax="-1" km="411.8482" pos="1" Reg="5017">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W14P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1643.457" Y="-742.5698" Z="400.6018"/>
 <phi Y="0.000308" Z="2.70019"/>
@@ -4354,7 +4351,7 @@
 <MatrixEintrag Signalbild="536871173" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.847" pos="1" Reg="5016"/>
+<InfoGegenRichtung vMax="-1" km="411.847" pos="1" Reg="5017"/>
 <NachNorm Nr="156"/>
 <NachNorm Nr="158"/>
 <NachGegen Nr="171"/>
@@ -4490,7 +4487,8 @@
 <StrElement Nr="170" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1812.601" Y="-822.4897" Z="400.6593"/>
 <b X="1776.4348" Y="-805.4013" Z="400.647"/>
-<InfoGegenRichtung vMax="11.1111" km="412.0688" pos="1" Reg="5017">
+<InfoNormRichtung vMax="-1" Reg="5018"/>
+<InfoGegenRichtung vMax="11.1111" km="412.0688" pos="1" Reg="5018">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="P 4" SignalTyp="9" BoundingR="10">
 <p X="1728.9902" Y="-780.4954" Z="400.6306"/>
 <phi Z="2.700189"/>
@@ -4611,7 +4609,7 @@
 <StrElement Nr="172" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1837.139" Y="-834.0836" Z="400.6679"/>
 <b X="1836.054" Y="-833.571" Z="400.6673"/>
-<InfoNormRichtung vMax="-1" km="412.0632" pos="1" Reg="5018">
+<InfoNormRichtung vMax="-1" km="412.0632" pos="1" Reg="5019">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W10P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1837.139" Y="-834.0836" Z="400.6679"/>
 <phi Y="0.000333" Z="2.70019"/>
@@ -4820,7 +4818,7 @@
 <MatrixEintrag Signalbild="134217797" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.062" pos="1" Reg="5018"/>
+<InfoGegenRichtung vMax="-1" km="412.062" pos="1" Reg="5019"/>
 <NachNorm Nr="173"/>
 <NachNorm Nr="175"/>
 <NachGegen Nr="153"/>
@@ -5453,13 +5451,9 @@
 <g X="1842.064" Y="-840.8227" Z="400.6699"/>
 <b X="1838.496" Y="-839.1518" Z="400.6687"/>
 <InfoNormRichtung vMax="11.1111" km="412.0697">
-<Ereignis Er="1000027" Wert="340" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1841.88" Y="-840.74" Z="400.67"/>
 <phi/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -5468,13 +5462,9 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="412.0658" pos="1">
-<Ereignis Er="1000027" Wert="339" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="14" BoundingR="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1841.88" Y="-840.74" Z="400.67"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="329">
-<Datei NurInfo="1"/>
-</KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
@@ -6497,7 +6487,7 @@
 <StrElement Nr="310" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1922.1541" Y="-874.4194" Z="400.6857"/>
 <b X="1923.238" Y="-874.9341" Z="400.6859"/>
-<InfoNormRichtung vMax="-1" km="412.1565" pos="1" Reg="5019">
+<InfoNormRichtung vMax="-1" km="412.1565" pos="1" Reg="5020">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W9P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1922.1541" Y="-874.4194" Z="400.6857"/>
 <phi Y="-0.00018" Z="-0.443296"/>
@@ -6706,7 +6696,7 @@
 <MatrixEintrag Signalbild="134217797" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.1577" Reg="5019"/>
+<InfoGegenRichtung vMax="-1" km="412.1577" Reg="5020"/>
 <NachNorm Nr="311"/>
 <NachNorm Nr="313"/>
 <NachGegen Nr="244"/>
@@ -6863,7 +6853,7 @@
 <StrElement Nr="328" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2098.041" Y="-957.9331" Z="400.7211"/>
 <b X="2096.957" Y="-957.4184" Z="400.7209"/>
-<InfoNormRichtung vMax="-1" km="412.3512" pos="1" Reg="5020">
+<InfoNormRichtung vMax="-1" km="412.3512" pos="1" Reg="5021">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pw (Stw1)" Signalname="W5P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="2098.041" Y="-957.9331" Z="400.7211"/>
 <phi Y="0.000183" Z="-3.584889"/>
@@ -7072,7 +7062,7 @@
 <MatrixEintrag Signalbild="134217797" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.35" pos="1" Reg="5020"/>
+<InfoGegenRichtung vMax="-1" km="412.35" pos="1" Reg="5021"/>
 <NachNorm Nr="329"/>
 <NachNorm Nr="331"/>
 <NachGegen Nr="308"/>
@@ -7198,7 +7188,7 @@
 <StrElement Nr="342" spTrass="27.7778" Fkt="4" Oberbau="B55 SKL-Oberbau">
 <g X="2082.4109" Y="-971.1033" Z="400.7195"/>
 <b X="2081.3291" Y="-970.5844" Z="400.7193"/>
-<InfoNormRichtung vMax="-1" km="412.3427" pos="1" Reg="5021">
+<InfoNormRichtung vMax="-1" km="412.3427" pos="1" Reg="5022">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W6P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="2082.4109" Y="-971.1033" Z="400.7195"/>
 <phi Y="0.000183" Z="2.694392"/>
@@ -7407,7 +7397,7 @@
 <MatrixEintrag Signalbild="134220805" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.3415" pos="1" Reg="5021"/>
+<InfoGegenRichtung vMax="-1" km="412.3415" pos="1" Reg="5022"/>
 <NachNorm Nr="343"/>
 <NachNorm Nr="345"/>
 <NachGegen Nr="262"/>
@@ -7533,7 +7523,7 @@
 <StrElement Nr="356" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="B55 SKL-Oberbau">
 <g X="2057.9409" Y="-959.3674" Z="400.7146"/>
 <b X="2056.8589" Y="-958.8484" Z="400.7144"/>
-<InfoNormRichtung vMax="-1" km="412.3156" pos="1" Reg="5022">
+<InfoNormRichtung vMax="-1" km="412.3156" pos="1" Reg="5023">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W7P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="2057.9409" Y="-959.3674" Z="400.7146"/>
 <phi Y="0.000183" Z="2.694392"/>
@@ -7742,7 +7732,7 @@
 <MatrixEintrag Signalbild="536873989" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.3144" pos="1" Reg="5022"/>
+<InfoGegenRichtung vMax="-1" km="412.3144" pos="1" Reg="5023"/>
 <NachNorm Nr="357"/>
 <NachNorm Nr="359"/>
 <NachGegen Nr="351"/>
@@ -8145,7 +8135,7 @@
 <StrElement Nr="405" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau">
 <g X="2043.668" Y="-956.3175" Z="400.712"/>
 <b X="2042.535" Y="-955.9212" Z="400.7118"/>
-<InfoNormRichtung vMax="-1" km="412.3014" pos="1" Reg="5023">
+<InfoNormRichtung vMax="-1" km="412.3014" pos="1" Reg="5024">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W8P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="2043.668" Y="-956.3175" Z="400.712"/>
 <phi Y="0.00018" Z="-3.478158"/>
@@ -8354,7 +8344,7 @@
 <MatrixEintrag Signalbild="536891397" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.3002" pos="1" Reg="5023"/>
+<InfoGegenRichtung vMax="-1" km="412.3002" pos="1" Reg="5024"/>
 <NachNorm Nr="406"/>
 <NachNorm Nr="408"/>
 <NachGegen Nr="403"/>
@@ -8598,9 +8588,9 @@
 </StrElement>
 <StrElement Nr="434" spTrass="38.8889" Anschluss="1" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1760.719" Y="-784.8674" Z="400.64"/>
-<b X="1770.593" Y="-789.5419" Z="400.6433"/>
-<InfoNormRichtung vMax="38.8889" km="411.9723" pos="1" Reg="5024"/>
-<InfoGegenRichtung vMax="38.8889" km="411.9832" Reg="5024">
+<b X="1770.593" Y="-789.5418" Z="400.6433"/>
+<InfoNormRichtung vMax="38.8889" km="411.9723" pos="1" Reg="5025"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9832" Reg="5025">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
 <NachNorm Nr="444"/>
@@ -8609,7 +8599,7 @@
 <StrElement Nr="435" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1795.1219" Y="-801.1538" Z="400.6516"/>
 <b X="1794.037" Y="-800.6404" Z="400.6513"/>
-<InfoNormRichtung vMax="-1" km="412.0103" pos="1" Reg="5025">
+<InfoNormRichtung vMax="-1" km="412.0103" pos="1" Reg="5026">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W11P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1795.1219" Y="-801.1538" Z="400.6516"/>
 <phi Y="0.000308" Z="-3.58373"/>
@@ -8818,7 +8808,7 @@
 <MatrixEintrag Signalbild="134217797" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0092" pos="1" Reg="5025"/>
+<InfoGegenRichtung vMax="-1" km="412.0092" pos="1" Reg="5026"/>
 <NachNorm Nr="436"/>
 <NachNorm Nr="438"/>
 <NachGegen Nr="21"/>
@@ -9201,7 +9191,7 @@
 <StrElement Nr="475" Ueberh="0.0102" kr="-0.00052" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2261.9348" Y="-1019.387" Z="400.7513"/>
 <b X="2267.4988" Y="-1022.319" Z="400.7524"/>
-<InfoNormRichtung vMax="27.7778" km="412.5256" pos="1" Reg="5026">
+<InfoNormRichtung vMax="27.7778" km="412.5256" pos="1" Reg="5027">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pw (Stw1)" Signalname="N 1" SignalTyp="9" BoundingR="10">
 <p X="2266.45" Y="-1024.3064" Z="400.7524"/>
 <phi Z="-0.484985"/>
@@ -9308,7 +9298,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="27.7778" km="412.5319" Reg="5026">
+<InfoGegenRichtung vMax="27.7778" km="412.5319" Reg="5027">
 <Ereignis Er="1000010" Beschr="Konstanz Petershausen"/>
 </InfoGegenRichtung>
 <NachNorm Nr="476"/>
@@ -10055,8 +10045,8 @@
 <StrElement Nr="546" Ueberh="0.0797" kr="-0.002405" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2526.533" Y="-1332.962" Z="402.0486"/>
 <b X="2528.689" Y="-1341.3149" Z="402.1053"/>
-<InfoNormRichtung vMax="27.7778" km="412.9726" pos="1" Reg="5027"/>
-<InfoGegenRichtung vMax="27.7778" km="412.9813" Reg="5027">
+<InfoNormRichtung vMax="27.7778" km="412.9726" pos="1" Reg="5028"/>
+<InfoGegenRichtung vMax="27.7778" km="412.9813" Reg="5028">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
 <NachNorm Nr="547"/>
@@ -10097,8 +10087,8 @@
 <StrElement Nr="551" Ueberh="0.0787" kr="-0.002405" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2535.5681" Y="-1375.119" Z="402.3323"/>
 <b X="2536.8479" Y="-1383.65" Z="402.389"/>
-<InfoNormRichtung vMax="27.7778" km="413.0221" pos="1" Reg="5028"/>
-<InfoGegenRichtung vMax="27.7778" km="413.0307" Reg="5028">
+<InfoNormRichtung vMax="27.7778" km="413.0221" pos="1" Reg="5029"/>
+<InfoGegenRichtung vMax="27.7778" km="413.0307" Reg="5029">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pw (Stw1)" Signalname="F" SignalTyp="7" BoundingR="10">
 <p X="2538.7327" Y="-1374.6443" Z="401.8323"/>
 <phi Z="1.719702"/>
@@ -11375,7 +11365,7 @@
 <StrElement Nr="621" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="925.7129" Y="-863.7131" Z="399.4468"/>
 <b X="925.2587" Y="-864.8238" Z="399.447"/>
-<InfoNormRichtung vMax="-1" km="0.5583" pos="1" Reg="5029">
+<InfoNormRichtung vMax="-1" km="0.5583" pos="1" Reg="5030">
 <Signal Signalname="W18P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="925.7129" Y="-863.7131" Z="399.4468"/>
 <phi Y="-0.000104" Z="-1.958935"/>
@@ -11584,7 +11574,7 @@
 <MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="0.5595" Reg="5029"/>
+<InfoGegenRichtung vMax="-1" km="0.5595" Reg="5030"/>
 <NachNorm Nr="622"/>
 <NachNorm Nr="624"/>
 <NachGegen Nr="637"/>
@@ -11748,7 +11738,7 @@
 <StrElement Nr="640" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="941.5809" Y="-824.9055" Z="399.4425"/>
 <b X="942.035" Y="-823.7948" Z="399.4424"/>
-<InfoNormRichtung vMax="-1" km="0.5164" pos="1" Reg="5030">
+<InfoNormRichtung vMax="-1" km="0.5164" pos="1" Reg="5031">
 <Signal Signalname="W17P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="941.5809" Y="-824.9055" Z="399.4425"/>
 <phi Y="0.000101" Z="1.182659"/>
@@ -11957,7 +11947,7 @@
 <MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="0.5152" pos="1" Reg="5030"/>
+<InfoGegenRichtung vMax="-1" km="0.5152" pos="1" Reg="5031"/>
 <NachNorm Nr="641"/>
 <NachNorm Nr="643"/>
 <NachGegen Nr="637"/>
@@ -12194,7 +12184,7 @@
 <StrElement Nr="668" Ueberh="-0.0063" kr="0.004749" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="1185.536" Y="-555.6177" Z="400.8041"/>
 <b X="1184.342" Y="-555.4982" Z="400.8026"/>
-<InfoNormRichtung vMax="-1" km="-0.01" pos="1" Reg="5031">
+<InfoNormRichtung vMax="-1" km="-0.01" pos="1" Reg="5032">
 <Signal Signalname="W16P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1185.536" Y="-555.6177" Z="400.8041"/>
 <phi Y="0.001215" Z="-3.244207"/>
@@ -12403,7 +12393,7 @@
 <MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" Reg="5031"/>
+<InfoGegenRichtung vMax="-1" Reg="5032"/>
 <NachNorm Nr="669"/>
 <NachNorm Nr="671"/>
 <NachGegen Nr="727"/>
@@ -13566,13 +13556,11 @@
 <NachNorm Nr="1996"/>
 <NachGegen Nr="806"/>
 </StrElement>
-<StrElement Nr="808" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<StrElement Nr="808" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2146.0029" Y="-944.4294" Z="400.39"/>
 <b X="2200.084" Y="-968.0428" Z="400.4883"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.059" pos="1"/>
-<NachNorm Nr="809"/>
-<NachGegen Nr="1994"/>
 </StrElement>
 <StrElement Nr="809" kr="-0.001422" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2200.084" Y="-968.0435" Z="400.4883"/>
@@ -13881,8 +13869,8 @@
 <StrElement Nr="848" spTrass="27.7778" Anschluss="512" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="1064.298" Y="-524.3475" Z="400.4352"/>
 <b X="1075.2939" Y="-548.3596" Z="400.5"/>
-<InfoNormRichtung vMax="27.7778" Reg="5032"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0264" pos="1" Reg="5032"/>
+<InfoNormRichtung vMax="27.7778" Reg="5033"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0264" pos="1" Reg="5033"/>
 <NachNorm Nr="857"/>
 <NachGegen Nr="852"/>
 <NachGegen Nr="855"/>
@@ -13912,8 +13900,8 @@
 <StrElement Nr="852" kr="0.026018" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="1064.219" Y="-524.1757" Z="400.4403"/>
 <b X="1063.876" Y="-523.4409" Z="400.4705"/>
-<InfoNormRichtung vMax="27.7778" Reg="5033"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0008" pos="1" Reg="5033"/>
+<InfoNormRichtung vMax="27.7778" Reg="5034"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0008" pos="1" Reg="5034"/>
 <NachNorm Nr="853"/>
 <NachGegen Nr="848"/>
 <NachGegen Nr="855"/>
@@ -16687,10 +16675,10 @@
 <StrElement Nr="1218" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1058.389" Y="544.7144" Z="398.954"/>
 <b X="-1128.95" Y="578.0681" Z="398.9397"/>
-<InfoNormRichtung vMax="38.8889" km="408.8554" Reg="5034">
+<InfoNormRichtung vMax="38.8889" km="408.8554" Reg="5035">
 <Ereignis Er="6"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="408.7774" pos="1" Reg="5034">
+<InfoGegenRichtung vMax="38.8889" km="408.7774" pos="1" Reg="5035">
 <Ereignis Er="4"/>
 <Ereignis Er="39" Beschr="720"/>
 </InfoGegenRichtung>
@@ -17256,8 +17244,8 @@
 <StrElement Nr="1289" Ueberh="0.0841" spTrass="27.7778" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2393.7029" Y="-1114.4449" Z="400.7823"/>
 <b X="2405.812" Y="-1128.86" Z="400.8688"/>
-<InfoNormRichtung vMax="27.7778" km="412.688" pos="1" Reg="5035"/>
-<InfoGegenRichtung vMax="27.7778" km="412.7068" Reg="5035">
+<InfoNormRichtung vMax="27.7778" km="412.688" pos="1" Reg="5036"/>
+<InfoGegenRichtung vMax="27.7778" km="412.7068" Reg="5036">
 <Ereignis Er="4"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1817"/>
@@ -17266,7 +17254,7 @@
 <StrElement Nr="1290" Ueberh="-0.0841" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2434.718" Y="-1163.274" Z="400.877"/>
 <b X="2433.946" Y="-1162.355" Z="400.8768"/>
-<InfoNormRichtung vMax="-1" km="412.7514" Reg="5036">
+<InfoNormRichtung vMax="-1" km="412.7514" Reg="5037">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pw (Stw1)" Signalname="W1P" SignalFlags="3" SignalTyp="2" BoundingR="50">
 <p X="2434.718" Y="-1163.274" Z="400.877"/>
 <phi Y="0.000183" Z="-4.013746"/>
@@ -17481,7 +17469,7 @@
 <MatrixEintrag Signalbild="75499013" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.7502" pos="1" Reg="5036"/>
+<InfoGegenRichtung vMax="-1" km="412.7502" pos="1" Reg="5037"/>
 <NachNorm Nr="1291"/>
 <NachNorm Nr="1300"/>
 <NachGegen Nr="571"/>
@@ -17497,11 +17485,11 @@
 <StrElement Nr="1292" Ueberh="-0.0841" kr="0.002" spTrass="19.4444" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2413.605" Y="-1139.697" Z="400.7868"/>
 <b X="2409.4399" Y="-1135.3781" Z="400.751"/>
-<InfoNormRichtung vMax="-1" km="412.7198" Reg="5037">
+<InfoNormRichtung vMax="-1" km="412.7198" Reg="5038">
 <Ereignis Er="31" Wert="1"/>
 <Ereignis Er="4"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.7138" pos="1" Reg="5037"/>
+<InfoGegenRichtung vMax="-1" km="412.7138" pos="1" Reg="5038"/>
 <NachNorm Nr="1303"/>
 <NachGegen Nr="1293"/>
 </StrElement>
@@ -17631,10 +17619,10 @@
 <StrElement Nr="1307" Ueberh="0.0765" kr="-0.004563" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2348.8501" Y="-1080.382" Z="400.7281"/>
 <b X="2353.896" Y="-1083.895" Z="400.6985"/>
-<InfoNormRichtung vMax="27.7778" km="412.6317" pos="1" Reg="5038">
+<InfoNormRichtung vMax="27.7778" km="412.6317" pos="1" Reg="5039">
 <Ereignis Er="3"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="27.7778" km="412.6378" Reg="5038"/>
+<InfoGegenRichtung vMax="27.7778" km="412.6378" Reg="5039"/>
 <NachNorm Nr="1308"/>
 <NachGegen Nr="1306"/>
 </StrElement>
@@ -17665,7 +17653,7 @@
 <StrElement Nr="1311" Ueberh="-0.0129" kr="0.000936" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2396.5061" Y="-1122.05" Z="400.6474"/>
 <b X="2395.667" Y="-1121.192" Z="400.6472"/>
-<InfoNormRichtung vMax="-1" km="412.6952" Reg="5039">
+<InfoNormRichtung vMax="-1" km="412.6952" Reg="5040">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pw (Stw1)" Signalname="W2P" SignalFlags="3" SignalTyp="2" BoundingR="50">
 <p X="2396.5061" Y="-1122.05" Z="400.6474"/>
 <phi Y="0.000183" Z="2.344"/>
@@ -17880,7 +17868,7 @@
 <MatrixEintrag Signalbild="276848645" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.694" pos="1" Reg="5039"/>
+<InfoGegenRichtung vMax="-1" km="412.694" pos="1" Reg="5040"/>
 <NachNorm Nr="1314"/>
 <NachNorm Nr="1323"/>
 <NachGegen Nr="1310"/>
@@ -18072,10 +18060,10 @@
 <StrElement Nr="1333" Ueberh="-0.0614" kr="0.002858" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2362.3669" Y="-1087.4821" Z="400.7849"/>
 <b X="2359.7451" Y="-1085.078" Z="400.7825"/>
-<InfoNormRichtung vMax="27.7778" km="412.6466" Reg="5040">
+<InfoNormRichtung vMax="27.7778" km="412.6466" Reg="5041">
 <Ereignis Er="4"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="27.7778" km="412.6431" pos="1" Reg="5040"/>
+<InfoGegenRichtung vMax="27.7778" km="412.6431" pos="1" Reg="5041"/>
 <NachNorm Nr="1334"/>
 <NachGegen Nr="1332"/>
 </StrElement>
@@ -18178,8 +18166,8 @@
 <StrElement Nr="1348" Ueberh="-0.0166" kr="0.001736" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2345.866" Y="-1073.985" Z="400.771"/>
 <b X="2337.5249" Y="-1068.576" Z="400.7692"/>
-<InfoNormRichtung vMax="27.7778" km="412.6254" Reg="5041"/>
-<InfoGegenRichtung vMax="27.7778" km="412.6154" pos="1" Reg="5041">
+<InfoNormRichtung vMax="27.7778" km="412.6254" Reg="5042"/>
+<InfoGegenRichtung vMax="27.7778" km="412.6154" pos="1" Reg="5042">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1349"/>
@@ -18228,7 +18216,7 @@
 <StrElement Nr="1354" Ueberh="0.007" kr="-0.000495" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2299.719" Y="-1053.697" Z="400.7609"/>
 <b X="2301.344" Y="-1054.4709" Z="400.7613"/>
-<InfoNormRichtung vMax="-1" km="412.5755" pos="1" Reg="5042">
+<InfoNormRichtung vMax="-1" km="412.5755" pos="1" Reg="5043">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pw (Stw1)" Signalname="W3P" SignalFlags="3" SignalTyp="2" BoundingR="40">
 <p X="2299.719" Y="-1053.697" Z="400.7609"/>
 <phi Y="-0.000183" Z="-0.443967"/>
@@ -18401,7 +18389,7 @@
 <MatrixEintrag Signalbild="33554693" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.5773" Reg="5042"/>
+<InfoGegenRichtung vMax="-1" km="412.5773" Reg="5043"/>
 <NachNorm Nr="1355"/>
 <NachNorm Nr="1358"/>
 <NachGegen Nr="1384"/>
@@ -18535,7 +18523,7 @@
 <StrElement Nr="1368" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2296.1111" Y="-1051.983" Z="400.7612"/>
 <b X="2294.4851" Y="-1051.2111" Z="400.7608"/>
-<InfoNormRichtung vMax="-1" km="412.5714" pos="1" Reg="5043">
+<InfoNormRichtung vMax="-1" km="412.5714" pos="1" Reg="5044">
 <Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W4P" SignalFlags="3" SignalTyp="2" BoundingR="40">
 <p X="2296.1111" Y="-1051.983" Z="400.7612"/>
 <phi Y="0.000186" Z="2.698282"/>
@@ -18708,7 +18696,7 @@
 <MatrixEintrag Signalbild="8388677" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.5696" pos="1" Reg="5043"/>
+<InfoGegenRichtung vMax="-1" km="412.5696" pos="1" Reg="5044"/>
 <NachNorm Nr="1369"/>
 <NachNorm Nr="1371"/>
 <NachGegen Nr="1384"/>
@@ -18824,10 +18812,10 @@
 <StrElement Nr="1378" spTrass="27.7778" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2262.8469" Y="-1034.05" Z="400.7542"/>
 <b X="2259.6001" Y="-1032.214" Z="400.7535"/>
-<InfoNormRichtung vMax="27.7778" km="412.533" Reg="5044">
+<InfoNormRichtung vMax="27.7778" km="412.533" Reg="5045">
 <Ereignis Er="4"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="27.7778" km="412.5292" pos="1" Reg="5044"/>
+<InfoGegenRichtung vMax="27.7778" km="412.5292" pos="1" Reg="5045"/>
 <NachNorm Nr="1383"/>
 <NachGegen Nr="1375"/>
 </StrElement>
@@ -19484,8 +19472,8 @@
 <StrElement Nr="1462" Ueberh="-0.009" kr="-0.009102" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2472.958" Y="-1638.041" Z="400.3999"/>
 <b X="2474.071" Y="-1633.825" Z="400.2303"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1"/>
+<InfoNormRichtung vMax="27.7778" Reg="5046"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0044" pos="1" Reg="5046"/>
 <NachNorm Nr="1463"/>
 <NachGegen Nr="1461"/>
 <NachGegen Nr="2004"/>
@@ -19746,18 +19734,17 @@
 <StrElement Nr="1495" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2441.387" Y="-1649.474" Z="400.6509"/>
 <b X="2359.804" Y="-1612.459" Z="397.9492"/>
-<InfoNormRichtung vMax="27.7778" Reg="5045"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0896" pos="1" Reg="5045"/>
+<InfoNormRichtung vMax="27.7778" Reg="5047"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0896" pos="1" Reg="5047"/>
 <NachNorm Nr="1496"/>
 <NachGegen Nr="1497"/>
 <NachGegen Nr="1515"/>
 </StrElement>
-<StrElement Nr="1496" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<StrElement Nr="1496" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2359.804" Y="-1612.459" Z="397.9492"/>
 <b X="2278.2209" Y="-1575.444" Z="397.8888"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0896" pos="1"/>
-<NachGegen Nr="1495"/>
 </StrElement>
 <StrElement Nr="1497" kr="0.041802" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2441.387" Y="-1649.474" Z="400.6509"/>
@@ -19941,7 +19928,7 @@
 <StrElement Nr="1542" spTrass="27.7778" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1760.719" Y="-784.8674" Z="400.64"/>
 <b X="1759.634" Y="-784.3539" Z="400.6396"/>
-<InfoNormRichtung vMax="-1" km="411.9723" pos="1" Reg="5046">
+<InfoNormRichtung vMax="-1" km="411.9723" pos="1" Reg="5048">
 <Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W12P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1760.719" Y="-784.8674" Z="400.64"/>
 <phi Y="0.000308" Z="-3.583742"/>
@@ -20150,7 +20137,7 @@
 <MatrixEintrag Signalbild="536871173" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9711" pos="1" Reg="5046"/>
+<InfoGegenRichtung vMax="-1" km="411.9711" pos="1" Reg="5048"/>
 <NachNorm Nr="1543"/>
 <NachNorm Nr="1545"/>
 <NachGegen Nr="434"/>
@@ -20292,8 +20279,8 @@
 <StrElement Nr="1558" spTrass="38.8889" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1786.452" Y="-801.4744" Z="400.6493"/>
 <b X="1840.853" Y="-827.2277" Z="400.6678"/>
-<InfoNormRichtung vMax="38.8889" km="412.0027" pos="1" Reg="5047"/>
-<InfoGegenRichtung vMax="38.8889" km="412.0628" Reg="5047">
+<InfoNormRichtung vMax="38.8889" km="412.0027" pos="1" Reg="5049"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0628" Reg="5049">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
 <NachNorm Nr="2"/>
@@ -20302,7 +20289,7 @@
 <StrElement Nr="1559" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1707.521" Y="-764.1093" Z="400.6224"/>
 <b X="1708.606" Y="-764.6227" Z="400.6228"/>
-<InfoNormRichtung vMax="-1" km="411.9153" pos="1" Reg="5048">
+<InfoNormRichtung vMax="-1" km="411.9153" pos="1" Reg="5050">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W13P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1707.521" Y="-764.1093" Z="400.6224"/>
 <phi Y="-0.000305" Z="-0.442136"/>
@@ -20511,7 +20498,7 @@
 <MatrixEintrag Signalbild="536871173" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9165" Reg="5048"/>
+<InfoGegenRichtung vMax="-1" km="411.9165" Reg="5050"/>
 <NachNorm Nr="1560"/>
 <NachNorm Nr="1562"/>
 <NachGegen Nr="52"/>
@@ -20653,7 +20640,7 @@
 <StrElement Nr="1575" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1531.574" Y="-676.3862" Z="400.562"/>
 <b X="1532.6591" Y="-676.8997" Z="400.5623"/>
-<InfoNormRichtung vMax="-1" km="411.7188" pos="1" Reg="5049">
+<InfoNormRichtung vMax="-1" km="411.7188" pos="1" Reg="5051">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="W15P" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1531.574" Y="-676.3862" Z="400.562"/>
 <phi Y="-0.000305" Z="-0.442133"/>
@@ -20862,7 +20849,7 @@
 <MatrixEintrag Signalbild="134217989" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.7199" Reg="5049"/>
+<InfoGegenRichtung vMax="-1" km="411.7199" Reg="5051"/>
 <NachNorm Nr="1576"/>
 <NachNorm Nr="1578"/>
 <NachGegen Nr="69"/>
@@ -21153,7 +21140,7 @@
 <StrElement Nr="1605" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="-1277.714" Y="664.1147" Z="398.9082"/>
 <b X="-1276.629" Y="663.6026" Z="398.9084"/>
-<InfoNormRichtung vMax="-1" km="408.6061" pos="1" Reg="5050">
+<InfoNormRichtung vMax="-1" km="408.6061" pos="1" Reg="5052">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="W3R" SignalFlags="3" SignalTyp="2" BoundingR="50">
 <p X="-1277.714" Y="664.1147" Z="398.9082"/>
 <phi Y="-0.000183" Z="-0.440895"/>
@@ -21368,7 +21355,7 @@
 <MatrixEintrag Signalbild="75499013" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.6073" Reg="5050"/>
+<InfoGegenRichtung vMax="-1" km="408.6073" Reg="5052"/>
 <NachNorm Nr="1608"/>
 <NachNorm Nr="1616"/>
 <NachGegen Nr="1589"/>
@@ -21508,7 +21495,7 @@
 <StrElement Nr="1621" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="-1280.1689" Y="658.6388" Z="398.9082"/>
 <b X="-1279.084" Y="658.1267" Z="398.9085"/>
-<InfoNormRichtung vMax="-1" km="408.6062" pos="1" Reg="5051">
+<InfoNormRichtung vMax="-1" km="408.6062" pos="1" Reg="5053">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="W4R" SignalFlags="3" SignalTyp="2" BoundingR="50">
 <p X="-1280.1689" Y="658.6388" Z="398.9082"/>
 <phi Y="-0.000186" Z="-0.440895"/>
@@ -21723,7 +21710,7 @@
 <MatrixEintrag Signalbild="276848645" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.6074" Reg="5051"/>
+<InfoGegenRichtung vMax="-1" km="408.6074" Reg="5053"/>
 <NachNorm Nr="1622"/>
 <NachNorm Nr="1631"/>
 <NachGegen Nr="470"/>
@@ -21870,7 +21857,7 @@
 <StrElement Nr="1638" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau">
 <g X="-1173.756" Y="615.0597" Z="398.9294"/>
 <b X="-1174.8409" Y="615.5718" Z="398.9291"/>
-<InfoNormRichtung vMax="-1" km="408.721" Reg="5052">
+<InfoNormRichtung vMax="-1" km="408.721" Reg="5054">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="W2R" SignalFlags="3" SignalTyp="2" BoundingR="50">
 <p X="-1173.756" Y="615.0597" Z="398.9294"/>
 <phi Y="0.000183" Z="-3.582489"/>
@@ -22085,7 +22072,7 @@
 <MatrixEintrag Signalbild="276848645" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.7198" pos="1" Reg="5052"/>
+<InfoGegenRichtung vMax="-1" km="408.7198" pos="1" Reg="5054"/>
 <NachNorm Nr="1639"/>
 <NachNorm Nr="1648"/>
 <NachGegen Nr="1635"/>
@@ -22971,7 +22958,8 @@
 <StrElement Nr="1682" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1077.354" Y="558.1479" Z="398.9498"/>
 <b X="-1145.1553" Y="590.21" Z="398.9361"/>
-<InfoGegenRichtung vMax="38.8889" km="408.8753" pos="1" Reg="5053">
+<InfoNormRichtung vMax="-1" Reg="5055"/>
+<InfoGegenRichtung vMax="38.8889" km="408.8753" pos="1" Reg="5055">
 <Ereignis Er="4"/>
 <Ereignis Er="28" Beschr="720"/>
 <Ereignis Er="6"/>
@@ -23679,18 +23667,18 @@
 <StrElement Nr="1706" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1153.485" Y="589.666" Z="398.9347"/>
 <b X="-1238.3979" Y="629.8038" Z="398.9174"/>
-<InfoNormRichtung vMax="38.8889" km="408.7502" Reg="5054">
+<InfoNormRichtung vMax="38.8889" km="408.7502" Reg="5056">
 <Ereignis Er="4"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="408.6563" pos="1" Reg="5054"/>
+<InfoGegenRichtung vMax="38.8889" km="408.6563" pos="1" Reg="5056"/>
 <NachNorm Nr="1707"/>
 <NachGegen Nr="1720"/>
 </StrElement>
 <StrElement Nr="1707" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1238.3979" Y="629.8038" Z="398.9174"/>
 <b X="-1289.0266" Y="653.7356" Z="398.9071"/>
-<InfoNormRichtung vMax="-1" Reg="5055"/>
-<InfoGegenRichtung vMax="38.8889" km="408.6473" pos="1" Reg="5055">
+<InfoNormRichtung vMax="-1" Reg="5057"/>
+<InfoGegenRichtung vMax="38.8889" km="408.6473" pos="1" Reg="5057">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1806"/>
@@ -23743,7 +23731,7 @@
 <StrElement Nr="1711" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1128.95" Y="578.0681" Z="398.9397"/>
 <b X="-1130.035" Y="578.5809" Z="398.9395"/>
-<InfoNormRichtung vMax="-1" km="408.7773" pos="1" Reg="5056">
+<InfoNormRichtung vMax="-1" km="408.7773" pos="1" Reg="5058">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="W1R" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="-1128.95" Y="578.0681" Z="398.9397"/>
 <phi Y="0.000183" Z="2.700026"/>
@@ -23952,7 +23940,7 @@
 <MatrixEintrag Signalbild="536871173" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.7762" pos="1" Reg="5056"/>
+<InfoGegenRichtung vMax="-1" km="408.7762" pos="1" Reg="5058"/>
 <NachNorm Nr="1712"/>
 <NachNorm Nr="1714"/>
 <NachGegen Nr="1218"/>
@@ -24085,7 +24073,7 @@
 <StrElement Nr="1726" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="-1371.188" Y="708.2226" Z="398.8892"/>
 <b X="-1372.2729" Y="708.7347" Z="398.889"/>
-<InfoNormRichtung vMax="-1" km="408.5027" pos="1" Reg="5057">
+<InfoNormRichtung vMax="-1" km="408.5027" pos="1" Reg="5059">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="W5R" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="-1371.188" Y="708.2226" Z="398.8892"/>
 <phi Y="0.000183" Z="2.700698"/>
@@ -24294,7 +24282,7 @@
 <MatrixEintrag Signalbild="536871173" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.5016" pos="1" Reg="5057"/>
+<InfoGegenRichtung vMax="-1" km="408.5016" pos="1" Reg="5059"/>
 <NachNorm Nr="1727"/>
 <NachNorm Nr="1729"/>
 <NachGegen Nr="1590"/>
@@ -25055,8 +25043,8 @@
 <StrElement Nr="1766" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1273.9" Y="651.0597" Z="398.9099"/>
 <b X="-1362.951" Y="693.139" Z="398.8918"/>
-<InfoNormRichtung vMax="38.8889" km="408.6151"/>
-<InfoGegenRichtung vMax="38.8889" km="408.5166" pos="1">
+<InfoNormRichtung vMax="38.8889" km="408.6151" Reg="5060"/>
+<InfoGegenRichtung vMax="38.8889" km="408.5166" pos="1" Reg="5060">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="DD" BoundingR="10">
 <p X="-1274.8613" Y="649.0254" Z="398.9099"/>
 <phi Z="-0.441431"/>
@@ -25142,7 +25130,7 @@
 <StrElement Nr="1768" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1476.54" Y="746.8128" Z="398.8687"/>
 <b X="-1475.455" Y="746.3001" Z="398.8689"/>
-<InfoNormRichtung vMax="-1" km="408.391" pos="1" Reg="5058">
+<InfoNormRichtung vMax="-1" km="408.391" pos="1" Reg="5061">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="W6R" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="-1476.54" Y="746.8128" Z="398.8687"/>
 <phi Y="-0.000186" Z="-0.441429"/>
@@ -25351,7 +25339,7 @@
 <MatrixEintrag Signalbild="536871173" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.3922" Reg="5058"/>
+<InfoGegenRichtung vMax="-1" km="408.3922" Reg="5061"/>
 <NachNorm Nr="1769"/>
 <NachNorm Nr="1771"/>
 <NachGegen Nr="1212"/>
@@ -25987,8 +25975,8 @@
 <StrElement Nr="1801" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-800.3555" Y="427.1584" Z="399.0536"/>
 <b X="-755.7141" Y="406.0479" Z="399.1059"/>
-<InfoNormRichtung vMax="38.8889" km="409.1389" pos="1" Reg="5059"/>
-<InfoGegenRichtung vMax="-1" Reg="5059">
+<InfoNormRichtung vMax="38.8889" km="409.1389" pos="1" Reg="5062"/>
+<InfoGegenRichtung vMax="-1" Reg="5062">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="A" SignalTyp="7" BoundingR="10">
 <p X="-798.9875" Y="430.0513" Z="398.5536"/>
 <phi Z="2.699866"/>
@@ -26678,8 +26666,8 @@
 <StrElement Nr="1804" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1709.4401" Y="857.0444" Z="398.8034"/>
 <b X="-1665.334" Y="836.1301" Z="398.8188"/>
-<InfoNormRichtung vMax="-1" Reg="5060"/>
-<InfoGegenRichtung vMax="-1" Reg="5060">
+<InfoNormRichtung vMax="-1" Reg="5063"/>
+<InfoGegenRichtung vMax="-1" Reg="5063">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="B" SignalTyp="9" BoundingR="10">
 <p X="-1708.069" Y="859.9359" Z="398.3034"/>
 <phi Z="2.698812"/>
@@ -26777,8 +26765,8 @@
 <StrElement Nr="1806" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1289.0266" Y="653.7356" Z="398.9071"/>
 <b X="-1323.311" Y="669.9416" Z="398.9002"/>
-<InfoNormRichtung vMax="-1" Reg="5061"/>
-<InfoGegenRichtung vMax="-1" Reg="5061">
+<InfoNormRichtung vMax="-1" Reg="5064"/>
+<InfoGegenRichtung vMax="-1" Reg="5064">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="D" SignalTyp="9" BoundingR="10">
 <p X="-1290.3942" Y="650.8425" Z="398.4071"/>
 <phi Z="-0.441564"/>
@@ -26917,7 +26905,7 @@
 <StrElement Nr="1809" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2150.6746" Y="-978.4966" Z="400.7313"/>
 <b X="2214.6699" Y="-1008.883" Z="400.7442"/>
-<InfoNormRichtung vMax="27.7778" km="412.4076" pos="1" Reg="5062">
+<InfoNormRichtung vMax="27.7778" km="412.4076" pos="1" Reg="5065">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pw (Stw1)" Signalname="N 3" SignalTyp="9" BoundingR="10">
 <p X="2213.5977" Y="-1011.1414" Z="400.7442"/>
 <phi Z="-0.443303"/>
@@ -27047,7 +27035,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" Reg="5062">
+<InfoGegenRichtung vMax="-1" Reg="5065">
 <Ereignis Er="6"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="500 Hz (P 3)" SignalTyp="14" BoundingR="3">
 <p X="2150.6746" Y="-978.4966" Z="400.7313"/>
@@ -27140,11 +27128,11 @@
 <StrElement Nr="1814" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1483.4775" Y="750.091" Z="398.8673"/>
 <b X="-1504.2728" Y="759.9172" Z="398.8631"/>
-<InfoNormRichtung vMax="-1" Reg="5063">
+<InfoNormRichtung vMax="-1" Reg="5066">
 <Ereignis Er="1000007" Beschr="Reichenau Baden"/>
 <Ereignis Er="4"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" Reg="5063">
+<InfoGegenRichtung vMax="-1" Reg="5066">
 <Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
 <p X="-1483.4775" Y="750.091" Z="404.9673"/>
 <phi Z="-0.441422"/>
@@ -27485,7 +27473,7 @@
 <StrElement Nr="1831" Ueberh="0.0193" kr="-0.000767" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2259.6526" Y="-1024.9873" Z="400.7529"/>
 <b X="2262.0229" Y="-1026.121" Z="400.7534"/>
-<InfoNormRichtung vMax="-1" Reg="5064">
+<InfoNormRichtung vMax="-1" Reg="5067">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pw (Stw1)" Signalname="N 2" SignalTyp="9" BoundingR="10">
 <p X="2260.9443" Y="-1028.3763" Z="400.7534"/>
 <phi Z="-0.446111"/>
@@ -27607,7 +27595,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" Reg="5064">
+<InfoGegenRichtung vMax="-1" Reg="5067">
 <Ereignis Er="1000007" Beschr="Konstanz Petershausen"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1342"/>
@@ -27649,7 +27637,7 @@
 <StrElement Nr="1840" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1276.0917" Y="-559.8736" Z="400.4756"/>
 <b X="1285.1301" Y="-564.1523" Z="400.4787"/>
-<InfoNormRichtung vMax="-1" Reg="5065">
+<InfoNormRichtung vMax="-1" Reg="5068">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="A" SignalTyp="7" BoundingR="10">
 <p X="1284.0604" Y="-566.4119" Z="400.4787"/>
 <phi Z="-0.442137"/>
@@ -28341,7 +28329,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" Reg="5065">
+<InfoGegenRichtung vMax="-1" Reg="5068">
 <Ereignis Er="1000010" Beschr="Konstanz Fürstenberg Hp"/>
 </InfoGegenRichtung>
 <NachNorm Nr="84"/>
@@ -28461,7 +28449,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28473,7 +28461,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28511,7 +28499,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28523,7 +28511,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28797,7 +28785,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28809,7 +28797,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28847,7 +28835,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28859,7 +28847,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28901,9 +28889,9 @@
 <g X="1850.2737" Y="-822.2993" Z="400.5744"/>
 <b X="1839.9204" Y="-845.0539" Z="400.6449"/>
 <InfoNormRichtung vMax="-1">
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalTyp="4" BoundingR="10">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="4" BoundingR="10">
 <p X="1850.2737" Y="-822.2993" Z="400.5744"/>
-<phi Z="-1.997797"/>
+<phi Z="-1.997798"/>
 <SignalFrame>
 <p Y="-8.725"/>
 <phi/>
@@ -28948,12 +28936,9 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Bü Petershausen Schneckenburgerstraße" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="1839.9204" Y="-845.0539" Z="400.3849"/>
-<phi Z="1.143795"/>
-<KoppelSignal ReferenzNr="330">
-<Datei NurInfo="1"/>
-</KoppelSignal>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalFlags="8" SignalTyp="4" BoundingR="10">
+<p X="1839.9204" Y="-845.0539" Z="400.6449"/>
+<phi Z="1.143794"/>
 <SignalFrame>
 <p Y="-8.725"/>
 <phi/>
@@ -29240,8 +29225,8 @@
 <StrElement Nr="1915" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-802.0656" Y="423.5425" Z="399.0536"/>
 <b X="-757.4241" Y="402.4319" Z="399.1059"/>
-<InfoNormRichtung vMax="38.8889" km="409.1389" pos="1" Reg="5066"/>
-<InfoGegenRichtung vMax="-1" Reg="5066">
+<InfoNormRichtung vMax="38.8889" km="409.1389" pos="1" Reg="5069"/>
+<InfoGegenRichtung vMax="-1" Reg="5069">
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="A\" SignalTyp="13" BoundingR="10">
 <p X="-803.3909" Y="420.7401" Z="399.0536"/>
 <phi Z="2.699866"/>
@@ -29534,12 +29519,11 @@
 <NachNorm Nr="1994"/>
 <NachGegen Nr="1996"/>
 </StrElement>
-<StrElement Nr="1942" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<StrElement Nr="1942" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2111.2061" Y="-912.8585" Z="400.6401"/>
 <b X="2130.5869" Y="-868.6221" Z="401.2176"/>
 <InfoNormRichtung vMax="27.7778"/>
 <NachNorm Nr="839"/>
-<NachGegen Nr="838"/>
 </StrElement>
 <StrElement Nr="1943" Ueberh="-0.1047" kr="0.011765" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2111.2061" Y="-912.8585" Z="400.6401"/>
@@ -29850,7 +29834,8 @@
 <StrElement Nr="1994" spTrass="27.7778" Anschluss="768" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2119.4163" Y="-932.8207" Z="400.3612"/>
 <b X="2146.0029" Y="-944.4294" Z="400.39"/>
-<InfoNormRichtung vMax="27.7778"/>
+<InfoNormRichtung vMax="27.7778" Reg="5070"/>
+<InfoGegenRichtung vMax="-1" Reg="5070"/>
 <NachNorm Nr="808"/>
 <NachGegen Nr="1941"/>
 <NachGegen Nr="1993"/>
@@ -29870,7 +29855,6 @@
 <StrElement Nr="2004" Ueberh="0.0501" kr="-0.000899" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="2472.958" Y="-1638.041" Z="400.3999"/>
 <b X="2472.4563" Y="-1639.9277" Z="400.4756"/>
-<NachNorm Nr="2005"/>
 <NachGegen Nr="1462"/>
 </StrElement>
 <StrElement Nr="2005" Ueberh="0.1047" kr="-0.0109" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
@@ -30480,13 +30464,91 @@
 <g X="2423.2148" Y="-1122.5388" Z="400.6227"/>
 <b X="2459.6641" Y="-1085.3319" Z="401.5296"/>
 </StrElement>
-<Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Reichenau Baden D" FahrstrTyp="TypZug" Laenge="575.79">
+<StrElement Nr="2122" spTrass="27.7778" Fkt="2">
+<g X="2420.134" Y="-1783.0343" Z="394.7537"/>
+<b X="2471.3511" Y="-1817.34" Z="394.7668"/>
+<NachGegen Nr="2123"/>
+</StrElement>
+<StrElement Nr="2123" spTrass="27.7778" Fkt="2">
+<g X="2420.134" Y="-1783.0343" Z="394.7537"/>
+<b X="2080.3977" Y="-1557.6425" Z="394.7833"/>
+</StrElement>
+<StrElement Nr="2124" spTrass="27.7778" Fkt="2">
+<g X="2616.8918" Y="-1388.8062" Z="402.3524"/>
+<b X="2546.7261" Y="-1351.3879" Z="401.1207"/>
+</StrElement>
+<StrElement Nr="2125" spTrass="27.7778" Fkt="2">
+<g X="2588.8174" Y="-1561.2611" Z="400.2108"/>
+<b X="2551.2778" Y="-1573.2717" Z="399.8432"/>
+<NachNorm Nr="2126"/>
+</StrElement>
+<StrElement Nr="2126" spTrass="27.7778" Fkt="2">
+<g X="2551.2778" Y="-1573.2717" Z="399.8432"/>
+<b X="2547.4805" Y="-1575.0658" Z="399.8478"/>
+<NachNorm Nr="2127"/>
+</StrElement>
+<StrElement Nr="2127" spTrass="27.7778" Fkt="2">
+<g X="2547.4805" Y="-1575.0658" Z="399.8478"/>
+<b X="2544.459" Y="-1577.1016" Z="399.8828"/>
+<NachNorm Nr="2128"/>
+</StrElement>
+<StrElement Nr="2128" spTrass="27.7778" Fkt="2">
+<g X="2544.459" Y="-1577.1016" Z="399.8828"/>
+<b X="2540.6082" Y="-1583.3678" Z="399.9735"/>
+<NachNorm Nr="2129"/>
+</StrElement>
+<StrElement Nr="2129" spTrass="27.7778" Fkt="2">
+<g X="2540.6082" Y="-1583.3678" Z="399.9735"/>
+<b X="2509.6768" Y="-1658.4624" Z="399.8806"/>
+<NachNorm Nr="2130"/>
+</StrElement>
+<StrElement Nr="2130" spTrass="27.7778" Fkt="2">
+<g X="2509.6768" Y="-1658.4624" Z="399.8806"/>
+<b X="2486.2778" Y="-1716.0956" Z="398.2163"/>
+<NachNorm Nr="2131"/>
+</StrElement>
+<StrElement Nr="2131" spTrass="27.7778" Fkt="2">
+<g X="2486.2778" Y="-1716.0956" Z="398.2163"/>
+<b X="2485.4153" Y="-1723.0835" Z="397.7852"/>
+<NachNorm Nr="2132"/>
+</StrElement>
+<StrElement Nr="2132" spTrass="27.7778" Fkt="2">
+<g X="2485.4153" Y="-1723.0835" Z="397.7852"/>
+<b X="2488.9119" Y="-1729.5985" Z="397.0344"/>
+<NachNorm Nr="2133"/>
+</StrElement>
+<StrElement Nr="2133" spTrass="27.7778" Fkt="2">
+<g X="2488.9119" Y="-1729.5985" Z="397.0344"/>
+<b X="2495.3325" Y="-1735.4924" Z="396.8362"/>
+<NachNorm Nr="2134"/>
+</StrElement>
+<StrElement Nr="2134" spTrass="27.7778" Fkt="2">
+<g X="2495.3325" Y="-1735.4924" Z="396.8362"/>
+<b X="2505.7917" Y="-1741.7545" Z="396.7983"/>
+<NachNorm Nr="2135"/>
+</StrElement>
+<StrElement Nr="2135" spTrass="27.7778" Fkt="2">
+<g X="2505.7917" Y="-1741.7545" Z="396.7983"/>
+<b X="2560.9827" Y="-1769.0767" Z="395.6307"/>
+</StrElement>
+<StrElement Nr="2136" spTrass="27.7778" Fkt="2">
+<g X="2534.1194" Y="-1599.6378" Z="399.9536"/>
+<b X="2573.3264" Y="-1606.6788" Z="399.9006"/>
+</StrElement>
+<StrElement Nr="2137" spTrass="27.7778" Fkt="2">
+<g X="2510.3271" Y="-1657.1708" Z="399.8823"/>
+<b X="2568.7173" Y="-1675.5028" Z="398.5905"/>
+</StrElement>
+<Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Reichenau Baden D" FahrstrStrecke="720" RglGgl="3" FahrstrTyp="TypZug" Laenge="575.79">
 <FahrstrStart Ref="295">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
 <FahrstrZiel Ref="215">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrZiel>
+<FahrstrRegister Ref="365">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
 <FahrstrRegister Ref="217">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
@@ -30500,11 +30562,11 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Konstanz Petershausen AA" FahrstrStrecke="720" RglGgl="3" FahrstrTyp="TypZug" Laenge="3466.6191">
+<Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Reichenau Baden DD" FahrstrTyp="TypZug" Laenge="590.6116">
 <FahrstrStart Ref="296">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
-<FahrstrZiel Ref="342">
+<FahrstrZiel Ref="378">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrZiel>
 <FahrstrRegister Ref="233">
@@ -30519,146 +30581,30 @@
 <FahrstrRegister Ref="204">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrRegister Ref="165">
+<FahrstrRegister Ref="380">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrRegister Ref="170">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="174">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="282">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="230">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="210">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="343">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrAufloesung Ref="235">
+<FahrstrAufloesung Ref="280">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="235">
+<FahrstrAufloesung Ref="259">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="250">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrTeilaufloesung Ref="280">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrTeilaufloesung>
-<FahrstrSigHaltfall Ref="271">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSigHaltfall>
 <FahrstrWeiche Ref="203" FahrstrWeichenlage="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="169" FahrstrWeichenlage="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="172" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrWeiche>
 <FahrstrSignal Ref="312" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="317" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="323" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Konstanz Petershausen A" FahrstrStrecke="720" RglGgl="2" FahrstrTyp="TypZug" Laenge="3423.7007">
-<FahrstrStart Ref="296">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrStart>
-<FahrstrZiel Ref="226">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrZiel>
-<FahrstrRegister Ref="233">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="213">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="291">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="204">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="165">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="170">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="177">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="183">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="261">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="357">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="227">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrAufloesung Ref="235">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="250">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrTeilaufloesung Ref="259">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrTeilaufloesung>
-<FahrstrSigHaltfall Ref="241">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSigHaltfall>
-<FahrstrSigHaltfall Ref="271">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSigHaltfall>
-<FahrstrWeiche Ref="203" FahrstrWeichenlage="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="169" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="175" FahrstrWeichenlage="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="181" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrSignal Ref="312" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="315" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="321" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSignal>
-</Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen P 1 -&gt; Reichenau Baden A" FahrstrTyp="TypZug" Laenge="2937.8262">
+<Fahrstrasse FahrstrName="Konstanz Petershausen P 1 -&gt; Reichenau Baden A" FahrstrStrecke="720" RglGgl="2" FahrstrTyp="TypZug" Laenge="2937.8247">
 <FahrstrStart Ref="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
 <FahrstrZiel Ref="209">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrZiel>
-<FahrstrRegister Ref="237">
+<FahrstrRegister Ref="369">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="83">
@@ -30703,7 +30649,7 @@
 <FahrstrWeiche Ref="133" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="334" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="367" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="324" FahrstrSignalZeile="1">
@@ -30712,6 +30658,9 @@
 <FahrstrSignal Ref="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
+<FahrstrVSignal Ref="373" FahrstrSignalSpalte="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrVSignal>
 <FahrstrVSignal Ref="218" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
@@ -30719,14 +30668,14 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen P 1 -&gt; Reichenau Baden AA" FahrstrTyp="TypZug" Laenge="2938.0103">
+<Fahrstrasse FahrstrName="Konstanz Petershausen P 1 -&gt; Reichenau Baden A\" FahrstrStrecke="720" RglGgl="3" FahrstrTyp="TypZug" Laenge="2938.0088">
 <FahrstrStart Ref="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
 <FahrstrZiel Ref="356">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrZiel>
-<FahrstrRegister Ref="237">
+<FahrstrRegister Ref="369">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="83">
@@ -30789,16 +30738,16 @@
 <FahrstrWeiche Ref="16" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="334" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="367" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="361">
+<FahrstrSignal Ref="361" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="322" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="1" FahrstrSignalErsatzsignal="1">
+<FahrstrSignal Ref="1" FahrstrSignalZeile="1" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
@@ -30822,7 +30771,7 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSigHaltfall>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen AA -&gt; Konstanz Petershausen N 1" FahrstrTyp="TypZug" Laenge="1041.111">
+<Fahrstrasse FahrstrName="Konstanz Petershausen AA -&gt; Konstanz Petershausen N 1" FahrstrTyp="TypZug" Laenge="1041.1096">
 <FahrstrStart Ref="342">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -30844,7 +30793,7 @@
 <FahrstrRegister Ref="84">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrRegister Ref="236">
+<FahrstrRegister Ref="370">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="2">
@@ -30853,7 +30802,7 @@
 <FahrstrRegister Ref="349">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrTeilaufloesung Ref="235">
+<FahrstrTeilaufloesung Ref="368">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
 <FahrstrWeiche Ref="133" FahrstrWeichenlage="1">
@@ -30865,7 +30814,7 @@
 <FahrstrWeiche Ref="82" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="333" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="366" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="342">
@@ -31017,7 +30966,7 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen P 3 -&gt; Reichenau Baden AA" FahrstrTyp="TypZug" Laenge="3018.876">
+<Fahrstrasse FahrstrName="Konstanz Petershausen P 3 -&gt; Reichenau Baden A\" FahrstrStrecke="720" RglGgl="3" FahrstrTyp="TypZug" Laenge="3018.876">
 <FahrstrStart Ref="5">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -31090,11 +31039,11 @@
 <FahrstrSignal Ref="322" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="5" FahrstrSignalErsatzsignal="1">
+<FahrstrSignal Ref="5" FahrstrSignalZeile="1" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen P 3 -&gt; Reichenau Baden A" FahrstrTyp="TypZug" Laenge="3019.0852">
+<Fahrstrasse FahrstrName="Konstanz Petershausen P 3 -&gt; Reichenau Baden A" FahrstrStrecke="720" RglGgl="2" FahrstrTyp="TypZug" Laenge="3019.0852">
 <FahrstrStart Ref="5">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -31180,7 +31129,7 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen P 2 -&gt; Reichenau Baden AA" FahrstrTyp="TypZug" Laenge="2937.9004">
+<Fahrstrasse FahrstrName="Konstanz Petershausen P 2 -&gt; Reichenau Baden A\" FahrstrStrecke="720" RglGgl="3" FahrstrTyp="TypZug" Laenge="2937.9004">
 <FahrstrStart Ref="8">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -31238,17 +31187,17 @@
 <FahrstrSignal Ref="332" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="361">
+<FahrstrSignal Ref="361" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="322" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="8" FahrstrSignalErsatzsignal="1">
+<FahrstrSignal Ref="8" FahrstrSignalZeile="1" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen P 2 -&gt; Reichenau Baden A" FahrstrTyp="TypZug" Laenge="2938.0667">
+<Fahrstrasse FahrstrName="Konstanz Petershausen P 2 -&gt; Reichenau Baden A" FahrstrStrecke="720" RglGgl="2" FahrstrTyp="TypZug" Laenge="2938.0667">
 <FahrstrStart Ref="8">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -31318,158 +31267,13 @@
 <FahrstrSignal Ref="8" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
+<FahrstrVSignal Ref="382" FahrstrSignalSpalte="5">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrVSignal>
 <FahrstrVSignal Ref="220" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 <FahrstrVSignal Ref="87" FahrstrSignalSpalte="5">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrVSignal>
-</Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen P 4 -&gt; Reichenau Baden AA" FahrstrTyp="TypZug" Laenge="2803.2422">
-<FahrstrStart Ref="345">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrStart>
-<FahrstrZiel Ref="356">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrZiel>
-<FahrstrRegister Ref="45">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="30">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="39">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="43">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="14">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="23">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="18">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="246">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="243">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="228">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="358">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrAufloesung Ref="283">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="289">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrTeilaufloesung Ref="244">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrTeilaufloesung>
-<FahrstrWeiche Ref="44" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="38" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="41" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="22" FahrstrWeichenlage="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="16" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrSignal Ref="322" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="345" FahrstrSignalErsatzsignal="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSignal>
-</Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen P 4 -&gt; Reichenau Baden A" FahrstrTyp="TypZug" Laenge="2803.4514">
-<FahrstrStart Ref="345">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrStart>
-<FahrstrZiel Ref="209">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrZiel>
-<FahrstrRegister Ref="45">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="30">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="39">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="43">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="14">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="23">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="27">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="135">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="240">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="344">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrRegister Ref="211">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrRegister>
-<FahrstrAufloesung Ref="289">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrTeilaufloesung Ref="238">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrTeilaufloesung>
-<FahrstrSigHaltfall Ref="229">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSigHaltfall>
-<FahrstrWeiche Ref="44" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="38" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="41" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="22" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="25" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrWeiche Ref="133" FahrstrWeichenlage="2">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrWeiche>
-<FahrstrSignal Ref="324" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="345" FahrstrSignalZeile="5">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrVSignal Ref="359" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
@@ -31668,6 +31472,127 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
+<Fahrstrasse FahrstrName="Reichenau Baden DD -&gt; Konstanz Petershausen AA" FahrstrStrecke="720" RglGgl="3" FahrstrTyp="TypZug" Laenge="2876.0076">
+<FahrstrStart Ref="378">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrStart>
+<FahrstrZiel Ref="342">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrZiel>
+<FahrstrRegister Ref="165">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="170">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="174">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="282">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="230">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="210">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="343">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrAufloesung Ref="368">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="368">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="250">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrTeilaufloesung Ref="280">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrTeilaufloesung>
+<FahrstrSigHaltfall Ref="271">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrWeiche Ref="169" FahrstrWeichenlage="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrWeiche Ref="172" FahrstrWeichenlage="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrSignal Ref="317" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="323" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="378">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+</Fahrstrasse>
+<Fahrstrasse FahrstrName="Reichenau Baden DD -&gt; Konstanz Petershausen A" FahrstrStrecke="720" RglGgl="2" FahrstrTyp="TypZug" Laenge="2833.0889">
+<FahrstrStart Ref="378">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrStart>
+<FahrstrZiel Ref="226">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrZiel>
+<FahrstrRegister Ref="165">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="170">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="177">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="183">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="261">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="357">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="227">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrAufloesung Ref="368">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="250">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrTeilaufloesung Ref="259">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrTeilaufloesung>
+<FahrstrSigHaltfall Ref="241">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrSigHaltfall Ref="271">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrWeiche Ref="169" FahrstrWeichenlage="2">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrWeiche Ref="175" FahrstrWeichenlage="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrWeiche Ref="181" FahrstrWeichenlage="2">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrSignal Ref="315" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="321" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="378" FahrstrSignalZeile="5">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+</Fahrstrasse>
 <Fahrstrasse FahrstrName="Reichenau Baden A -&gt; Reichenau Baden B" FahrstrTyp="TypZug" Laenge="1005.6064">
 <FahrstrStart Ref="209">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
@@ -31688,6 +31613,9 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="171">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="379">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="205">
@@ -31720,6 +31648,9 @@
 <FahrstrSignal Ref="318" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
+<FahrstrSignal Ref="383">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
 <FahrstrSignal Ref="311" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
@@ -31730,6 +31661,9 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 <FahrstrVSignal Ref="208">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrVSignal>
+<FahrstrVSignal Ref="359" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
@@ -31758,7 +31692,7 @@
 <FahrstrRegister Ref="227">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrAufloesung Ref="235">
+<FahrstrAufloesung Ref="368">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrAufloesung>
 <FahrstrAufloesung Ref="250">
@@ -31854,7 +31788,7 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz Petershausen A -&gt; Konstanz Petershausen N 1" FahrstrTyp="TypZug" Laenge="1084.3905">
+<Fahrstrasse FahrstrName="Konstanz Petershausen A -&gt; Konstanz Petershausen N 1" FahrstrTyp="TypZug" Laenge="1084.3892">
 <FahrstrStart Ref="226">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -31888,7 +31822,7 @@
 <FahrstrRegister Ref="84">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrRegister Ref="236">
+<FahrstrRegister Ref="370">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="2">
@@ -31897,7 +31831,7 @@
 <FahrstrRegister Ref="349">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrTeilaufloesung Ref="235">
+<FahrstrTeilaufloesung Ref="368">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
 <FahrstrSigHaltfall Ref="241">
@@ -31918,7 +31852,7 @@
 <FahrstrWeiche Ref="82" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="333" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="366" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="226" FahrstrSignalZeile="5">
@@ -32008,7 +31942,57 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Reichenau Baden AA -&gt; Reichenau Baden B" FahrstrTyp="TypZug" Laenge="1005.7839">
+<Fahrstrasse FahrstrName="Reichenau Baden A\ -&gt; Reichenau Baden BB" FahrstrTyp="TypZug" Laenge="1005.7899">
+<FahrstrStart Ref="356">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrStart>
+<FahrstrZiel Ref="363">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrZiel>
+<FahrstrRegister Ref="260">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="182">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="284">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="287">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="216">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="364">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrTeilaufloesung Ref="283">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrTeilaufloesung>
+<FahrstrWeiche Ref="181" FahrstrWeichenlage="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrWeiche>
+<FahrstrSignal Ref="384" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="309" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="356">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrVSignal Ref="360" FahrstrSignalSpalte="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrVSignal>
+<FahrstrVSignal Ref="355" FahrstrSignalSpalte="5">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrVSignal>
+<FahrstrVSignal Ref="359" FahrstrSignalSpalte="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrVSignal>
+</Fahrstrasse>
+<Fahrstrasse FahrstrName="Reichenau Baden A\ -&gt; Reichenau Baden B" FahrstrTyp="TypZug" Laenge="1005.7839">
 <FahrstrStart Ref="356">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -32028,6 +32012,9 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="171">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="379">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="205">
@@ -32057,7 +32044,10 @@
 <FahrstrWeiche Ref="203" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrWeiche>
-<FahrstrSignal Ref="316" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="384" FahrstrSignalZeile="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSignal>
+<FahrstrSignal Ref="383">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="311" FahrstrSignalZeile="1">
@@ -32070,6 +32060,9 @@
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 <FahrstrVSignal Ref="355" FahrstrSignalSpalte="5">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrVSignal>
+<FahrstrVSignal Ref="359" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>

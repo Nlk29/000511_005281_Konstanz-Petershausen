@@ -2,19 +2,19 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte BoundingR="1" SichtbarBis="250" Vorlade="1" LODbit="12">
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="250" Vorlade="1" LODbit="12">
 <Datei Dateiname="KoPf_Empfang_Peter.lod1.ls3"/>
 <p/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte BoundingR="1" SichtbarAb="250" SichtbarBis="500" Vorlade="1" LODbit="2">
+<Verknuepfte Flags="16" BoundingR="7" SichtbarAb="250" SichtbarBis="500" Vorlade="1" LODbit="2">
 <Datei Dateiname="KoPf_Empfang_Peter.lod2.ls3"/>
 <p/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte BoundingR="1" SichtbarAb="500" SichtbarBis="1000" Vorlade="1" LODbit="1">
+<Verknuepfte Flags="16" BoundingR="7" SichtbarAb="500" SichtbarBis="1000" Vorlade="1" LODbit="1">
 <Datei Dateiname="KoPf_Empfang_Peter.lod3.ls3"/>
 <p/>
 <phi/>

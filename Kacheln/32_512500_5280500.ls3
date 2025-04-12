@@ -1814,6 +1814,48 @@
 <phi Z="-0.415085"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="62" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Rieter\KoPf_Rieter.lod.ls3"/>
+<p X="290.3952" Y="-271.8666" Z="400.697"/>
+<phi Z="-0.445468"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_14_WHaus_am_Westentor\04_14_WHaus.lod.ls3"/>
+<p X="-326.5954" Y="49.0819" Z="404.492"/>
+<phi Z="4.270254"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_14_WHaus_am_Westentor\04_14_WHaus.lod.ls3"/>
+<p X="-351.9131" Y="60.83" Z="404.5229"/>
+<phi Z="4.270254"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="64" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000386_005701_Witten-Annen_Nord\Objekte\30_Industrie\30_Witten-Annen-Nord-Fa-MGruppe\30_FA-MGruppe-Halle-1.lod.ls3"/>
+<p X="-271.0836" Y="83.685" Z="404.492"/>
+<phi Z="1.128664"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg.lod.ls3"/>
+<p X="-402.8152" Y="84.2721" Z="404.7206"/>
+<phi Z="-0.442132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg.lod.ls3"/>
+<p X="-440.9086" Y="102.3901" Z="404.6636"/>
+<phi Z="-0.442132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg.lod.ls3"/>
+<p X="-479.0952" Y="120.035" Z="404.6636"/>
+<phi Z="-0.442132"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_512500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeterProTex="5" MeterProTex2="10" MeshV="729" MeshI="1224">
 <RenderFlags TexVoreinstellung="3"/>
