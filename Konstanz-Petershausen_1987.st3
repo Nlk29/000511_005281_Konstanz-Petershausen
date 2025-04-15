@@ -14532,12 +14532,14 @@
 <b X="58.0309" Y="29.0251" Z="400"/>
 <InfoGegenRichtung vMax="27.7778" km="0.0171" pos="1"/>
 <NachNorm Nr="1887"/>
+<NachGegen Nr="2155"/>
 </StrElement>
 <StrElement Nr="939" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="56.3132" Y="1.0592" Z="399.9473"/>
 <b X="51.4697" Y="-77.7998" Z="399.4637"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.079" pos="1"/>
+<NachNorm Nr="2159"/>
 <NachGegen Nr="1889"/>
 </StrElement>
 <StrElement Nr="940" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
@@ -28449,7 +28451,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28461,7 +28463,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28499,7 +28501,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28511,7 +28513,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28785,7 +28787,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28797,7 +28799,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28835,7 +28837,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28847,7 +28849,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28900,7 +28902,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28912,7 +28914,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28947,7 +28949,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28959,7 +28961,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -30467,11 +30469,13 @@
 <StrElement Nr="2122" spTrass="27.7778" Fkt="2">
 <g X="2420.134" Y="-1783.0343" Z="394.7537"/>
 <b X="2471.3511" Y="-1817.34" Z="394.7668"/>
+<NachNorm Nr="2138"/>
 <NachGegen Nr="2123"/>
 </StrElement>
 <StrElement Nr="2123" spTrass="27.7778" Fkt="2">
 <g X="2420.134" Y="-1783.0343" Z="394.7537"/>
 <b X="2080.3977" Y="-1557.6425" Z="394.7833"/>
+<NachNorm Nr="2144"/>
 </StrElement>
 <StrElement Nr="2124" spTrass="27.7778" Fkt="2">
 <g X="2616.8918" Y="-1388.8062" Z="402.3524"/>
@@ -30538,6 +30542,338 @@
 <StrElement Nr="2137" spTrass="27.7778" Fkt="2">
 <g X="2510.3271" Y="-1657.1708" Z="399.8823"/>
 <b X="2568.7173" Y="-1675.5028" Z="398.5905"/>
+</StrElement>
+<StrElement Nr="2138" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2471.3511" Y="-1817.34" Z="394.7668"/>
+<b X="2540.5879" Y="-1863.7156" Z="394.7668"/>
+<NachNorm Nr="2139"/>
+<NachGegen Nr="2122"/>
+</StrElement>
+<StrElement Nr="2139" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2540.5879" Y="-1863.7156" Z="394.7668"/>
+<b X="2609.8247" Y="-1910.0912" Z="394.7668"/>
+<NachNorm Nr="2140"/>
+<NachGegen Nr="2138"/>
+</StrElement>
+<StrElement Nr="2140" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2609.8247" Y="-1910.0912" Z="394.7668"/>
+<b X="2679.0615" Y="-1956.4668" Z="394.7668"/>
+<NachNorm Nr="2141"/>
+<NachGegen Nr="2139"/>
+</StrElement>
+<StrElement Nr="2141" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2679.0615" Y="-1956.4668" Z="394.7668"/>
+<b X="2748.2983" Y="-2002.8424" Z="394.7668"/>
+<NachNorm Nr="2142"/>
+<NachGegen Nr="2140"/>
+</StrElement>
+<StrElement Nr="2142" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2748.2983" Y="-2002.8424" Z="394.7668"/>
+<b X="2817.5352" Y="-2049.218" Z="394.7668"/>
+<NachNorm Nr="2143"/>
+<NachGegen Nr="2141"/>
+</StrElement>
+<StrElement Nr="2143" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2817.5352" Y="-2049.218" Z="394.7668"/>
+<b X="2886.772" Y="-2095.5938" Z="394.7668"/>
+<NachGegen Nr="2142"/>
+</StrElement>
+<StrElement Nr="2144" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2080.3977" Y="-1557.6425" Z="394.7833"/>
+<b X="2004.6438" Y="-1507.385" Z="394.7833"/>
+<NachNorm Nr="2145"/>
+<NachGegen Nr="2123"/>
+</StrElement>
+<StrElement Nr="2145" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="2004.6438" Y="-1507.385" Z="394.7833"/>
+<b X="1928.8899" Y="-1457.1276" Z="394.7833"/>
+<NachNorm Nr="2146"/>
+<NachGegen Nr="2144"/>
+</StrElement>
+<StrElement Nr="2146" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="1928.8899" Y="-1457.1276" Z="394.7833"/>
+<b X="1853.136" Y="-1406.8701" Z="394.7833"/>
+<NachNorm Nr="2147"/>
+<NachGegen Nr="2145"/>
+</StrElement>
+<StrElement Nr="2147" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="1853.136" Y="-1406.8701" Z="394.7833"/>
+<b X="1777.3821" Y="-1356.6127" Z="394.7833"/>
+<NachNorm Nr="2148"/>
+<NachGegen Nr="2146"/>
+</StrElement>
+<StrElement Nr="2148" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="1777.3821" Y="-1356.6127" Z="394.7833"/>
+<b X="1701.6282" Y="-1306.3552" Z="394.7833"/>
+<NachNorm Nr="2149"/>
+<NachGegen Nr="2147"/>
+</StrElement>
+<StrElement Nr="2149" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="1701.6282" Y="-1306.3552" Z="394.7833"/>
+<b X="1625.8743" Y="-1256.0978" Z="394.7833"/>
+<NachNorm Nr="2150"/>
+<NachGegen Nr="2148"/>
+</StrElement>
+<StrElement Nr="2150" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="1625.8743" Y="-1256.0978" Z="394.7833"/>
+<b X="1550.1204" Y="-1205.8403" Z="394.7833"/>
+<NachNorm Nr="2151"/>
+<NachGegen Nr="2149"/>
+</StrElement>
+<StrElement Nr="2151" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="1550.1204" Y="-1205.8403" Z="394.7833"/>
+<b X="1474.3665" Y="-1155.5829" Z="394.7833"/>
+<NachNorm Nr="2152"/>
+<NachGegen Nr="2150"/>
+</StrElement>
+<StrElement Nr="2152" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="1474.3665" Y="-1155.5829" Z="394.7833"/>
+<b X="1398.6125" Y="-1105.3254" Z="394.7833"/>
+<NachNorm Nr="2153"/>
+<NachGegen Nr="2151"/>
+</StrElement>
+<StrElement Nr="2153" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="1398.6125" Y="-1105.3254" Z="394.7833"/>
+<b X="1322.8586" Y="-1055.068" Z="394.7833"/>
+<NachNorm Nr="2154"/>
+<NachGegen Nr="2152"/>
+</StrElement>
+<StrElement Nr="2154" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="1322.8586" Y="-1055.068" Z="394.7833"/>
+<b X="1247.1047" Y="-1004.8105" Z="394.7833"/>
+<NachGegen Nr="2153"/>
+</StrElement>
+<StrElement Nr="2155" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="61.1567" Y="79.9182" Z="401.5901"/>
+<b X="65.7545" Y="154.7771" Z="403.6477"/>
+<NachNorm Nr="2156"/>
+<NachGegen Nr="938"/>
+</StrElement>
+<StrElement Nr="2156" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="65.7545" Y="154.7771" Z="403.6477"/>
+<b X="70.3522" Y="229.6361" Z="405.4241"/>
+<NachNorm Nr="2157"/>
+<NachGegen Nr="2155"/>
+</StrElement>
+<StrElement Nr="2157" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="70.3522" Y="229.6361" Z="405.4241"/>
+<b X="74.95" Y="304.495" Z="406.9192"/>
+<NachNorm Nr="2158"/>
+<NachGegen Nr="2156"/>
+</StrElement>
+<StrElement Nr="2158" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="74.95" Y="304.495" Z="406.9192"/>
+<b X="79.5478" Y="379.3539" Z="408.1331"/>
+<NachGegen Nr="2157"/>
+</StrElement>
+<StrElement Nr="2159" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="51.4697" Y="-77.7998" Z="399.4637"/>
+<b X="46.8719" Y="-152.6587" Z="399.2859"/>
+<NachNorm Nr="2160"/>
+<NachGegen Nr="939"/>
+</StrElement>
+<StrElement Nr="2160" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="46.8719" Y="-152.6587" Z="399.2859"/>
+<b X="42.2741" Y="-227.5177" Z="399.2859"/>
+<NachNorm Nr="2161"/>
+<NachGegen Nr="2159"/>
+</StrElement>
+<StrElement Nr="2161" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="42.2741" Y="-227.5177" Z="399.2859"/>
+<b X="37.6762" Y="-302.3766" Z="399.2859"/>
+<NachNorm Nr="2162"/>
+<NachGegen Nr="2160"/>
+</StrElement>
+<StrElement Nr="2162" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="37.6762" Y="-302.3766" Z="399.2859"/>
+<b X="33.0784" Y="-377.2356" Z="399.2859"/>
+<NachGegen Nr="2161"/>
+</StrElement>
+<StrElement Nr="2163" spTrass="27.7778" Fkt="2">
+<g X="70.1853" Y="112.0879" Z="402.302"/>
+<b X="78.74" Y="110.4544" Z="402.3146"/>
+<NachNorm Nr="2164"/>
+</StrElement>
+<StrElement Nr="2164" spTrass="27.7778" Fkt="2">
+<g X="78.74" Y="110.4544" Z="402.3146"/>
+<b X="82.3224" Y="104.6535" Z="402.2098"/>
+<NachNorm Nr="2165"/>
+</StrElement>
+<StrElement Nr="2165" spTrass="27.7778" Fkt="2">
+<g X="82.3224" Y="104.6535" Z="402.2098"/>
+<b X="76.4684" Y="62.0344" Z="402.8168"/>
+<NachNorm Nr="2166"/>
+</StrElement>
+<StrElement Nr="2166" spTrass="27.7778" Fkt="2">
+<g X="76.4684" Y="62.0344" Z="402.8168"/>
+<b X="80.6544" Y="44.9888" Z="403.6864"/>
+<NachNorm Nr="2167"/>
+</StrElement>
+<StrElement Nr="2167" spTrass="27.7778" Fkt="2">
+<g X="80.6544" Y="44.9888" Z="403.6864"/>
+<b X="104.8846" Y="25.4354" Z="403.5934"/>
+<NachNorm Nr="2168"/>
+</StrElement>
+<StrElement Nr="2168" spTrass="27.7778" Fkt="2">
+<g X="104.8846" Y="25.4354" Z="403.5934"/>
+<b X="139.5262" Y="6.037" Z="403.668"/>
+<NachNorm Nr="2169"/>
+</StrElement>
+<StrElement Nr="2169" spTrass="27.7778" Fkt="2">
+<g X="139.5262" Y="6.037" Z="403.668"/>
+<b X="175.6324" Y="-5.5051" Z="402.5703"/>
+<NachNorm Nr="2170"/>
+</StrElement>
+<StrElement Nr="2170" spTrass="27.7778" Fkt="2">
+<g X="175.6324" Y="-5.5051" Z="402.5703"/>
+<b X="194.5887" Y="-4.9148" Z="402.2506"/>
+</StrElement>
+<StrElement Nr="2174" spTrass="27.7778" Fkt="2">
+<g X="239.1645" Y="-25.7907" Z="401.1943"/>
+<b X="234.8578" Y="-31.7364" Z="401.8819"/>
+<NachNorm Nr="2175"/>
+</StrElement>
+<StrElement Nr="2175" spTrass="27.7778" Fkt="2">
+<g X="234.8578" Y="-31.7364" Z="401.8819"/>
+<b X="231.2133" Y="-35.4649" Z="401.2419"/>
+<NachNorm Nr="2176"/>
+</StrElement>
+<StrElement Nr="2176" spTrass="27.7778" Fkt="2">
+<g X="231.2133" Y="-35.4649" Z="401.2419"/>
+<b X="227.4634" Y="-45.0526" Z="400.9294"/>
+<NachNorm Nr="2177"/>
+</StrElement>
+<StrElement Nr="2177" spTrass="27.7778" Fkt="2">
+<g X="227.4634" Y="-45.0526" Z="400.9294"/>
+<b X="269.0384" Y="-64.6775" Z="400.9847"/>
+<NachNorm Nr="2178"/>
+</StrElement>
+<StrElement Nr="2178" spTrass="27.7778" Fkt="2">
+<g X="269.0384" Y="-64.6775" Z="400.9847"/>
+<b X="278.1635" Y="-47.5234" Z="401.2025"/>
+<NachNorm Nr="2179"/>
+</StrElement>
+<StrElement Nr="2179" spTrass="27.7778" Fkt="2">
+<g X="278.1635" Y="-47.5234" Z="401.2025"/>
+<b X="280.3286" Y="-43.7166" Z="401.6617"/>
+<NachNorm Nr="2180"/>
+</StrElement>
+<StrElement Nr="2180" spTrass="27.7778" Fkt="2">
+<g X="280.3286" Y="-43.7166" Z="401.6617"/>
+<b X="281.9148" Y="-41.0099" Z="401.3749"/>
+<NachNorm Nr="2181"/>
+</StrElement>
+<StrElement Nr="2181" spTrass="27.7778" Fkt="2">
+<g X="281.9148" Y="-41.0099" Z="401.3749"/>
+<b X="239.3689" Y="-25.6337" Z="401.1745"/>
+</StrElement>
+<StrElement Nr="2182" spTrass="27.7778" Fkt="2">
+<g X="52.6367" Y="77.3966" Z="401.8845"/>
+<b X="37.8893" Y="79.3794" Z="402.2821"/>
+<NachNorm Nr="2183"/>
+</StrElement>
+<StrElement Nr="2183" spTrass="27.7778" Fkt="2">
+<g X="37.8893" Y="79.3794" Z="402.2821"/>
+<b X="35.7532" Y="77.0591" Z="402.3099"/>
+<NachNorm Nr="2184"/>
+</StrElement>
+<StrElement Nr="2184" spTrass="27.7778" Fkt="2">
+<g X="35.7532" Y="77.0591" Z="402.3099"/>
+<b X="29.7094" Y="70.4382" Z="402.3879"/>
+<NachNorm Nr="2185"/>
+</StrElement>
+<StrElement Nr="2185" spTrass="27.7778" Fkt="2">
+<g X="29.7094" Y="70.4382" Z="402.3879"/>
+<b X="26.1352" Y="67.2282" Z="402.4398"/>
+<NachNorm Nr="2186"/>
+</StrElement>
+<StrElement Nr="2186" spTrass="27.7778" Fkt="2">
+<g X="26.1352" Y="67.2282" Z="402.4398"/>
+<b X="18.1936" Y="67.0929" Z="402.4747"/>
+<NachNorm Nr="2187"/>
+</StrElement>
+<StrElement Nr="2187" spTrass="27.7778" Fkt="2">
+<g X="18.1936" Y="67.0929" Z="402.4747"/>
+<b X="5.768" Y="74.3191" Z="402.5528"/>
+<NachNorm Nr="2188"/>
+</StrElement>
+<StrElement Nr="2188" spTrass="27.7778" Fkt="2">
+<g X="5.768" Y="74.3191" Z="402.5528"/>
+<b X="-120.6084" Y="134.7025" Z="402.1659"/>
+<NachNorm Nr="2189"/>
+</StrElement>
+<StrElement Nr="2189" spTrass="27.7778" Fkt="2">
+<g X="-120.6084" Y="134.7025" Z="402.1659"/>
+<b X="-138.7123" Y="146.8176" Z="400.9716"/>
+<NachNorm Nr="2190"/>
+</StrElement>
+<StrElement Nr="2190" spTrass="27.7778" Fkt="2">
+<g X="-138.7123" Y="146.8176" Z="400.9716"/>
+<b X="-141.7982" Y="161.9062" Z="399.9409"/>
+<NachNorm Nr="2191"/>
+</StrElement>
+<StrElement Nr="2191" spTrass="27.7778" Fkt="2">
+<g X="-141.7982" Y="161.9062" Z="399.9409"/>
+<b X="-138.2422" Y="182.8592" Z="398.9049"/>
+<NachNorm Nr="2192"/>
+</StrElement>
+<StrElement Nr="2192" spTrass="27.7778" Fkt="2">
+<g X="-138.2422" Y="182.8592" Z="398.9049"/>
+<b X="-126.6198" Y="206.1458" Z="399.1628"/>
+</StrElement>
+<StrElement Nr="2198" spTrass="27.7778" Fkt="2">
+<g X="57.2286" Y="125.4081" Z="402.4504"/>
+<b X="19.2599" Y="126.67" Z="402.3762"/>
+<NachNorm Nr="2199"/>
+</StrElement>
+<StrElement Nr="2199" spTrass="27.7778" Fkt="2">
+<g X="19.2599" Y="126.67" Z="402.3762"/>
+<b X="13.8329" Y="130.0076" Z="401.6358"/>
+<NachNorm Nr="2200"/>
+</StrElement>
+<StrElement Nr="2200" spTrass="27.7778" Fkt="2">
+<g X="13.8329" Y="130.0076" Z="401.6358"/>
+<b X="11.2371" Y="138.1909" Z="401.1565"/>
+<NachNorm Nr="2201"/>
+</StrElement>
+<StrElement Nr="2201" spTrass="27.7778" Fkt="2">
+<g X="11.2371" Y="138.1909" Z="401.1565"/>
+<b X="8.9892" Y="154.4904" Z="400.5072"/>
+<NachNorm Nr="2202"/>
+</StrElement>
+<StrElement Nr="2202" spTrass="27.7778" Fkt="2">
+<g X="8.9892" Y="154.4904" Z="400.5072"/>
+<b X="2.1039" Y="179.0043" Z="399.9872"/>
+<NachNorm Nr="2203"/>
+</StrElement>
+<StrElement Nr="2203" spTrass="27.7778" Fkt="2">
+<g X="2.1039" Y="179.0043" Z="399.9872"/>
+<b X="-6.3321" Y="193.2885" Z="400.3395"/>
+<NachNorm Nr="2204"/>
+</StrElement>
+<StrElement Nr="2204" spTrass="27.7778" Fkt="2">
+<g X="-6.3321" Y="193.2885" Z="400.3395"/>
+<b X="-26.8495" Y="221.8709" Z="400.5751"/>
+<NachNorm Nr="2205"/>
+</StrElement>
+<StrElement Nr="2205" spTrass="27.7778" Fkt="2">
+<g X="-26.8495" Y="221.8709" Z="400.5751"/>
+<b X="-44.5334" Y="230.4279" Z="400.7073"/>
+<NachNorm Nr="2206"/>
+</StrElement>
+<StrElement Nr="2206" spTrass="27.7778" Fkt="2">
+<g X="-44.5334" Y="230.4279" Z="400.7073"/>
+<b X="-72.3257" Y="238.771" Z="400.5685"/>
+<NachNorm Nr="2207"/>
+</StrElement>
+<StrElement Nr="2207" spTrass="27.7778" Fkt="2">
+<g X="-72.3257" Y="238.771" Z="400.5685"/>
+<b X="-81.8669" Y="253.751" Z="400.6667"/>
+<NachNorm Nr="2208"/>
+</StrElement>
+<StrElement Nr="2208" spTrass="27.7778" Fkt="2">
+<g X="-81.8669" Y="253.751" Z="400.6667"/>
+<b X="-88.5776" Y="288.9538" Z="400.5767"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Reichenau Baden D" FahrstrStrecke="720" RglGgl="3" FahrstrTyp="TypZug" Laenge="575.79">
 <FahrstrStart Ref="295">

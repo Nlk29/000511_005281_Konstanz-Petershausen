@@ -290,10 +290,802 @@
 <phi Z="5.830302"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="762" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0005_0061\000489_006071_Niebuell\Objekte\ANB_Mietgaragen\ANB_Mietgaragen.lod.ls3"/>
-<p X="141.5629" Y="287.4208" Z="401.3756"/>
-<phi Z="5.830302"/>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="172.4036" Y="329.4977" Z="400.4242"/>
+<phi Z="2.699455"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="134.0224" Y="330.3655" Z="401.6519"/>
+<phi Z="2.699461"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="115.0028" Y="345.471" Z="401.4527"/>
+<phi Z="4.270257"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="76.3896" Y="356.1937" Z="401.6636"/>
+<phi Z="2.699461"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="17.454" Y="383.8576" Z="401.3883"/>
+<phi Z="2.699459"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="50.3388" Y="367.889" Z="401.5933"/>
+<phi Z="4.270257"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="-18.5109" Y="397.4865" Z="401.4235"/>
+<phi Z="4.140173"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="-52.0245" Y="418.3492" Z="401.3872"/>
+<phi Z="2.699461"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="-86.7003" Y="426.8688" Z="401.3755"/>
+<phi Z="0.949495"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="-124.9738" Y="453.1188" Z="401.4341"/>
+<phi Z="2.699461"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="490.444" Y="108.2341" Z="403.8371"/>
+<phi Z="1.362385"/>
+<sk X="0.8748" Y="0.8748" Z="0.8748"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="469.5675" Y="125.6267" Z="404.2288"/>
+<phi Z="1.959397"/>
+<sk X="0.9417" Y="0.9417" Z="0.9417"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="458.8084" Y="128.6918" Z="404.1385"/>
+<phi Z="2.150632"/>
+<sk X="1.2163" Y="1.2163" Z="1.2163"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="437.2781" Y="129.7174" Z="403.371"/>
+<phi Z="4.522725"/>
+<sk X="0.7978" Y="0.7978" Z="0.7978"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="427.5459" Y="128.5376" Z="402.9591"/>
+<phi Z="3.297703"/>
+<sk X="0.9418" Y="0.9418" Z="0.9418"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="416.8282" Y="131.3608" Z="402.7908"/>
+<phi Z="1.503575"/>
+<sk X="0.976" Y="0.976" Z="0.976"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="407.8492" Y="134.2719" Z="402.6528"/>
+<phi Z="1.348713"/>
+<sk X="0.8457" Y="0.8457" Z="0.8457"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="411.6819" Y="154.5922" Z="402.4384"/>
+<phi Z="2.211658"/>
+<sk X="1.1338" Y="1.1338" Z="1.1338"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="380.6291" Y="160.9622" Z="402.4294"/>
+<phi Z="2.9099"/>
+<sk X="0.8842" Y="0.8842" Z="0.8842"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="355.8108" Y="172.9419" Z="402.0729"/>
+<phi Z="1.600926"/>
+<sk X="1.1167" Y="1.1167" Z="1.1167"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="344.7672" Y="173.4952" Z="401.8558"/>
+<phi Z="4.589465"/>
+<sk X="0.9088" Y="0.9088" Z="0.9088"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="335.682" Y="172.4314" Z="401.746"/>
+<phi Z="2.410491"/>
+<sk X="1.2811" Y="1.2811" Z="1.2811"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="324.1845" Y="175.9294" Z="401.7017"/>
+<phi Z="2.024699"/>
+<sk X="1.1861" Y="1.1861" Z="1.1861"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="315.9915" Y="175.7879" Z="401.6553"/>
+<phi Z="3.466493"/>
+<sk X="0.8987" Y="0.8987" Z="0.8987"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="306.74" Y="183.7407" Z="401.6486"/>
+<phi Z="1.6778"/>
+<sk X="1.1175" Y="1.1175" Z="1.1175"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="300.1615" Y="195.6741" Z="401.6428"/>
+<phi Z="1.793892"/>
+<sk X="1.1018" Y="1.1018" Z="1.1018"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="277.1469" Y="210.5792" Z="401.6436"/>
+<phi Z="3.196272"/>
+<sk X="1.2054" Y="1.2054" Z="1.2054"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="267.1665" Y="214.9742" Z="401.615"/>
+<phi Z="1.169145"/>
+<sk X="0.7452" Y="0.7452" Z="0.7452"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="238.1678" Y="218.0959" Z="400.5414"/>
+<phi Z="3.866486"/>
+<sk X="1.0642" Y="1.0642" Z="1.0642"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="221.1546" Y="221.106" Z="400.2063"/>
+<phi Z="2.43962"/>
+<sk X="1.0562" Y="1.0562" Z="1.0562"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="213.8536" Y="229.2072" Z="400.3775"/>
+<phi Z="3.687118"/>
+<sk X="1.0304" Y="1.0304" Z="1.0304"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="209.8415" Y="235.4843" Z="400.6773"/>
+<phi Z="2.716515"/>
+<sk X="1.1326" Y="1.1326" Z="1.1326"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="200.4461" Y="243.4477" Z="401.2878"/>
+<phi Z="2.968484"/>
+<sk X="0.8611" Y="0.8611" Z="0.8611"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="197.6059" Y="250.2284" Z="401.2807"/>
+<phi Z="3.71234"/>
+<sk X="0.9305" Y="0.9305" Z="0.9305"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="188.6739" Y="258.4625" Z="401.3595"/>
+<phi Z="3.721349"/>
+<sk X="0.8845" Y="0.8845" Z="0.8845"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="177.3298" Y="273.2481" Z="401.3283"/>
+<phi Z="-1.893005"/>
+<sk X="1.1063" Y="1.1063" Z="1.1063"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="166.9545" Y="270.7242" Z="401.4708"/>
+<phi Z="-2.437964"/>
+<sk X="0.9479" Y="0.9479" Z="0.9479"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="149.4196" Y="272.6851" Z="401.4118"/>
+<phi Z="-3.938154"/>
+<sk X="1.1376" Y="1.1376" Z="1.1376"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="127.6304" Y="272.5228" Z="401.2606"/>
+<phi Z="-3.720329"/>
+<sk X="1.1642" Y="1.1642" Z="1.1642"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="106.7243" Y="271.9075" Z="401.0754"/>
+<phi Z="0.743793"/>
+<sk X="0.8359" Y="0.8359" Z="0.8359"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="102.7112" Y="279.1093" Z="401.1227"/>
+<phi Z="1.524625"/>
+<sk X="0.7795" Y="0.7795" Z="0.7795"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="84.4911" Y="305.2031" Z="401.2498"/>
+<phi Z="1.03287"/>
+<sk X="0.9673" Y="0.9673" Z="0.9673"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="80.6887" Y="313.8625" Z="401.3553"/>
+<phi Z="1.621898"/>
+<sk X="0.8114" Y="0.8114" Z="0.8114"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="67.8405" Y="323.0326" Z="401.4365"/>
+<phi Z="-4.062764"/>
+<sk X="0.9002" Y="0.9002" Z="0.9002"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="56.9679" Y="321.7518" Z="401.3073"/>
+<phi Z="-3.681515"/>
+<sk X="0.855" Y="0.855" Z="0.855"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="46.4586" Y="322.3825" Z="401.2234"/>
+<phi Z="-2.384324"/>
+<sk X="0.8878" Y="0.8878" Z="0.8878"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="39.432" Y="322.6221" Z="401.1634"/>
+<phi Z="-1.925805"/>
+<sk X="0.9189" Y="0.9189" Z="0.9189"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="29.4644" Y="319.8472" Z="401.0099"/>
+<phi Z="-2.028626"/>
+<sk X="0.7811" Y="0.7811" Z="0.7811"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="19.2425" Y="319.694" Z="400.9115"/>
+<phi Z="-3.457603"/>
+<sk X="1.0689" Y="1.0689" Z="1.0689"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="8.7824" Y="319.0945" Z="400.8002"/>
+<phi Z="-3.828863"/>
+<sk X="1.2776" Y="1.2776" Z="1.2776"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="3.8507" Y="325.013" Z="400.8215"/>
+<phi Z="3.327402"/>
+<sk X="0.8274" Y="0.8274" Z="0.8274"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-4.2068" Y="332.6879" Z="400.8511"/>
+<phi Z="1.397122"/>
+<sk X="0.8776" Y="0.8776" Z="0.8776"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-8.7439" Y="341.9078" Z="400.9355"/>
+<phi Z="1.52146"/>
+<sk X="0.9759" Y="0.9759" Z="0.9759"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="-15.2364" Y="350.4036" Z="400.9916"/>
+<phi Z="1.682531"/>
+<sk X="1.0469" Y="1.0469" Z="1.0469"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-21.8094" Y="359.6725" Z="401.0669"/>
+<phi Z="0.992417"/>
+<sk X="1.0174" Y="1.0174" Z="1.0174"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-25.901" Y="367.0862" Z="401.1241"/>
+<phi Z="3.491307"/>
+<sk X="1.2292" Y="1.2292" Z="1.2292"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-29.8836" Y="374.7186" Z="401.1056"/>
+<phi Z="0.936228"/>
+<sk X="0.8395" Y="0.8395" Z="0.8395"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-39.2599" Y="376.0353" Z="400.9963"/>
+<phi Z="4.651573"/>
+<sk X="0.8587" Y="0.8587" Z="0.8587"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-51.638" Y="376.5348" Z="400.8506"/>
+<phi Z="4.465579"/>
+<sk X="0.9761" Y="0.9761" Z="0.9761"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-60.572" Y="378.9257" Z="400.7478"/>
+<phi Z="4.163507"/>
+<sk X="1.0224" Y="1.0224" Z="1.0224"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-69.4851" Y="376.7459" Z="400.9404"/>
+<phi Z="4.378765"/>
+<sk X="1.1204" Y="1.1204" Z="1.1204"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="-79.2608" Y="377.319" Z="400.8546"/>
+<phi Z="3.812905"/>
+<sk X="1.2228" Y="1.2228" Z="1.2228"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-99.2307" Y="378.1361" Z="400.5001"/>
+<phi Z="3.364826"/>
+<sk X="1.0403" Y="1.0403" Z="1.0403"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-120.797" Y="377.2642" Z="400.1049"/>
+<phi Z="3.679595"/>
+<sk X="1.0957" Y="1.0957" Z="1.0957"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-132.7502" Y="392.754" Z="400.4536"/>
+<phi Z="1.632531"/>
+<sk X="0.863" Y="0.863" Z="0.863"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-140.7777" Y="411.4348" Z="400.9058"/>
+<phi Z="2.384683"/>
+<sk X="1.0312" Y="1.0312" Z="1.0312"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-148.06" Y="420.6028" Z="401.1494"/>
+<phi Z="3.263319"/>
+<sk X="0.7883" Y="0.7883" Z="0.7883"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-155.7672" Y="429.0522" Z="401.3014"/>
+<phi Z="3.234751"/>
+<sk X="0.9675" Y="0.9675" Z="0.9675"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-171.2136" Y="434.8661" Z="401.2929"/>
+<phi Z="3.677518"/>
+<sk X="1.0795" Y="1.0795" Z="1.0795"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-179.396" Y="433.3786" Z="401.2567"/>
+<phi Z="3.002823"/>
+<sk X="1.0803" Y="1.0803" Z="1.0803"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-200.2066" Y="428.1614" Z="401.119"/>
+<phi Z="0.255739"/>
+<sk X="1.2737" Y="1.2737" Z="1.2737"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="-193.3396" Y="425.4909" Z="401.109"/>
+<phi Z="-1.751227"/>
+<sk X="0.919" Y="0.919" Z="0.919"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-183.5756" Y="419.949" Z="401.0711"/>
+<phi Z="-0.390715"/>
+<sk X="1.0726" Y="1.0726" Z="1.0726"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-174.3325" Y="416.3003" Z="401.0569"/>
+<phi Z="1.044268"/>
+<sk X="0.6993" Y="0.6993" Z="0.6993"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="-166.2595" Y="414.4108" Z="401.0621"/>
+<phi Z="0.499731"/>
+<sk X="0.8714" Y="0.8714" Z="0.8714"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-147.3257" Y="405.5553" Z="400.8222"/>
+<phi Z="1.006023"/>
+<sk X="0.9934" Y="0.9934" Z="0.9934"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="-139.8645" Y="401.4408" Z="400.6857"/>
+<phi Z="0.734636"/>
+<sk X="1.1545" Y="1.1545" Z="1.1545"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-130.8205" Y="396.9784" Z="400.5316"/>
+<phi Z="-1.714409"/>
+<sk X="0.7463" Y="0.7463" Z="0.7463"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-119.9218" Y="394.2707" Z="400.5916"/>
+<phi Z="-1.866426"/>
+<sk X="0.9477" Y="0.9477" Z="0.9477"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-110.1631" Y="389.7271" Z="400.5863"/>
+<phi Z="0.360913"/>
+<sk X="0.7846" Y="0.7846" Z="0.7846"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-100.3097" Y="384.8475" Z="400.5866"/>
+<phi Z="-1.042081"/>
+<sk X="1.0435" Y="1.0435" Z="1.0435"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-74.567" Y="369.9528" Z="400.7647"/>
+<phi Z="-1.359886"/>
+<sk X="1.0928" Y="1.0928" Z="1.0928"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-65.6821" Y="366.5552" Z="400.673"/>
+<phi Z="0.472278"/>
+<sk X="1.0623" Y="1.0623" Z="1.0623"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-55.9572" Y="363.6395" Z="400.7809"/>
+<phi Z="-0.422622"/>
+<sk X="0.9174" Y="0.9174" Z="0.9174"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-47.1464" Y="359.9933" Z="400.836"/>
+<phi Z="0.95319"/>
+<sk X="1.0772" Y="1.0772" Z="1.0772"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="-27.4079" Y="349.9306" Z="400.8705"/>
+<phi Z="-0.67665"/>
+<sk X="0.7034" Y="0.7034" Z="0.7034"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-19.514" Y="344.913" Z="400.8756"/>
+<phi Z="0.882212"/>
+<sk X="1.1502" Y="1.1502" Z="1.1502"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-9.8455" Y="341.2554" Z="400.9162"/>
+<phi Z="0.794646"/>
+<sk X="1.1007" Y="1.1007" Z="1.1007"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-2.0495" Y="335.4106" Z="400.9089"/>
+<phi Z="0.393939"/>
+<sk X="0.8807" Y="0.8807" Z="0.8807"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="18.4333" Y="344.7101" Z="401.0609"/>
+<phi Z="-1.543558"/>
+<sk X="0.8339" Y="0.8339" Z="0.8339"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="29.8764" Y="336.7852" Z="401.0994"/>
+<phi Z="-0.046962"/>
+<sk X="0.7483" Y="0.7483" Z="0.7483"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="34.7924" Y="319.313" Z="401.0478"/>
+<phi Z="0.858724"/>
+<sk X="1.2377" Y="1.2377" Z="1.2377"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="51.3166" Y="312.1653" Z="401.054"/>
+<phi Z="-0.339339"/>
+<sk X="0.779" Y="0.779" Z="0.779"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="60.399" Y="307.3781" Z="401.0708"/>
+<phi Z="0.941581"/>
+<sk X="0.8797" Y="0.8797" Z="0.8797"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="67.8857" Y="302.0086" Z="401.0666"/>
+<phi Z="0.485587"/>
+<sk X="1.0665" Y="1.0665" Z="1.0665"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="78.2879" Y="298.0591" Z="401.1265"/>
+<phi Z="-1.851538"/>
+<sk X="0.8397" Y="0.8397" Z="0.8397"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="86.9614" Y="295.313" Z="401.1716"/>
+<phi Z="-0.410889"/>
+<sk X="0.943" Y="0.943" Z="0.943"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="96.2213" Y="292.5069" Z="401.2188"/>
+<phi Z="-1.280474"/>
+<sk X="1.1518" Y="1.1518" Z="1.1518"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="105.7857" Y="288.7618" Z="401.258"/>
+<phi Z="-1.581521"/>
+<sk X="1.298" Y="1.298" Z="1.298"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="116.2019" Y="280.7585" Z="401.2563"/>
+<phi Z="1.019606"/>
+<sk X="0.9835" Y="0.9835" Z="0.9835"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="124.2317" Y="278.5794" Z="401.3001"/>
+<phi Z="-0.260485"/>
+<sk X="0.7802" Y="0.7802" Z="0.7802"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="143.729" Y="272.0473" Z="401.3833"/>
+<phi Z="0.204834"/>
+<sk X="0.9599" Y="0.9599" Z="0.9599"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="150.7683" Y="265.9225" Z="401.3261"/>
+<phi Z="-1.223624"/>
+<sk X="0.8158" Y="0.8158" Z="0.8158"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="171.4361" Y="258.8213" Z="401.3037"/>
+<phi Z="-1.680888"/>
+<sk X="1.0286" Y="1.0286" Z="1.0286"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="179.0354" Y="255.213" Z="401.2822"/>
+<phi Z="-0.575449"/>
+<sk X="1.0269" Y="1.0269" Z="1.0269"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="188.3773" Y="252.9292" Z="401.2844"/>
+<phi Z="-0.255464"/>
+<sk X="1.0104" Y="1.0104" Z="1.0104"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="220.4771" Y="247.7036" Z="401.3845"/>
+<phi Z="-1.398749"/>
+<sk X="1.2705" Y="1.2705" Z="1.2705"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="231.0826" Y="244.9206" Z="401.5668"/>
+<phi Z="0.814926"/>
+<sk X="0.688" Y="0.688" Z="0.688"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="241.0113" Y="245.4445" Z="401.2814"/>
+<phi Z="-0.497091"/>
+<sk X="1.0772" Y="1.0772" Z="1.0772"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="244.3809" Y="236.0818" Z="401.5239"/>
+<phi Z="0.193351"/>
+<sk X="0.8694" Y="0.8694" Z="0.8694"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="250.5114" Y="227.3241" Z="401.3492"/>
+<phi Z="0.412195"/>
+<sk X="0.959" Y="0.959" Z="0.959"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="258.4629" Y="219.5019" Z="401.272"/>
+<phi Z="0.602829"/>
+<sk X="0.9162" Y="0.9162" Z="0.9162"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="263.5389" Y="210.7966" Z="401.5082"/>
+<phi Z="-1.339494"/>
+<sk X="0.8879" Y="0.8879" Z="0.8879"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="269.0988" Y="205.9386" Z="401.5699"/>
+<phi Z="0.415185"/>
+<sk X="0.7848" Y="0.7848" Z="0.7848"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="282.9997" Y="194.5011" Z="401.5771"/>
+<phi Z="-0.955606"/>
+<sk X="0.8596" Y="0.8596" Z="0.8596"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="319.2654" Y="175.7761" Z="401.6734"/>
+<phi Z="0.211183"/>
+<sk X="0.9294" Y="0.9294" Z="0.9294"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="329.8885" Y="172.4103" Z="401.7136"/>
+<phi Z="-0.018803"/>
+<sk X="0.8385" Y="0.8385" Z="0.8385"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="337.469" Y="168.3698" Z="401.733"/>
+<phi Z="0.22508"/>
+<sk X="0.9452" Y="0.9452" Z="0.9452"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="346.0907" Y="163.4731" Z="401.7882"/>
+<phi Z="-0.851667"/>
+<sk X="0.7312" Y="0.7312" Z="0.7312"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="356.6123" Y="162.2937" Z="401.9878"/>
+<phi Z="-0.164527"/>
+<sk X="1.0338" Y="1.0338" Z="1.0338"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="368.6762" Y="157.6612" Z="402.166"/>
+<phi Z="0.892752"/>
+<sk X="0.6965" Y="0.6965" Z="0.6965"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="375.4243" Y="154.2075" Z="402.2562"/>
+<phi Z="0.638994"/>
+<sk X="1.0066" Y="1.0066" Z="1.0066"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="383.8427" Y="147.6333" Z="402.3438"/>
+<phi Z="-0.868271"/>
+<sk X="1.1209" Y="1.1209" Z="1.1209"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="393.7486" Y="145.902" Z="402.5129"/>
+<phi Z="-1.942245"/>
+<sk X="0.9281" Y="0.9281" Z="0.9281"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="420.739" Y="131.6482" Z="402.7893"/>
+<phi Z="0.349096"/>
+<sk X="0.9505" Y="0.9505" Z="0.9505"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="428.0497" Y="127.1682" Z="402.9528"/>
+<phi Z="-0.009093"/>
+<sk X="1.2641" Y="1.2641" Z="1.2641"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="441.1234" Y="124.4053" Z="403.4223"/>
+<phi Z="-0.509731"/>
+<sk X="1.1245" Y="1.1245" Z="1.1245"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="456.1402" Y="117.4722" Z="403.5192"/>
+<phi Z="-1.930998"/>
+<sk X="1.0198" Y="1.0198" Z="1.0198"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="466.701" Y="110.6561" Z="403.4182"/>
+<phi Z="-0.01689"/>
+<sk X="0.7907" Y="0.7907" Z="0.7907"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="474.9818" Y="107.7974" Z="403.4629"/>
+<phi Z="-1.126528"/>
+<sk X="1.1938" Y="1.1938" Z="1.1938"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
+<p X="-199.1639" Y="492.5425" Z="400.1238"/>
+<phi Z="-0.442137"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteLausheim-Blumegg\Gaststaette\Gaststaette_Wutachschlucht.lod.ls3"/>
+<p X="-237.7221" Y="447.2519" Z="400.9711"/>
+<phi Z="1.128659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\06_01_WGHaus\06_01_WGHaus.lod.ls3"/>
+<p X="-249.5948" Y="520.679" Z="401.4186"/>
+<phi Z="-0.373843"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_511500_5280500.lsb"/>
@@ -553,6 +1345,99 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\WALL\Wall_Concrete.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="41" MeshI="117">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="2" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\waldweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="2" MeterProTex2="10" MeshV="36" MeshI="144">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Zaeune\gartenzaun.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
