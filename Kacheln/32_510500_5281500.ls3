@@ -374,6 +374,522 @@
 <phi Z="5.841464"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="491.4892" Y="-439.1405" Z="400.7235"/>
+<phi Z="2.696054"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="482.4655" Y="-436.126" Z="400.7295"/>
+<phi Z="2.696054"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="473.4417" Y="-431.2142" Z="400.724"/>
+<phi Z="2.696054"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="464.4179" Y="-426.8181" Z="400.7185"/>
+<phi Z="2.696054"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="446.3317" Y="-418.9712" Z="400.7459"/>
+<phi Z="2.702352"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="437.2812" Y="-413.7801" Z="400.655"/>
+<phi Z="2.702352"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="428.2307" Y="-409.5277" Z="400.5641"/>
+<phi Z="2.702352"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="419.1802" Y="-406.214" Z="400.4732"/>
+<phi Z="2.702352"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="410.1298" Y="-401.9616" Z="400.3823"/>
+<phi Z="2.702352"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
+<p X="401.0793" Y="-397.7092" Z="400.2914"/>
+<phi Z="2.702352"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
+<p X="495.0387" Y="-443.4459" Z="399.984"/>
+<phi Z="5.838023"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
+<p X="476.9584" Y="-434.8958" Z="399.9628"/>
+<phi Z="5.838023"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
+<p X="458.8782" Y="-426.3459" Z="399.9416"/>
+<phi Z="5.838022"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
+<p X="440.7979" Y="-417.7958" Z="399.9204"/>
+<phi Z="5.838022"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
+<p X="422.7176" Y="-409.2458" Z="399.8992"/>
+<phi Z="5.838022"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
+<p X="404.6373" Y="-400.6957" Z="399.878"/>
+<phi Z="5.838022"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_3.lod.ls3"/>
+<p X="229.0978" Y="-306.6229" Z="398.3671"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="216.4416" Y="-300.6379" Z="398.3523"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="203.7854" Y="-294.6529" Z="398.3374"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="191.1292" Y="-288.6679" Z="398.3226"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="178.4731" Y="-282.6829" Z="398.3077"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="165.8168" Y="-276.6978" Z="398.2929"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="153.1606" Y="-270.7128" Z="398.278"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="140.5044" Y="-264.7278" Z="398.2632"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="127.8482" Y="-258.7428" Z="398.2483"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="115.192" Y="-252.7578" Z="398.2335"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="233.3728" Y="-297.5827" Z="398.3671"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="220.7166" Y="-291.5977" Z="398.3523"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="208.0604" Y="-285.6127" Z="398.3374"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="195.4043" Y="-279.6277" Z="398.3226"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_3.lod.ls3"/>
+<p X="182.748" Y="-273.6427" Z="398.3077"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="170.0918" Y="-267.6577" Z="398.2929"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="157.4356" Y="-261.6727" Z="398.278"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="144.7794" Y="-255.6877" Z="398.2632"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="132.1232" Y="-249.7027" Z="398.2483"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="119.467" Y="-243.7176" Z="398.2335"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="237.6478" Y="-288.5426" Z="398.3671"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="224.9916" Y="-282.5576" Z="398.3523"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="212.3354" Y="-276.5726" Z="398.3374"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="199.6793" Y="-270.5876" Z="398.3226"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_3.lod.ls3"/>
+<p X="187.0231" Y="-264.6026" Z="398.3077"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="174.3669" Y="-258.6176" Z="398.2929"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="161.7106" Y="-252.6325" Z="398.278"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="149.0544" Y="-246.6475" Z="398.2632"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="136.3982" Y="-240.6625" Z="398.2483"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="123.742" Y="-234.6775" Z="398.2335"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="241.9229" Y="-279.5024" Z="398.3671"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="229.2666" Y="-273.5174" Z="398.3523"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="216.6104" Y="-267.5324" Z="398.3374"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="203.9543" Y="-261.5474" Z="398.3226"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="191.2981" Y="-255.5624" Z="398.3077"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="178.6419" Y="-249.5774" Z="398.2929"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="165.9857" Y="-243.5924" Z="398.278"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="153.3294" Y="-237.6074" Z="398.2632"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_3.lod.ls3"/>
+<p X="140.6732" Y="-231.6223" Z="398.2483"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="128.017" Y="-225.6373" Z="398.2335"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="246.1978" Y="-270.4623" Z="398.3671"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="233.5416" Y="-264.4773" Z="398.3523"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="220.8854" Y="-258.4922" Z="398.3374"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_3.lod.ls3"/>
+<p X="208.2293" Y="-252.5073" Z="398.3226"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="195.5731" Y="-246.5223" Z="398.3077"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="182.9169" Y="-240.5373" Z="398.2929"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="170.2607" Y="-234.5522" Z="398.278"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="157.6045" Y="-228.5672" Z="398.2632"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="144.9482" Y="-222.5822" Z="398.2483"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="132.2921" Y="-216.5972" Z="398.2335"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="250.4729" Y="-261.4221" Z="398.3671"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="237.8167" Y="-255.4371" Z="398.3523"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="225.1604" Y="-249.4521" Z="398.3374"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="212.5043" Y="-243.4671" Z="398.3226"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="199.8481" Y="-237.4821" Z="398.3077"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="187.1919" Y="-231.4971" Z="398.2929"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="174.5357" Y="-225.5121" Z="398.278"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="161.8795" Y="-219.5271" Z="398.2632"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="149.2233" Y="-213.5421" Z="398.2483"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_3.lod.ls3"/>
+<p X="136.567" Y="-207.557" Z="398.2335"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_3.lod.ls3"/>
+<p X="254.7479" Y="-252.382" Z="398.3671"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="242.0916" Y="-246.397" Z="398.3523"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_2.lod.ls3"/>
+<p X="229.4355" Y="-240.412" Z="398.3374"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="216.7793" Y="-234.427" Z="398.3226"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="204.1231" Y="-228.442" Z="398.3077"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="191.4669" Y="-222.457" Z="398.2929"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_6.lod.ls3"/>
+<p X="178.8107" Y="-216.472" Z="398.278"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_5.lod.ls3"/>
+<p X="166.1545" Y="-210.4869" Z="398.2632"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_1.lod.ls3"/>
+<p X="153.4983" Y="-204.5019" Z="398.2483"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Garten_4.lod.ls3"/>
+<p X="140.8421" Y="-198.5169" Z="398.2335"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_510500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="65" MeshI="183">
 <RenderFlags TexVoreinstellung="3"/>
@@ -402,7 +918,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="10" MeshI="18">
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="3" MeterProTex2="2" MeshV="10" MeshI="18">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Pflaster\Rechtecksteinpflaster\rechtecksteinpflaster04.dds"/>
@@ -520,6 +1036,102 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\fallow.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="2" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="39">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Brachland-1.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Brachland-1.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\stubble-field.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\stubble-field.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\stubble-field.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\stubble-field.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\canola20m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="22" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Brachland-1.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

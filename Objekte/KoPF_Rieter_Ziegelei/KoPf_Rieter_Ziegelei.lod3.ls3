@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+  <Info DateiTyp="Landschaft" Version="A.1" MinVersion="A.1"/>
+  <Landschaft>
+    <lsb Dateiname="KoPf_Rieter_Ziegelei.lod3.lsb"/>
+    <SubSet Cd="FFFFFFFF" MeshV="53" MeshI="120">
+      <RenderFlags TexVoreinstellung="1"/>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="250" MeshI="678">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture0.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="4" MeshI="6">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture6.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="4" MeshI="6">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture7.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="4" MeshI="6">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture8.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="4" MeshI="6">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture9.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="4" MeshI="6">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture10.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="911" MeshI="1920">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture1.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FF6FCCCC" MeshV="38" MeshI="60">
+      <RenderFlags TexVoreinstellung="1"/>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="125" MeshI="225">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture2.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFFFFFFF" MeshV="1736" MeshI="3720">
+      <RenderFlags TexVoreinstellung="1"/>
+    </SubSet>
+    <SubSet Cd="FF1E3333" MeshV="744" MeshI="1116">
+      <RenderFlags TexVoreinstellung="1"/>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="4" MeshI="6">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture3.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="4" MeshI="6">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture4.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="4" MeshI="6">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPF_Rieter_Ziegelei\KoPF_Rieter_Ziegelei_lod3\texture5.jpg"/>
+      </Textur>
+    </SubSet>
+  </Landschaft>
+</Zusi>
