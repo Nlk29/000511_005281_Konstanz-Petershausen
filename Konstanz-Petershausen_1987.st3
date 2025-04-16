@@ -25112,23 +25112,7 @@
 <StrElement Nr="1767" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1362.951" Y="693.139" Z="398.8918"/>
 <b X="-1407.4771" Y="714.1786" Z="398.8828"/>
-<InfoNormRichtung vMax="-1" Reg="5069">
-<Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="Hs 1 II" SignalTyp="5" BoundingR="10">
-<p X="-1406.5157" Y="716.213" Z="398.8828"/>
-<phi Z="2.700165"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-sonstigeFormsig\egli-Gsp-DB-Gas.ls3"/>
-</SignalFrame>
-<HsigBegriff FahrstrTyp="6"/>
-<HsigBegriff HsigGeschw="6.9444" FahrstrTyp="2"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="1"/>
-<MatrixEintrag Signalbild="2" MatrixGeschw="6.9444"/>
-</Signal>
-</InfoNormRichtung>
+<InfoNormRichtung vMax="-1" Reg="5069"/>
 <InfoGegenRichtung vMax="38.8889" km="408.4675" pos="1" Reg="5069"/>
 <NachNorm Nr="2212"/>
 <NachGegen Nr="1766"/>
@@ -30665,38 +30649,7 @@
 <g X="-1193.8894" Y="613.2527" Z="398.9262"/>
 <b X="-1273.9" Y="651.0597" Z="398.9099"/>
 <InfoNormRichtung vMax="38.8889" km="408.6986" Reg="5080"/>
-<InfoGegenRichtung vMax="-1" Reg="5080">
-<Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" Signalname="Hs 1 I" SignalTyp="13" BoundingR="10">
-<p X="-1194.8507" Y="611.2184" Z="398.9262"/>
-<phi Z="-0.441427"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-sonstigeFormsig\59_GSP_Signal.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
-<HsigBegriff FahrstrTyp="6"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="2" MatrixGeschw="11.1111">
-<Ereignis Er="32"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="1"/>
-<MatrixEintrag Signalbild="2" MatrixGeschw="6.9444"/>
-<Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="1" MatrixGeschw="11.1111">
-<Ereignis Er="32" Wert="70"/>
-</MatrixEintrag>
-</Ersatzsignal>
-<Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0101050D">
-<MatrixEintrag Signalbild="1" MatrixGeschw="11.1111">
-<Ereignis Er="32" Wert="70"/>
-<Ereignis Er="28" Wert="2"/>
-</MatrixEintrag>
-</Ersatzsignal>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="-1" Reg="5080"/>
 <NachNorm Nr="1766"/>
 <NachGegen Nr="1923"/>
 </StrElement>
