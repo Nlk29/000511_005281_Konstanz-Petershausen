@@ -1389,7 +1389,7 @@
 <Datei Dateiname="Terrain\General\WALL\Wall_Concrete.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="41" MeshI="117">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="42" MeshI="120">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
