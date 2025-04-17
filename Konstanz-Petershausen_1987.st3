@@ -15207,6 +15207,7 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.01" pos="1"/>
 <NachNorm Nr="1115"/>
+<NachGegen Nr="2399"/>
 </StrElement>
 <StrElement Nr="1115" Ueberh="0.0116" kr="-0.000264" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau">
 <g X="-1333.277" Y="755.828" Z="400.6679"/>
@@ -27548,7 +27549,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -27560,7 +27561,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -27598,7 +27599,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -27610,7 +27611,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -27884,7 +27885,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -27896,7 +27897,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -27934,7 +27935,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -27946,7 +27947,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -27999,7 +28000,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28011,7 +28012,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -28046,7 +28047,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -28058,7 +28059,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -30710,6 +30711,65 @@
 <b X="-1143.2719" Y="630.0975" Z="400.0779"/>
 <NachNorm Nr="1177"/>
 <NachGegen Nr="2397"/>
+</StrElement>
+<StrElement Nr="2399" spTrass="27.7778" Fkt="2">
+<g X="-1323.48" Y="753.824" Z="400.6529"/>
+<b X="-1227.7255" Y="729.8683" Z="400.2652"/>
+<NachNorm Nr="2400"/>
+</StrElement>
+<StrElement Nr="2400" spTrass="27.7778" Fkt="2">
+<g X="-1227.7255" Y="729.8683" Z="400.2652"/>
+<b X="-1207.2351" Y="727.6415" Z="400.2765"/>
+<NachNorm Nr="2401"/>
+</StrElement>
+<StrElement Nr="2401" spTrass="27.7778" Fkt="2">
+<g X="-1207.2351" Y="727.6415" Z="400.2765"/>
+<b X="-1180.4019" Y="725.3303" Z="399.8729"/>
+<NachNorm Nr="2402"/>
+</StrElement>
+<StrElement Nr="2402" spTrass="27.7778" Fkt="2">
+<g X="-1180.4019" Y="725.3303" Z="399.8729"/>
+<b X="-1156.744" Y="725.3538" Z="399.7371"/>
+<NachNorm Nr="2403"/>
+</StrElement>
+<StrElement Nr="2403" spTrass="27.7778" Fkt="2">
+<g X="-1156.744" Y="725.3538" Z="399.7371"/>
+<b X="-1139.0265" Y="726.0046" Z="399.5553"/>
+<NachNorm Nr="2404"/>
+</StrElement>
+<StrElement Nr="2404" spTrass="27.7778" Fkt="2">
+<g X="-1139.0265" Y="726.0046" Z="399.5553"/>
+<b X="-1129.1749" Y="727.0053" Z="399.6089"/>
+<NachNorm Nr="2405"/>
+</StrElement>
+<StrElement Nr="2405" spTrass="27.7778" Fkt="2">
+<g X="-1129.1749" Y="727.0053" Z="399.6089"/>
+<b X="-1115.8469" Y="728.8243" Z="399.7954"/>
+<NachNorm Nr="2406"/>
+</StrElement>
+<StrElement Nr="2406" spTrass="27.7778" Fkt="2">
+<g X="-1115.8469" Y="728.8243" Z="399.7954"/>
+<b X="-1101.2352" Y="730.8503" Z="400.1689"/>
+<NachNorm Nr="2407"/>
+</StrElement>
+<StrElement Nr="2407" spTrass="27.7778" Fkt="2">
+<g X="-1101.2352" Y="730.8503" Z="400.1689"/>
+<b X="-1083.903" Y="735.5709" Z="400.5599"/>
+<NachNorm Nr="2408"/>
+</StrElement>
+<StrElement Nr="2408" spTrass="27.7778" Fkt="2">
+<g X="-1083.903" Y="735.5709" Z="400.5599"/>
+<b X="-1067.1851" Y="740.8298" Z="400.9849"/>
+<NachNorm Nr="2409"/>
+</StrElement>
+<StrElement Nr="2409" spTrass="27.7778" Fkt="2">
+<g X="-1067.1851" Y="740.8298" Z="400.9849"/>
+<b X="-1052.6993" Y="745.9127" Z="401.331"/>
+<NachNorm Nr="2410"/>
+</StrElement>
+<StrElement Nr="2410" spTrass="27.7778" Fkt="2">
+<g X="-1052.6993" Y="745.9127" Z="401.331"/>
+<b X="-1028.8544" Y="762.9847" Z="402.8029"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Reichenau Baden D" FahrstrStrecke="720" RglGgl="3" FahrstrTyp="TypZug" Laenge="575.79">
 <FahrstrStart Ref="295">
