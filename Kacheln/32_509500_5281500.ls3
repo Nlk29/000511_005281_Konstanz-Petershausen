@@ -556,7 +556,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="52" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000490_005701_Marsberg\Objekte\Marsberg21_West\Marsberg21_Tennishalle.lod.ls3"/>
-<p X="296.9278" Y="180.3594" Z="398.9594"/>
+<p X="296.9278" Y="180.3594" Z="398.8422"/>
 <phi Z="3.03694"/>
 <sk/>
 </Verknuepfte>
@@ -5846,10 +5846,322 @@
 <phi Z="4.494843"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1492" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000500_005719_Willebadessen\Objekte\Tennisclub\Tennisplatz.lod.ls3"/>
 <p X="216.2597" Y="206.8873" Z="399.4026"/>
 <phi Z="4.494843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
+<p X="209.6058" Y="150.8425" Z="398.4071"/>
+<phi Z="-0.441564"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
+<p X="-208.069" Y="359.9359" Z="398.3034"/>
+<phi Z="2.698812"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="171.3892" Y="201.5681" Z="399.3589"/>
+<phi Z="1.030943"/>
+<sk X="0.8975" Y="0.8975" Z="0.8975"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="174.5444" Y="202.2223" Z="399.4103"/>
+<phi Z="-1.662921"/>
+<sk X="0.7159" Y="0.7159" Z="0.7159"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="175.7467" Y="199.832" Z="399.3608"/>
+<phi Z="-0.157646"/>
+<sk X="1.7972" Y="1.7972" Z="1.7972"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="179.2386" Y="200.8854" Z="399.3987"/>
+<phi Z="0.45083"/>
+<sk X="1.2747" Y="1.2747" Z="1.2747"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="183.5677" Y="196.5493" Z="399.3175"/>
+<phi Z="0.949578"/>
+<sk X="1.233" Y="1.233" Z="1.233"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="190.4281" Y="196.6563" Z="399.3473"/>
+<phi Z="-1.689401"/>
+<sk X="1.875" Y="1.875" Z="1.875"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="191.4733" Y="197.1555" Z="399.3628"/>
+<phi Z="0.532303"/>
+<sk X="1.647" Y="1.647" Z="1.647"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="196.8889" Y="195.0352" Z="399.3362"/>
+<phi Z="0.264773"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="204.317" Y="192.1293" Z="399.2999"/>
+<phi Z="0.343391"/>
+<sk X="1.5489" Y="1.5489" Z="1.5489"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="210.3924" Y="192.3174" Z="399.3383"/>
+<phi Z="1.193791"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="214.0765" Y="189.5477" Z="399.2802"/>
+<phi Z="-0.076407"/>
+<sk X="1.307" Y="1.307" Z="1.307"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="216.8419" Y="190.2904" Z="399.308"/>
+<phi Z="-1.504151"/>
+<sk X="1.198" Y="1.198" Z="1.198"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="223.0306" Y="189.7083" Z="399.3195"/>
+<phi Z="0.79401"/>
+<sk X="1.0776" Y="1.0776" Z="1.0776"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="221.1298" Y="186.5915" Z="399.2411"/>
+<phi Z="0.186733"/>
+<sk X="1.3752" Y="1.3752" Z="1.3752"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="225.7283" Y="189.8657" Z="399.3338"/>
+<phi Z="2.093964"/>
+<sk X="1.114" Y="1.114" Z="1.114"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="224.1462" Y="193.3648" Z="399.407"/>
+<phi Z="1.944275"/>
+<sk X="0.5057" Y="0.5057" Z="0.5057"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="224.871" Y="198.0996" Z="399.5173"/>
+<phi Z="1.547759"/>
+<sk X="1.5205" Y="1.5205" Z="1.5205"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="224.8977" Y="201.1714" Z="399.5067"/>
+<phi Z="0.37558"/>
+<sk X="1.3707" Y="1.3707" Z="1.3707"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="226.759" Y="201.7508" Z="399.5858"/>
+<phi Z="2.880705"/>
+<sk X="0.7676" Y="0.7676" Z="0.7676"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="227.088" Y="206.3588" Z="399.5667"/>
+<phi Z="0.033877"/>
+<sk X="0.5166" Y="0.5166" Z="0.5166"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="225.895" Y="208.4113" Z="399.4981"/>
+<phi Z="0.377782"/>
+<sk X="1.2512" Y="1.2512" Z="1.2512"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="229.6667" Y="212.4521" Z="399.6375"/>
+<phi Z="0.519392"/>
+<sk X="1.803" Y="1.803" Z="1.803"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="226.8704" Y="213.7309" Z="399.5026"/>
+<phi Z="1.371755"/>
+<sk X="0.3102" Y="0.3102" Z="0.3102"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="229.5718" Y="218.0881" Z="399.5917"/>
+<phi Z="1.030189"/>
+<sk X="1.0634" Y="1.0634" Z="1.0634"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="230.59" Y="218.2273" Z="399.6363"/>
+<phi Z="2.220362"/>
+<sk X="0.4886" Y="0.4886" Z="0.4886"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="230.7402" Y="221.0326" Z="399.626"/>
+<phi Z="1.472102"/>
+<sk X="1.1681" Y="1.1681" Z="1.1681"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="231.2859" Y="225.1541" Z="399.8776"/>
+<phi Z="1.293637"/>
+<sk X="0.9983" Y="0.9983" Z="0.9983"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="226.0919" Y="227.3605" Z="399.9546"/>
+<phi Z="4.251062"/>
+<sk X="0.6861" Y="0.6861" Z="0.6861"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="225.6617" Y="228.2658" Z="400.0041"/>
+<phi Z="3.149971"/>
+<sk X="1.2813" Y="1.2813" Z="1.2813"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="220.6315" Y="228.2578" Z="399.9508"/>
+<phi Z="2.167522"/>
+<sk X="1.6481" Y="1.6481" Z="1.6481"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="218.0507" Y="230.2099" Z="400.0401"/>
+<phi Z="4.046803"/>
+<sk X="1.2726" Y="1.2726" Z="1.2726"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="216.0618" Y="228.2885" Z="399.9046"/>
+<phi Z="2.773596"/>
+<sk X="0.6089" Y="0.6089" Z="0.6089"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="210.8076" Y="228.2884" Z="399.8494"/>
+<phi Z="1.781663"/>
+<sk X="0.6623" Y="0.6623" Z="0.6623"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="209.9053" Y="229.2842" Z="399.8993"/>
+<phi Z="2.50925"/>
+<sk X="1.6097" Y="1.6097" Z="1.6097"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="208.064" Y="232.1579" Z="400.0514"/>
+<phi Z="4.147511"/>
+<sk X="1.5583" Y="1.5583" Z="1.5583"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="205.9767" Y="230.901" Z="399.9545"/>
+<phi Z="2.014491"/>
+<sk X="0.9407" Y="0.9407" Z="0.9407"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="199.9683" Y="233.2115" Z="400.0257"/>
+<phi Z="3.404215"/>
+<sk X="1.3488" Y="1.3488" Z="1.3488"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="197.0936" Y="234.705" Z="400.0832"/>
+<phi Z="4.362217"/>
+<sk X="1.0037" Y="1.0037" Z="1.0037"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="194.645" Y="231.7866" Z="399.8495"/>
+<phi Z="2.78574"/>
+<sk X="0.9647" Y="0.9647" Z="0.9647"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="194.1693" Y="235.2732" Z="400.0776"/>
+<phi Z="3.866297"/>
+<sk X="0.6745" Y="0.6745" Z="0.6745"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="191.5383" Y="234.9043" Z="400.0131"/>
+<phi Z="2.166638"/>
+<sk X="1.0424" Y="1.0424" Z="1.0424"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="186.8646" Y="236.6638" Z="400.0615"/>
+<phi Z="3.163979"/>
+<sk X="0.6654" Y="0.6654" Z="0.6654"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="183.9181" Y="236.1862" Z="399.985"/>
+<phi Z="2.578077"/>
+<sk X="0.7859" Y="0.7859" Z="0.7859"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="179.782" Y="238.079" Z="400.0504"/>
+<phi Z="2.023968"/>
+<sk X="1.4878" Y="1.4878" Z="1.4878"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="177.5437" Y="237.4702" Z="399.9757"/>
+<phi Z="4.440705"/>
+<sk X="1.3294" Y="1.3294" Z="1.3294"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Immenhausen_07_Wohnhaus.lod.ls3"/>
+<p X="162.0009" Y="219.6853" Z="399.3055"/>
+<phi Z="2.90712"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vineyard\grape-vine01-0degree.lod.ls3"/>
+<p X="95.3586" Y="241.4583" Z="398.8162"/>
+<phi Z="5.819392"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vineyard\grape-vine01-0degree.lod.ls3"/>
+<p X="105.563" Y="239.4846" Z="398.8413"/>
+<phi Z="2.686278"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vineyard\grape-vine01-0degree.lod.ls3"/>
+<p X="97.9719" Y="246.236" Z="398.8162"/>
+<phi Z="5.819392"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1597" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Garden\Shed\Shed_open.lod.ls3"/>
+<p X="103.5498" Y="247.1862" Z="399.7015"/>
+<phi Z="7.398667"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_509500_5281500.lsb"/>
@@ -6033,12 +6345,6 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="86" MeshI="252">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" zBias="15" MeshV="28" MeshI="78">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -6198,13 +6504,13 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="118" MeshI="339">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="118">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="117" MeshI="345">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="117">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -6244,6 +6550,72 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="100" MeshI="294">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="247" MeshI="714">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="16" MeshI="42">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="40" MeshI="123">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\stubble-field.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

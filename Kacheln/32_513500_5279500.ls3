@@ -1852,7 +1852,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-0.5583" Y="227.6328" Z="401.6134"/>
+<p X="-0.8595" Y="227.6492" Z="401.6134"/>
 <phi Z="-1.15215"/>
 <sk X="1.2159" Y="1.2159" Z="1.2159"/>
 </Verknuepfte>
@@ -2478,6 +2478,24 @@
 <Datei Dateiname="Terrain\Deutschland\Schifffahrt\Schiffe\Ausflugsschiffe\Schaufelraddampfer\Schaufelraddampfer.lod.ls3"/>
 <p X="-226.397" Y="-229.0813" Z="394.7537"/>
 <phi Z="2.551417"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
+<p X="38.7327" Y="125.3557" Z="401.8323"/>
+<phi Z="1.719702"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
+<p X="3.7385" Y="222.7051" Z="401.1514"/>
+<phi Z="-1.15215"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
+<p X="-2.3443" Y="230.424" Z="402.185"/>
+<phi Z="-1.110673"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
