@@ -242,18 +242,6 @@
 <phi Z="5.841052"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\Unterfuehrung_Fahrrad\Unterfuehrung_Fahrrad.lod.ls3"/>
-<p X="200.0551" Y="209.303" Z="399.2715"/>
-<phi Z="1.128661"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\Unterfuehrung_Fahrrad\Unterfuehrung_Fahrrad.lod.ls3"/>
-<p X="210.0542" Y="215.8569" Z="399.377"/>
-<phi Z="4.270254"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg.lod.ls3"/>
 <p X="483.2513" Y="138.7258" Z="404.6343"/>

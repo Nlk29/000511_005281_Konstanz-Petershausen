@@ -542,6 +542,12 @@
 <phi Z="2.699866"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
+<p X="-442.6431" Y="-480.674" Z="400.0591"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_511500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="24" MeshI="60">
 <RenderFlags TexVoreinstellung="3"/>

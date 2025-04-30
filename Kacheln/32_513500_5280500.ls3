@@ -518,6 +518,12 @@
 <phi Z="-0.322043"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_schotterweg2m_gleismitte.ls3"/>
+<p X="-548.1356" Y="-379.5515" Z="400.7025"/>
+<phi Z="-0.441259"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="132" MeshI="252">
 <RenderFlags TexVoreinstellung="3"/>
