@@ -304,26 +304,14 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_k.lod.ls3"/>
-<p X="-343.5693" Y="-52.4061" Z="399.0029"/>
+<p X="-339.1982" Y="-54.6209" Z="399.0029"/>
 <phi Z="2.699864"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-277.1785" Y="-80.5657" Z="406.1442"/>
-<phi X="-0.000813" Z="4.311239"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_l.lod.ls3"/>
-<p X="-345.2793" Y="-56.0221" Z="399.003"/>
+<p X="-340.9305" Y="-58.2018" Z="399.003"/>
 <phi Z="5.841456"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-281.4799" Y="-89.4279" Z="406.1442"/>
-<phi X="-0.000817" Z="4.230034"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -338,12 +326,6 @@
 <phi Z="2.699871"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-407.3688" Y="-19.0004" Z="406.0496"/>
-<phi X="-0.002128" Z="1.088443"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Flachmast-Standard_k.lod.ls3"/>
 <p X="-417.6057" Y="-21.8332" Z="398.9826"/>
@@ -354,12 +336,6 @@
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Anker.lod.ls3"/>
 <p X="-420.3844" Y="-27.7094" Z="398.9826"/>
 <phi Z="2.699871"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-411.6749" Y="-27.8726" Z="406.0496"/>
-<phi X="-0.002128" Z="1.169802"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -15980,6 +15956,114 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_410_0.ls3"/>
+<p X="379.324" Y="-390.9377" Z="399.8493"/>
+<phi Z="2.699867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_409_8.ls3"/>
+<p X="198.481" Y="-305.4186" Z="399.6372"/>
+<phi Z="2.699867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_409_6.ls3"/>
+<p X="17.6268" Y="-219.8941" Z="399.425"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_409_4.ls3"/>
+<p X="-163.1145" Y="-134.4231" Z="399.2131"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_409_2.ls3"/>
+<p X="-348.0458" Y="-58.0321" Z="399.0013"/>
+<phi Z="-0.441568"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_409_4.ls3"/>
+<p X="-167.2765" Y="-143.5167" Z="399.2132"/>
+<phi Z="-0.441727"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_409_6.ls3"/>
+<p X="13.5777" Y="-229.0411" Z="399.4253"/>
+<phi Z="-0.441726"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_409_8.ls3"/>
+<p X="194.4038" Y="-314.5522" Z="399.6375"/>
+<phi Z="-0.441727"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_410_0.ls3"/>
+<p X="375.1168" Y="-400.0098" Z="399.8494"/>
+<phi Z="-0.441726"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
+<p X="-297.0179" Y="-70.3049" Z="398.4034"/>
+<phi Z="-0.441726"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
+<p X="-298.996" Y="-69.9668" Z="398.5536"/>
+<phi Z="2.699866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-281.0465" Y="-89.6452" Z="406.1442"/>
+<phi X="-0.000869" Z="4.228885"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-276.752" Y="-80.7827" Z="406.1442"/>
+<phi X="-0.000867" Z="4.315655"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-407.3659" Y="-18.995" Z="406.0486"/>
+<phi X="-0.002006" Z="1.089215"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-411.6863" Y="-27.8993" Z="406.0486"/>
+<phi X="-0.002005" Z="1.166161"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-407.3659" Y="-18.995" Z="406.0486"/>
+<phi X="-0.002006" Z="1.089215"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000474_005726_Salzkotten\Objekte\BUe_Hoehensicherung\Hoehensicherung.ls3"/>
+<p X="-340.3824" Y="-47.4958" Z="398.9"/>
+<phi Z="0.412742"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000474_005726_Salzkotten\Objekte\BUe_Hoehensicherung\Hoehensicherung.ls3"/>
+<p X="-358.7021" Y="-55.5179" Z="398.9"/>
+<phi Z="3.554333"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_510500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="65" MeshI="183">
 <RenderFlags TexVoreinstellung="3"/>
@@ -16201,15 +16285,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\canola20m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">

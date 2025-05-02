@@ -466,11 +466,25 @@
 <ReferenzElemente ReferenzNr="458" StrElement="21" StrNorm="1" RefTyp="2" Info="Register-Nr. 5004"/>
 <ReferenzElemente ReferenzNr="459" StrElement="21" RefTyp="2" Info="Register-Nr. 5004"/>
 <ReferenzElemente ReferenzNr="460" StrElement="2423" StrNorm="1" RefTyp="4" Info="Fahrweg: Konstanz Petershausen BÜ Petershausen Schneckenburg"/>
+<ReferenzElemente ReferenzNr="461" StrElement="2426" RefTyp="4" Info="Sicherungsanlage Bü km 411,996 (Master)"/>
+<ReferenzElemente ReferenzNr="462" StrElement="2426" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 411,996 (Slave)"/>
+<ReferenzElemente ReferenzNr="463" StrElement="222" RefTyp="4" Info="Bü km 411,996"/>
+<ReferenzElemente ReferenzNr="464" StrElement="222" StrNorm="1" RefTyp="4" Info="Bü km 411,996"/>
+<ReferenzElemente ReferenzNr="465" StrElement="2431" RefTyp="4" Info="Sicherungsanlage Bü km 411,244 (Master)"/>
+<ReferenzElemente ReferenzNr="466" StrElement="2431" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 411,244 (Slave)"/>
+<ReferenzElemente ReferenzNr="467" StrElement="578" RefTyp="4" Info="Bü km 411,244"/>
+<ReferenzElemente ReferenzNr="468" StrElement="151" StrNorm="1" RefTyp="4" Info="Ankündiger Bü km 411,244"/>
+<ReferenzElemente ReferenzNr="469" StrElement="578" StrNorm="1" RefTyp="4" Info="Bü km 411,244"/>
+<ReferenzElemente ReferenzNr="470" StrElement="2440" RefTyp="4" Info="Sicherungsanlage Bü km 411,177 (Master)"/>
+<ReferenzElemente ReferenzNr="471" StrElement="2440" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 411,177 (Slave)"/>
+<ReferenzElemente ReferenzNr="472" StrElement="690" RefTyp="4" Info="Bü km 411,177"/>
+<ReferenzElemente ReferenzNr="473" StrElement="738" StrNorm="1" RefTyp="4" Info="Ankündiger Bü km 411,177"/>
+<ReferenzElemente ReferenzNr="474" StrElement="690" StrNorm="1" RefTyp="4" Info="Bü km 411,177"/>
 <StrElement Nr="1" spTrass="38.8889" Anschluss="1" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1853.511" Y="-833.0909" Z="400.6711"/>
 <b X="1786.452" Y="-801.4744" Z="400.6493"/>
 <InfoNormRichtung vMax="33.3333" km="412.1894" Reg="5001">
-<Ereignis Er="1000027" Wert="448"/>
+<Ereignis Er="1000027" Wert="448" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1846.8" Y="-829.93" Z="400.67"/>
 <phi/>
@@ -486,7 +500,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="412.1152" pos="1" Reg="5001">
 <Ereignis Er="3"/>
-<Ereignis Er="1000027" Wert="447"/>
+<Ereignis Er="1000027" Wert="447" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1846.8" Y="-829.93" Z="400.67"/>
 <phi Z="3.141593"/>
@@ -739,7 +753,7 @@
 <g X="1855.209" Y="-829.3507" Z="400.6711"/>
 <b X="1841.6298" Y="-822.9785" Z="400.6667"/>
 <InfoNormRichtung vMax="-1" Reg="5004">
-<Ereignis Er="1000027" Wert="450"/>
+<Ereignis Er="1000027" Wert="450" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1848.5" Y="-826.2" Z="400.67"/>
 <phi/>
@@ -755,7 +769,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="412.1725" pos="1" Reg="5004">
 <Ereignis Er="4"/>
-<Ereignis Er="1000027" Wert="445"/>
+<Ereignis Er="1000027" Wert="445" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1848.5" Y="-826.2" Z="400.67"/>
 <phi Z="3.141593"/>
@@ -1824,8 +1838,71 @@
 <StrElement Nr="94" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="1418.04" Y="-631.533" Z="400.5245"/>
 <b X="1339.1801" Y="-594.2533" Z="400.4977"/>
-<InfoNormRichtung vMax="11.1111" km="411.7107"/>
-<InfoGegenRichtung vMax="11.1111" km="411.6234" pos="1"/>
+<InfoNormRichtung vMax="11.1111" km="411.7107">
+<Ereignis Er="27" Wert="468"/>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 1" SignalTyp="1" BoundingR="10">
+<p X="1340.0775" Y="-592.3547" Z="400.4977"/>
+<phi Z="2.699995"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne11.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.025" Z="1.225"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.01" Y="2.1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Achszaehler_einfach.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.3" Z="-0.7"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Gleisanschlussgehaeuse_flach.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="15" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="11.1111" km="411.6234" pos="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="11" BoundingR="10">
+<p X="1416.6724" Y="-634.426" Z="400.0245"/>
+<phi Z="-0.441598"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Schutzhaltsignale\Sh2-beweglich-niedrig_gas.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3.2" Z="0.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="6"/>
+<HsigBegriff FahrstrTyp="6"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="14" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="151"/>
 <NachGegen Nr="93"/>
 </StrElement>
@@ -2727,7 +2804,7 @@
 <g X="1851.903" Y="-836.6355" Z="400.6712"/>
 <b X="1773.8409" Y="-799.733" Z="400.6455"/>
 <InfoNormRichtung vMax="11.1111" km="412.1906" Reg="5017">
-<Ereignis Er="1000027" Wert="452"/>
+<Ereignis Er="1000027" Wert="452" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1845.1899" Y="-833.46" Z="400.67"/>
 <phi/>
@@ -2743,7 +2820,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="412.1043" pos="1" Reg="5017">
 <Ereignis Er="3"/>
-<Ereignis Er="1000027" Wert="451"/>
+<Ereignis Er="1000027" Wert="451" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1845.1899" Y="-833.46" Z="400.67"/>
 <phi Z="3.141593"/>
@@ -3479,7 +3556,41 @@
 <StrElement Nr="151" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="1339.1801" Y="-594.2533" Z="400.4977"/>
 <b X="1297.368" Y="-574.4873" Z="400.4835"/>
-<InfoNormRichtung vMax="11.1111" km="411.6234"/>
+<InfoNormRichtung vMax="11.1111" km="411.6234">
+<Ereignis Er="27" Wert="473"/>
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 2" SignalTyp="1" BoundingR="10">
+<p X="1298.4792" Y="-572.1367" Z="400.4835"/>
+<phi Z="2.699995"/>
+<KoppelSignal ReferenzNr="467">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne10.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="2.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_gr.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.3" Z="-0.7"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Gleisanschlussgehaeuse_flach.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="13">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="14" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="411.5772" pos="1"/>
 <NachNorm Nr="728"/>
 <NachGegen Nr="94"/>
@@ -3488,7 +3599,7 @@
 <g X="1850.187" Y="-840.2489" Z="400.6712"/>
 <b X="1837.139" Y="-834.0836" Z="400.6679"/>
 <InfoNormRichtung vMax="11.1111" km="412.1907">
-<Ereignis Er="1000027" Wert="454"/>
+<Ereignis Er="1000027" Wert="454" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1843.54" Y="-837.11" Z="400.67"/>
 <phi/>
@@ -3503,7 +3614,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="412.1763" pos="1">
-<Ereignis Er="1000027" Wert="453"/>
+<Ereignis Er="1000027" Wert="453" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1843.54" Y="-837.11" Z="400.67"/>
 <phi Z="3.141593"/>
@@ -4134,7 +4245,12 @@
 <MatrixEintrag Signalbild="134217797" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.1751" pos="1" Reg="5021"/>
+<InfoGegenRichtung vMax="-1" km="412.1751" pos="1" Reg="5021">
+<Signal BoundingR="10">
+<p X="1837.139" Y="-834.0836" Z="400.6679"/>
+<phi Z="5.841829"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="173"/>
 <NachNorm Nr="175"/>
 <NachGegen Nr="152"/>
@@ -4275,7 +4391,29 @@
 <StrElement Nr="188" Ueberh="0.0022" kr="-0.000849" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau" Drahthoehe="5.5">
 <g X="1608.293" Y="-919.941" Z="400.9652"/>
 <b X="1610.2159" Y="-916.2382" Z="400.925"/>
-<InfoNormRichtung vMax="27.7778" km="411.9017" pos="1"/>
+<InfoNormRichtung vMax="27.7778" km="411.9017" pos="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
+<p X="1612.967" Y="-917.667" Z="402.675"/>
+<phi Z="1.0918"/>
+<SignalFrame>
+<p Z="0.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Laeute_und_Pfeiftafeln\LP_1-Tafel_ws.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1">
+<Ereignis Er="30"/>
+</MatrixEintrag>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="411.9059"/>
 <NachNorm Nr="189"/>
 <NachGegen Nr="187"/>
@@ -4468,14 +4606,66 @@
 <g X="1788.22" Y="-817.124" Z="400.6521"/>
 <b X="1785.1851" Y="-816.5328" Z="400.6512"/>
 <InfoNormRichtung vMax="27.7778" km="412.1245"/>
-<InfoGegenRichtung vMax="27.7778" km="412.1214" pos="1"/>
+<InfoGegenRichtung vMax="27.7778" km="412.1214" pos="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Degussa" SignalTyp="11" BoundingR="10">
+<p X="1787.608" Y="-820.265" Z="400.1521"/>
+<phi Z="-0.192406"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Schutzhaltsignale\Sh2-beweglich-niedrig_gas.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3.2" Z="0.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="6"/>
+<HsigBegriff FahrstrTyp="6"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="14" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="213"/>
 <NachGegen Nr="211"/>
 </StrElement>
 <StrElement Nr="213" Ueberh="-0.0041" kr="0.011753" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1785.1851" Y="-816.5328" Z="400.6512"/>
 <b X="1782.132" Y="-816.0464" Z="400.6502"/>
-<InfoNormRichtung vMax="27.7778" km="412.1214"/>
+<InfoNormRichtung vMax="27.7778" km="412.1214">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
+<p X="1782.6196" Y="-812.985" Z="402.4002"/>
+<phi Z="2.98361"/>
+<SignalFrame>
+<p Z="0.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Laeute_und_Pfeiftafeln\LP_1-Tafel_ws.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1">
+<Ereignis Er="30"/>
+</MatrixEintrag>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="412.1183" pos="1"/>
 <NachNorm Nr="214"/>
 <NachGegen Nr="212"/>
@@ -4571,7 +4761,37 @@
 <StrElement Nr="225" Ueberh="0.0178" kr="-0.005932" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau" Drahthoehe="5.5">
 <g X="1679.9" Y="-838.537" Z="400.127"/>
 <b X="1684.55" Y="-835.9022" Z="400.1556"/>
-<InfoNormRichtung vMax="27.7778" km="412.0118" pos="1"/>
+<InfoNormRichtung vMax="27.7778" km="412.0118" pos="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Degussav" SignalTyp="6" BoundingR="10">
+<p X="1686.1276" Y="-838.6863" Z="399.6556"/>
+<phi Z="0.515509"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Schutzhaltsignale\Sh2v-beweglich-niedrig_gas.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3.2" Z="0.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="6"/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff/>
+<MatrixEintrag Signalbild="14" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="412.0172"/>
 <NachNorm Nr="226"/>
 <NachGegen Nr="224"/>
@@ -4724,7 +4944,7 @@
 <g X="1850.187" Y="-840.2489" Z="400.6712"/>
 <b X="1870.964" Y="-850.114" Z="400.6754"/>
 <InfoNormRichtung vMax="-1" km="412.1907" pos="1" Reg="5022">
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Hs 1 I" SignalTyp="1" BoundingR="10">
 <p X="1871.3707" Y="-850.3066" Z="406.9054"/>
 <phi Z="-0.443291"/>
 <SignalFrame>
@@ -4745,7 +4965,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="412.2137" Reg="5022">
-<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Hs 4 I" SignalTyp="13" BoundingR="10">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="13" BoundingR="10">
 <p X="1851.1521" Y="-838.2164" Z="400.6712"/>
 <phi Z="2.698302"/>
 <SignalFrame>
@@ -4790,7 +5010,7 @@
 <g X="1845.624" Y="-842.5099" Z="400.6706"/>
 <b X="1834.913" Y="-837.5135" Z="400.6681"/>
 <InfoNormRichtung vMax="11.1111" km="412.1874">
-<Ereignis Er="1000027" Wert="456"/>
+<Ereignis Er="1000027" Wert="456" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1841.87" Y="-840.76" Z="400.67"/>
 <phi/>
@@ -4805,7 +5025,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="412.1756" pos="1">
-<Ereignis Er="1000027" Wert="455"/>
+<Ereignis Er="1000027" Wert="455" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1841.87" Y="-840.76" Z="400.67"/>
 <phi Z="3.141593"/>
@@ -4826,7 +5046,29 @@
 <g X="1834.913" Y="-837.5135" Z="400.6681"/>
 <b X="1831.308" Y="-835.9244" Z="400.6663"/>
 <InfoNormRichtung vMax="11.1111" km="412.1756"/>
-<InfoGegenRichtung vMax="11.1111" km="412.1717" pos="1"/>
+<InfoGegenRichtung vMax="11.1111" km="412.1717" pos="1">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" BoundingR="10">
+<p X="1834.0054" Y="-839.5723" Z="400.6681"/>
+<phi Z="-0.415185"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\GsSElSiemens_Mast-3m6.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.1" Z="3.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Formrangiersignale\DB_Ra11-beleuchtet.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff FahrstrTyp="2"/>
+<HsigBegriff HsigGeschw="6.9444" FahrstrTyp="2"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="6.9444"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="250"/>
 <NachGegen Nr="247"/>
 </StrElement>
@@ -10381,8 +10623,36 @@
 <StrElement Nr="578" Ueberh="0.0023" kr="-0.001918" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="1010.901" Y="-655.651" Z="399.4237"/>
 <b X="1012.421" Y="-652.1371" Z="399.4233"/>
-<InfoNormRichtung vMax="11.1111" km="411.2439" pos="1"/>
-<InfoGegenRichtung vMax="11.1111" km="411.2477"/>
+<InfoNormRichtung vMax="11.1111" km="411.2439" pos="1">
+<Ereignis Er="1000027" Wert="468"/>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 1" SignalTyp="14" BoundingR="1">
+<p X="1011.56" Y="-654.12" Z="399.42"/>
+<phi/>
+<KoppelSignal ReferenzNr="465">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="11.1111" km="411.2477">
+<Ereignis Er="1000027" Wert="468"/>
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 1" SignalTyp="14" BoundingR="1">
+<p X="1011.56" Y="-654.12" Z="399.42"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="465">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="579"/>
 <NachGegen Nr="577"/>
 </StrElement>
@@ -11942,8 +12212,36 @@
 <StrElement Nr="690" Ueberh="0.0487" kr="-0.006442" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="926.0829" Y="-618.5947" Z="399.4235"/>
 <b X="928.9102" Y="-614.1882" Z="399.454"/>
-<InfoNormRichtung vMax="11.1111" km="411.1774" pos="1"/>
-<InfoGegenRichtung vMax="11.1111" km="411.1826"/>
+<InfoNormRichtung vMax="11.1111" km="411.1774" pos="1">
+<Ereignis Er="1000027" Wert="473"/>
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 2" SignalTyp="14" BoundingR="1">
+<p X="928.51" Y="-614.81" Z="399.45"/>
+<phi/>
+<KoppelSignal ReferenzNr="470">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="11.1111" km="411.1826">
+<Ereignis Er="1000027" Wert="473"/>
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 2" SignalTyp="14" BoundingR="1">
+<p X="928.51" Y="-614.81" Z="399.45"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="470">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="691"/>
 <NachGegen Nr="689"/>
 </StrElement>
@@ -12238,7 +12536,37 @@
 <StrElement Nr="727" Ueberh="0.0063" spTrass="11.1111" Anschluss="1" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="1185.536" Y="-555.6177" Z="400.8041"/>
 <b X="1190.787" Y="-556.1584" Z="400.8105"/>
-<InfoNormRichtung vMax="11.1111" km="411.4632" pos="1"/>
+<InfoNormRichtung vMax="11.1111" km="411.4632" pos="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Stadtwerkev" SignalTyp="6" BoundingR="10">
+<p X="1190.4592" Y="-559.3416" Z="400.3105"/>
+<phi Z="-0.102612"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Schutzhaltsignale\Sh2v-beweglich-niedrig_gas.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3.2" Z="0.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="6"/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff/>
+<MatrixEintrag Signalbild="14" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="411.4684"/>
 <NachNorm Nr="743"/>
 <NachGegen Nr="668"/>
@@ -12254,7 +12582,39 @@
 <StrElement Nr="729" Ueberh="-0.0003" kr="0.00778" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="1293.3979" Y="-572.6923" Z="400.5157"/>
 <b X="1289.369" Y="-571.0327" Z="400.5469"/>
-<InfoNormRichtung vMax="11.1111" km="411.5728"/>
+<InfoNormRichtung vMax="11.1111" km="411.5728">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
+<p X="1290.1689" Y="-569.091" Z="400.5469"/>
+<phi Z="2.75085"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne11.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.025" Z="1.225"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.01" Y="2.1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Achszaehler_einfach.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.3" Z="-0.7"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Gleisanschlussgehaeuse_flach.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="15" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="411.5685" pos="1"/>
 <NachNorm Nr="730"/>
 <NachGegen Nr="728"/>
@@ -12326,7 +12686,34 @@
 <StrElement Nr="738" Ueberh="-0.0038" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="1255.599" Y="-562.8326" Z="400.7969"/>
 <b X="1203.8879" Y="-557.5075" Z="400.8266"/>
-<InfoNormRichtung vMax="11.1111" km="411.5336"/>
+<InfoNormRichtung vMax="11.1111" km="411.5336">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 2" SignalTyp="14" BoundingR="3">
+<p X="1204.2054" Y="-554.4238" Z="400.8266"/>
+<phi Z="3.038977"/>
+<KoppelSignal ReferenzNr="472">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne10.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3.1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_gr.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="5">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="6" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="411.4816" pos="1"/>
 <NachNorm Nr="739"/>
 <NachGegen Nr="737"/>
@@ -24657,103 +25044,7 @@
 <StrElement Nr="1788" spTrass="27.7778" Anschluss="1" Oberbau="B55 SKL-Oberbau" Drahthoehe="5.5">
 <g X="1575.759" Y="-706.0923" Z="400.5782"/>
 <b X="1580.2791" Y="-708.2292" Z="400.5797"/>
-<InfoNormRichtung vMax="-1" km="411.8851" pos="1">
-<Signal Signalname="GS2P" SignalFlags="3" SignalTyp="3" BoundingR="10">
-<p X="1578.019" Y="-707.1608" Z="400.5789"/>
-<phi Y="-0.000308" Z="-0.441599"/>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handbetätigung (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="-0.3" Y="-2.07" Z="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="Gleissperrensignal für eine Richtung" WeichenbaugruppePos0="1">
-<p X="0.25" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\DB_Gleissperrensignal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Gleissperrensignal für beide Richtungen" WeichenbaugruppePos0="1">
-<p X="0.25" Y="2.07"/>
-<phi Z="-3.141592"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\DB_Gleissperrensignal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppePos0="1">
-<p X="0.25" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\DB_Gleissperrensignal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="-0.82" Z="-0.1406"/>
-<phi Z="-3.141592"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\DB_Gleissperre_re.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="131072">
-<Ereignis Er="52"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="262144" MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
+<InfoNormRichtung vMax="-1" km="411.8851" pos="1"/>
 <InfoGegenRichtung vMax="-1" km="411.8901"/>
 <NachNorm Nr="1787"/>
 <NachGegen Nr="92"/>
@@ -24804,100 +25095,34 @@
 <g X="1740.845" Y="-768.3932" Z="400.6323"/>
 <b X="1744.932" Y="-771.2735" Z="400.6338"/>
 <InfoNormRichtung vMax="-1" km="412.0576" pos="1">
-<Signal Signalname="GS1P" SignalFlags="3" SignalTyp="3" BoundingR="10">
-<p X="1742.863" Y="-769.8687" Z="400.633"/>
-<phi Y="-0.000302" Z="-0.631304"/>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="Rieter" SignalTyp="11" BoundingR="10">
+<p X="1743.3766" Y="-773.4805" Z="400.1338"/>
+<phi Z="-0.613902"/>
+<SignalFrame>
 <p/>
 <phi/>
 <sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0009.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0010.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\Antrieb_RolleRe.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\Antrieb_RolleLi.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\Antrieb_RolleLi.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\Antrieb_RolleRe.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handbetätigung (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="-0.3" Y="-2.07" Z="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\Umstellgewicht_weissschwarz_Re.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="Gleissperrensignal für Schutzrichtung" WeichenbaugruppePos0="1">
-<p X="0.25" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\DB_Gleissperrensignal.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Gleissperrensignal für beide Richtungen" WeichenbaugruppePos0="1">
-<p X="0.25" Y="2.07"/>
-<phi Z="-3.141592"/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\DB_Gleissperrensignal.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppePos0="1">
-<p X="0.25" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\DB_Gleissperrensignal.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0017.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0018.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Schutzhaltsignale\Sh2-beweglich-niedrig_gas.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="0.82" Z="-0.1406"/>
-<phi Z="-3.141592"/>
+<p/>
+<phi/>
 <sk/>
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Bogenweichen\DB_Gleissperre_li.lod_gebogen_0001.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
 </SignalFrame>
-<HsigBegriff FahrstrTyp="1"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<SignalFrame>
+<p Y="2.7" Z="0.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="6"/>
+<HsigBegriff FahrstrTyp="6"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="131072">
-<Ereignis Er="52"/>
+<MatrixEintrag Signalbild="14" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13">
+<Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="262144" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="33.3333" km="412.0626"/>
@@ -30931,7 +31156,7 @@
 <g X="1841.6298" Y="-822.9785" Z="400.6667"/>
 <b X="1795.1219" Y="-801.1538" Z="400.6516"/>
 <InfoNormRichtung vMax="33.3333" km="412.1724">
-<Ereignis Er="1000027" Wert="446"/>
+<Ereignis Er="1000027" Wert="446" Beschr="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Petershausen Schneckenburg" SignalTyp="14" BoundingR="1">
 <p X="1848.5" Y="-826.2" Z="400.67"/>
 <phi/>
@@ -30944,6 +31169,154 @@
 </InfoNormRichtung>
 <NachNorm Nr="435"/>
 <NachGegen Nr="21"/>
+</StrElement>
+<StrElement Nr="2424" spTrass="27.7778" Fkt="2">
+<g X="1533.5281" Y="-781.9181" Z="399.9861"/>
+<b X="1663.2437" Y="-844.4468" Z="400.1316"/>
+<NachNorm Nr="2426"/>
+</StrElement>
+<StrElement Nr="2425" spTrass="27.7778" Fkt="2">
+<g X="1687.8936" Y="-856.5093" Z="400.1155"/>
+<b X="1648.7544" Y="-947.0955" Z="399.9254"/>
+</StrElement>
+<StrElement Nr="2426" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="1663.2437" Y="-844.4468" Z="400.1316"/>
+<b X="1672.2517" Y="-848.7891" Z="400.1418"/>
+<InfoNormRichtung vMax="-1"/>
+<InfoGegenRichtung vMax="-1"/>
+<NachNorm Nr="2428"/>
+<NachGegen Nr="2424"/>
+</StrElement>
+<StrElement Nr="2428" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="1672.2517" Y="-848.7891" Z="400.1418"/>
+<b X="1751.0537" Y="-886.7751" Z="400.2302"/>
+<NachGegen Nr="2426"/>
+</StrElement>
+<StrElement Nr="2429" spTrass="27.7778" Fkt="2">
+<g X="1503.064" Y="-886.7965" Z="399.6267"/>
+<b X="1015.8949" Y="-656.1728" Z="399.6333"/>
+<NachNorm Nr="2431"/>
+</StrElement>
+<StrElement Nr="2431" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="1015.8949" Y="-656.1728" Z="399.6333"/>
+<b X="1006.8566" Y="-651.8941" Z="399.6335"/>
+<InfoNormRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 1" SignalTyp="4" BoundingR="10">
+<p X="1015.8949" Y="-656.1728" Z="399.6333"/>
+<phi Z="2.699456"/>
+<SignalFrame>
+<p Y="2.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-2.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="5"/>
+<MatrixEintrag Signalbild="10" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 1" SignalFlags="8" SignalTyp="4" BoundingR="10">
+<p X="1006.8566" Y="-651.8941" Z="399.6335"/>
+<phi Z="-0.442137"/>
+<KoppelSignal ReferenzNr="466">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<SignalFrame>
+<p Y="2.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-2.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="5"/>
+<MatrixEintrag Signalbild="10" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="2433"/>
+<NachGegen Nr="2429"/>
+</StrElement>
+<StrElement Nr="2433" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="1006.8566" Y="-651.8941" Z="399.6335"/>
+<b X="933.1937" Y="-617.0225" Z="399.6345"/>
+<NachNorm Nr="2440"/>
+<NachGegen Nr="2431"/>
+</StrElement>
+<StrElement Nr="2440" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="933.1937" Y="-617.0225" Z="399.6345"/>
+<b X="924.1553" Y="-612.7437" Z="399.6346"/>
+<InfoNormRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 2" SignalTyp="4" BoundingR="10">
+<p X="933.1937" Y="-617.0225" Z="399.6345"/>
+<phi Z="2.699453"/>
+<SignalFrame>
+<p Y="2.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-2.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="5"/>
+<MatrixEintrag Signalbild="10" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 2" SignalFlags="8" SignalTyp="4" BoundingR="10">
+<p X="924.1553" Y="-612.7437" Z="399.6346"/>
+<phi Z="-0.442139"/>
+<KoppelSignal ReferenzNr="471">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<SignalFrame>
+<p Y="2.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-2.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="5"/>
+<MatrixEintrag Signalbild="10" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="2442"/>
+<NachGegen Nr="2433"/>
+</StrElement>
+<StrElement Nr="2442" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="924.1553" Y="-612.7437" Z="399.6346"/>
+<b X="858.8366" Y="-581.8221" Z="399.6355"/>
+<NachGegen Nr="2440"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Aufgleispunkt -&gt; Reichenau Baden D" FahrstrStrecke="720" RglGgl="3" FahrstrTyp="TypZug" Laenge="575.79">
 <FahrstrStart Ref="295">

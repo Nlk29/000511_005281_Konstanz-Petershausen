@@ -1118,6 +1118,72 @@
 <phi Z="2.716637"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_411_2.ls3"/>
+<p X="463.9619" Y="95.6344" Z="400.3684"/>
+<phi Z="2.69946"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_411_0.ls3"/>
+<p X="283.1614" Y="181.2234" Z="400.3069"/>
+<phi Z="2.69946"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_410_8.ls3"/>
+<p X="102.3609" Y="266.8124" Z="400.2453"/>
+<phi Z="2.699458"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_410_6.ls3"/>
+<p X="-78.3831" Y="352.3746" Z="400.1839"/>
+<phi Z="2.699459"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_410_4.ls3"/>
+<p X="-259.2116" Y="437.9769" Z="400.1223"/>
+<phi Z="2.69946"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_410_4.ls3"/>
+<p X="-263.334" Y="428.8633" Z="400.1224"/>
+<phi Z="-0.442138"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_410_6.ls3"/>
+<p X="-82.4816" Y="343.2493" Z="400.1839"/>
+<phi Z="-0.442135"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_410_8.ls3"/>
+<p X="98.2858" Y="257.6754" Z="400.2454"/>
+<phi Z="-0.442135"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_411_0.ls3"/>
+<p X="279.0533" Y="172.1014" Z="400.3069"/>
+<phi Z="-0.442135"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_411_2.ls3"/>
+<p X="459.8209" Y="86.5275" Z="400.3684"/>
+<phi Z="-0.442135"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
+<p X="-128.1588" Y="364.6291" Z="399.5182"/>
+<phi Z="2.699457"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_511500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="66" MeshI="126">
 <RenderFlags TexVoreinstellung="3"/>
