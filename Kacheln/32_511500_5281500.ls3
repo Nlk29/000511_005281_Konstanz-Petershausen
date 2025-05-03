@@ -542,12 +542,6 @@
 <phi Z="2.699866"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
-<p X="-442.6431" Y="-480.674" Z="400.0591"/>
-<phi/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Kilometersteine" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_410_2.ls3"/>
 <p X="-433.6514" Y="-479.7011" Z="400.0608"/>
@@ -564,6 +558,12 @@
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
 <p X="-459.8069" Y="-466.8232" Z="399.3873"/>
 <phi Z="-0.441726"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
+<p X="-442.6431" Y="-480.674" Z="400.0591"/>
+<phi/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_511500_5281500.lsb"/>
