@@ -1696,7 +1696,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
-<p X="401.1843" Y="-340.9499" Z="400.7388"/>
+<p X="398.4538" Y="-339.778" Z="400.7388"/>
 <phi Z="0.356358"/>
 <sk X="1.0182" Y="1.0182" Z="1.0182"/>
 </Verknuepfte>
@@ -5204,7 +5204,7 @@
 <phi Z="2.709458"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2140" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Laeutewerk\Spindellaeutewerk\Spindellaeutewerk.lod.ls3"/>
 <p X="495.5687" Y="-395.5711" Z="401.0773"/>
 <phi Z="2.700333"/>
