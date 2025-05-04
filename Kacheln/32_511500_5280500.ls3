@@ -1536,5 +1536,11 @@
 <Datei Dateiname="Terrain\Deutschland\Zaeune\gartenzaun.dds"/>
 </Textur>
 </SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="23" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
 </Landschaft>
 </Zusi>

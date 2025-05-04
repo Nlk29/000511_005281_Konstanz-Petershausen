@@ -20,7 +20,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="158" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_510375_5281375.ls3"/>
 <p X="-125" Y="-125"/>
 <phi/>
@@ -17294,11 +17294,1199 @@
 <phi Z="1.539495"/>
 <sk X="1.0464" Y="1.0464" Z="1.0464"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1119" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras05.lod.ls3"/>
 <p X="-495.8943" Y="9.3294" Z="397.6089"/>
 <phi Z="2.385613"/>
 <sk X="1.5593" Y="1.5593" Z="1.5593"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-319.6454" Y="-87.0203" Z="397.9596"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-315.1386" Y="-89.1857" Z="397.9743"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-310.6318" Y="-91.3511" Z="397.9683"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-306.125" Y="-93.5164" Z="397.9416"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-301.6182" Y="-95.6818" Z="397.8941"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-297.1114" Y="-97.8472" Z="397.8439"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-292.6046" Y="-100.0126" Z="397.802"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-288.0979" Y="-102.1779" Z="397.8279"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-283.5911" Y="-104.3433" Z="397.8435"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-279.0843" Y="-106.5087" Z="397.8664"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-274.5775" Y="-108.6741" Z="397.9463"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-270.0707" Y="-110.8394" Z="398.0128"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-265.5639" Y="-113.0048" Z="398.0659"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-261.0571" Y="-115.1702" Z="398.1057"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-256.5503" Y="-117.3356" Z="398.134"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-252.0435" Y="-119.5009" Z="398.1692"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-247.5368" Y="-121.6663" Z="398.2689"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-243.0299" Y="-123.8317" Z="398.3887"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-238.5232" Y="-125.9971" Z="398.4957"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-234.0164" Y="-128.1624" Z="398.5594"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-229.5096" Y="-130.3278" Z="398.6035"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-225.0028" Y="-132.4932" Z="398.6281"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-220.496" Y="-134.6586" Z="398.6332"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-215.9892" Y="-136.8239" Z="398.6217"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-211.4825" Y="-138.9893" Z="398.6079"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-206.9757" Y="-141.1547" Z="398.6047"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-202.4688" Y="-143.3201" Z="398.6187"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-197.9621" Y="-145.4854" Z="398.6479"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-193.4553" Y="-147.6508" Z="398.6754"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-188.9485" Y="-149.8162" Z="398.6868"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-184.4417" Y="-151.9816" Z="398.6824"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-179.9349" Y="-154.1469" Z="398.6624"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-175.4281" Y="-156.3123" Z="398.6582"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-170.9214" Y="-158.4777" Z="398.655"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-166.4145" Y="-160.6431" Z="398.6541"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-161.9077" Y="-162.8085" Z="398.6557"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-157.401" Y="-164.9738" Z="398.6532"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-152.8942" Y="-167.1392" Z="398.6502"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-148.3874" Y="-169.3046" Z="398.6494"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-143.8806" Y="-171.47" Z="398.6509"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-139.3738" Y="-173.6353" Z="398.6514"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-134.867" Y="-175.8007" Z="398.6269"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-130.3603" Y="-177.9661" Z="398.5928"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-125.8534" Y="-180.1315" Z="398.5494"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-121.3466" Y="-182.2968" Z="398.5093"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-116.8399" Y="-184.4622" Z="398.4958"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-112.3331" Y="-186.6276" Z="398.4904"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-107.8263" Y="-188.793" Z="398.483"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-103.3195" Y="-190.9583" Z="398.4735"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-98.8127" Y="-193.1237" Z="398.463"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-94.3059" Y="-195.2891" Z="398.4457"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-89.7991" Y="-197.4545" Z="398.4151"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-85.2923" Y="-199.6198" Z="398.3712"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-80.7856" Y="-201.7852" Z="398.3368"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-76.2788" Y="-203.9506" Z="398.3314"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-71.7719" Y="-206.116" Z="398.3264"/>
+<phi Z="-0.447902"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-73.7136" Y="-210.4919" Z="398.3601"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-75.9435" Y="-214.9672" Z="398.401"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-78.1734" Y="-219.4424" Z="398.4474"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-80.4034" Y="-223.9176" Z="398.4912"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-82.6333" Y="-228.3928" Z="398.5368"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-84.8633" Y="-232.868" Z="398.5829"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-87.0932" Y="-237.3432" Z="398.6295"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-89.3231" Y="-241.8184" Z="398.6852"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-91.553" Y="-246.2936" Z="398.7579"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-93.7829" Y="-250.7688" Z="398.837"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-96.0128" Y="-255.244" Z="398.9226"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-98.2428" Y="-259.7192" Z="399.0146"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-100.4727" Y="-264.1944" Z="399.1263"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-102.7026" Y="-268.6696" Z="399.2371"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-104.9325" Y="-273.1448" Z="399.3437"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-107.1624" Y="-277.62" Z="399.4462"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-109.3924" Y="-282.0952" Z="399.5002"/>
+<phi Z="-2.033071"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-114.1756" Y="-282.0109" Z="399.5582"/>
+<phi Z="3.054079"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-119.1565" Y="-281.5739" Z="399.6231"/>
+<phi Z="3.054079"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-124.1374" Y="-281.1369" Z="399.6678"/>
+<phi Z="3.054079"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-129.1183" Y="-280.6999" Z="399.7078"/>
+<phi Z="3.054079"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-134.0991" Y="-280.2629" Z="399.7478"/>
+<phi Z="3.054079"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-139.08" Y="-279.8259" Z="399.7844"/>
+<phi Z="3.054079"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-144.0608" Y="-279.3889" Z="399.7845"/>
+<phi Z="3.054079"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-149.0417" Y="-278.9519" Z="399.776"/>
+<phi Z="3.054079"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-153.7369" Y="-277.5" Z="399.7554"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-158.2143" Y="-275.2745" Z="399.7213"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-162.6917" Y="-273.0491" Z="399.6225"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-167.1692" Y="-270.8236" Z="399.4739"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-171.6466" Y="-268.5982" Z="399.3132"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-176.1241" Y="-266.3728" Z="399.1404"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-180.6015" Y="-264.1473" Z="398.9557"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-185.0789" Y="-261.9219" Z="398.784"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-189.5564" Y="-259.6964" Z="398.6419"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-194.0338" Y="-257.471" Z="398.5351"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-198.5112" Y="-255.2456" Z="398.4652"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-202.9887" Y="-253.0201" Z="398.4806"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-207.4661" Y="-250.7947" Z="398.521"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-211.9435" Y="-248.5692" Z="398.5552"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-216.4209" Y="-246.3438" Z="398.5833"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-220.8984" Y="-244.1184" Z="398.5993"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-225.3758" Y="-241.8929" Z="398.5864"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-229.8532" Y="-239.6675" Z="398.571"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-234.3307" Y="-237.442" Z="398.5654"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-238.8081" Y="-235.2166" Z="398.5613"/>
+<phi Z="2.68032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-243.175" Y="-232.7926" Z="398.5823"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-247.4251" Y="-230.1588" Z="398.6062"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-251.6751" Y="-227.5249" Z="398.6225"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-255.9251" Y="-224.8911" Z="398.6312"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-260.1752" Y="-222.2573" Z="398.6328"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-264.4252" Y="-219.6234" Z="398.6425"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-268.6753" Y="-216.9896" Z="398.6604"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-272.9253" Y="-214.3557" Z="398.6819"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-277.1754" Y="-211.7219" Z="398.7071"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-281.4254" Y="-209.088" Z="398.7136"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-285.6754" Y="-206.4542" Z="398.6657"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-289.9255" Y="-203.8204" Z="398.6003"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-294.1756" Y="-201.1865" Z="398.5175"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-298.4256" Y="-198.5527" Z="398.4264"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-302.6756" Y="-195.9188" Z="398.4022"/>
+<phi Z="2.586798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-306.8973" Y="-193.2514" Z="398.4181"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-310.2209" Y="-189.5159" Z="398.4314"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-313.5445" Y="-185.7804" Z="398.4482"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-316.868" Y="-182.0449" Z="398.4688"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-320.1916" Y="-178.3094" Z="398.5199"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-323.5151" Y="-174.5739" Z="398.563"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-326.8387" Y="-170.8384" Z="398.5923"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-330.1623" Y="-167.103" Z="398.6079"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-333.4858" Y="-163.3675" Z="398.6097"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-336.8094" Y="-159.632" Z="398.5991"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-340.133" Y="-155.8965" Z="398.6034"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-343.4565" Y="-152.161" Z="398.6389"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-346.7801" Y="-148.4255" Z="398.6809"/>
+<phi Z="2.297906"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-346.6459" Y="-144.1926" Z="398.7477"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-344.5107" Y="-139.6715" Z="398.8157"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-342.3755" Y="-135.1503" Z="398.7966"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-340.2403" Y="-130.6292" Z="398.7738"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-338.105" Y="-126.108" Z="398.7444"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-335.9698" Y="-121.5869" Z="398.7054"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-333.8346" Y="-117.0657" Z="398.6201"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-331.6994" Y="-112.5446" Z="398.4996"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-329.5642" Y="-108.0234" Z="398.3625"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-327.4289" Y="-103.5022" Z="398.2086"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-325.2937" Y="-98.9811" Z="398.061"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-323.1585" Y="-94.4599" Z="398.0007"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Zaunpfaehle\Zaunpfahl_Holz.lod.ls3"/>
+<p X="-321.0233" Y="-89.9388" Z="397.9651"/>
+<phi Z="1.129575"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="151" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_510375_5281125.ls3"/>
+<p X="-125" Y="-375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_2.lod.ls3"/>
+<p X="-94.8482" Y="-213.7227" Z="398.2032"/>
+<phi Z="4.067967"/>
+<sk X="1.0189" Y="1.0189" Z="1.0189"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-116.2422" Y="-208.276" Z="398.2106"/>
+<phi Z="1.811689"/>
+<sk X="1.2573" Y="1.2573" Z="1.2573"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-134.1628" Y="-185.2507" Z="398.2933"/>
+<phi Z="2.568581"/>
+<sk X="1.4097" Y="1.4097" Z="1.4097"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-155.4829" Y="-190.5687" Z="398.2561"/>
+<phi Z="3.035091"/>
+<sk X="1.4087" Y="1.4087" Z="1.4087"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_1.lod.ls3"/>
+<p X="-168.2021" Y="-177.5813" Z="398.2149"/>
+<phi Z="1.829167"/>
+<sk X="1.0477" Y="1.0477" Z="1.0477"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-191.4242" Y="-175.8687" Z="398.1006"/>
+<phi Z="3.092048"/>
+<sk X="1.8237" Y="1.8237" Z="1.8237"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_1.lod.ls3"/>
+<p X="-212.5393" Y="-167.989" Z="397.9966"/>
+<phi Z="2.222242"/>
+<sk X="1.6227" Y="1.6227" Z="1.6227"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_2.lod.ls3"/>
+<p X="-228.0268" Y="-175.3419" Z="397.9203"/>
+<phi Z="4.007175"/>
+<sk X="0.4502" Y="0.4502" Z="0.4502"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_1.lod.ls3"/>
+<p X="-241.0256" Y="-157.6269" Z="397.8966"/>
+<phi Z="4.037488"/>
+<sk X="1.2045" Y="1.2045" Z="1.2045"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-271.0534" Y="-166.5033" Z="397.9341"/>
+<phi Z="2.51899"/>
+<sk X="1.1944" Y="1.1944" Z="1.1944"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-298.5996" Y="-153.0926" Z="397.9991"/>
+<phi Z="3.358413"/>
+<sk X="1.2" Y="1.2" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-315.9077" Y="-149.4999" Z="398.0044"/>
+<phi Z="1.664534"/>
+<sk X="1.5776" Y="1.5776" Z="1.5776"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_2.lod.ls3"/>
+<p X="-333.0572" Y="-141.1371" Z="397.9969"/>
+<phi Z="0.227519"/>
+<sk X="1.0086" Y="1.0086" Z="1.0086"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_2.lod.ls3"/>
+<p X="-317.9855" Y="-148.1006" Z="398.0052"/>
+<phi Z="0.094989"/>
+<sk X="1.9917" Y="1.9917" Z="1.9917"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-286.9343" Y="-167.4007" Z="397.9712"/>
+<phi Z="-1.224003"/>
+<sk X="0.579" Y="0.579" Z="0.579"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_2.lod.ls3"/>
+<p X="-282.3008" Y="-180.8184" Z="397.8979"/>
+<phi Z="-1.511446"/>
+<sk X="1.356" Y="1.356" Z="1.356"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-263.5323" Y="-179.015" Z="397.8573"/>
+<phi Z="-1.708371"/>
+<sk X="1.3652" Y="1.3652" Z="1.3652"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-243.9232" Y="-195.1681" Z="397.842"/>
+<phi Z="0.043131"/>
+<sk X="0.6733" Y="0.6733" Z="0.6733"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-218.8957" Y="-196.7026" Z="397.9653"/>
+<phi Z="-0.368328"/>
+<sk X="1.2828" Y="1.2828" Z="1.2828"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-210.8362" Y="-223.3578" Z="398.0051"/>
+<phi Z="-1.960358"/>
+<sk X="0.6862" Y="0.6862" Z="0.6862"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_2.lod.ls3"/>
+<p X="-191.5003" Y="-215.4517" Z="398.1003"/>
+<phi Z="0.821652"/>
+<sk X="1.0653" Y="1.0653" Z="1.0653"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-168.6772" Y="-246.356" Z="398.0158"/>
+<phi Z="-0.284829"/>
+<sk X="0.4332" Y="0.4332" Z="0.4332"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-154.2312" Y="-256.5276" Z="397.9839"/>
+<phi Z="-0.784787"/>
+<sk X="1.1204" Y="1.1204" Z="1.1204"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-148.7823" Y="-256.6245" Z="397.9874"/>
+<phi Z="0.148467"/>
+<sk X="1.405" Y="1.405" Z="1.405"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_2.lod.ls3"/>
+<p X="-140.6532" Y="-247.0298" Z="398.0329"/>
+<phi Z="2.611243"/>
+<sk X="1.0861" Y="1.0861" Z="1.0861"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-155.1465" Y="-232.0979" Z="398.0844"/>
+<phi Z="2.801854"/>
+<sk X="0.3011" Y="0.3011" Z="0.3011"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-166.4987" Y="-212.0873" Z="398.1592"/>
+<phi Z="1.867771"/>
+<sk X="1.687" Y="1.687" Z="1.687"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_1.lod.ls3"/>
+<p X="-168.9218" Y="-200.3992" Z="398.2058"/>
+<phi Z="1.559906"/>
+<sk X="1.1853" Y="1.1853" Z="1.1853"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_1.lod.ls3"/>
+<p X="-178.9943" Y="-193.3737" Z="398.1618"/>
+<phi Z="-1.467311"/>
+<sk X="0.5905" Y="0.5905" Z="0.5905"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-167.634" Y="-213.166" Z="398.1539"/>
+<phi Z="-1.064611"/>
+<sk X="0.5427" Y="0.5427" Z="0.5427"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-162.7987" Y="-220.4572" Z="398.1272"/>
+<phi Z="-0.557239"/>
+<sk X="0.8634" Y="0.8634" Z="0.8634"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_2.lod.ls3"/>
+<p X="-143.9359" Y="-229.5606" Z="398.1029"/>
+<phi Z="-2.473323"/>
+<sk X="1.1356" Y="1.1356" Z="1.1356"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-165.1779" Y="-222.5083" Z="398.117"/>
+<phi Z="3.009464"/>
+<sk X="0.6276" Y="0.6276" Z="0.6276"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-180.1789" Y="-215.9957" Z="398.1333"/>
+<phi Z="2.01156"/>
+<sk X="1.3598" Y="1.3598" Z="1.3598"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_1.lod.ls3"/>
+<p X="-192.1607" Y="-206.4415" Z="398.097"/>
+<phi Z="3.344779"/>
+<sk X="1.4166" Y="1.4166" Z="1.4166"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-209.5844" Y="-176.8558" Z="398.0111"/>
+<phi Z="1.281881"/>
+<sk X="0.9008" Y="0.9008" Z="0.9008"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-219.1406" Y="-177.8341" Z="397.9641"/>
+<phi Z="3.601746"/>
+<sk X="2.0321" Y="2.0321" Z="2.0321"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_3.lod.ls3"/>
+<p X="-240.4778" Y="-169.3386" Z="397.8589"/>
+<phi Z="3.775243"/>
+<sk X="0.89" Y="0.89" Z="0.89"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_4.lod.ls3"/>
+<p X="-242.6649" Y="-151.8722" Z="397.9272"/>
+<phi Z="1.256724"/>
+<sk X="0.4995" Y="0.4995" Z="0.4995"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Animals\Cattle\Cow_1.lod.ls3"/>
+<p X="-267.9358" Y="-130.3225" Z="397.9807"/>
+<phi Z="3.907716"/>
+<sk X="1.1612" Y="1.1612" Z="1.1612"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Farming\Barn\Barn_Wood\Barn_Wood.lod.ls3"/>
+<p X="-115.4515" Y="-235.6543" Z="397.8935"/>
+<phi Z="5.860404"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Farming\Tractor_Trailer\2_Wheels_Water\2_Wheels_Water.lod.ls3"/>
+<p X="-150" Y="-206.2086" Z="398.2509"/>
+<phi Z="-0.971501"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Farming\Tractor_Trailer\Equipment\Stabilizer_Wheel.lod.ls3"/>
+<p X="-148.8747" Y="-207.7408" Z="398.5509"/>
+<phi Z="-0.971501"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Farming\Tractor_Trailer\Equipment\Stabilizer_Wheel.lod.ls3"/>
+<p X="-114.1411" Y="-110.2253" Z="398.4742"/>
+<phi Z="-1.841239"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="-324.023" Y="-72.4075" Z="398.1374"/>
+<phi Z="2.517027"/>
+<sk X="1.094" Y="1.094" Z="1.094"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="-335.6207" Y="-68.3117" Z="398.1437"/>
+<phi Z="3.624647"/>
+<sk X="0.9755" Y="0.9755" Z="0.9755"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
+<p X="-332.5506" Y="-68.9327" Z="397.9236"/>
+<phi Z="0.131589"/>
+<sk X="1.3333" Y="1.3333" Z="1.3333"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-348.197" Y="-82.3615" Z="397.7938"/>
+<phi Z="3.082284"/>
+<sk X="1.4245" Y="1.4245" Z="1.4245"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-352.868" Y="-76.8304" Z="397.8965"/>
+<phi Z="3.9632"/>
+<sk X="0.6431" Y="0.6431" Z="0.6431"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-364.2981" Y="-74.1418" Z="397.9973"/>
+<phi Z="2.837974"/>
+<sk X="1.1918" Y="1.1918" Z="1.1918"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-356.3223" Y="-78.9537" Z="397.9117"/>
+<phi Z="-1.351072"/>
+<sk X="1.7" Y="1.7" Z="1.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-325.4225" Y="-79.3464" Z="397.7817"/>
+<phi Z="-1.664132"/>
+<sk X="1.3512" Y="1.3512" Z="1.3512"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-337.7329" Y="-82.3061" Z="397.8859"/>
+<phi Z="-0.640418"/>
+<sk X="1.2383" Y="1.2383" Z="1.2383"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0056\000391_005625_Eitorf\Objekte\KEIT28_FELD\KEIT28_AN2.lod.ls3"/>
+<p X="-330.1391" Y="-365.1869" Z="442.56"/>
+<phi Y="-0.238074" Z="2.677583"/>
+<sk X="2" Y="2" Z="2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0056\000391_005625_Eitorf\Objekte\KEIT28_FELD\KEIT28_AN2.lod.ls3"/>
+<p X="-156.2789" Y="-540.2795" Z="397.5547"/>
+<phi Z="-1.977879"/>
+<sk X="2" Y="2" Z="2"/>
 </Verknuepfte>
 <lsb Dateiname="32_510500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="65" MeshI="183">
@@ -17382,7 +18570,7 @@
 <SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="31" MeshI="75">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="21">
@@ -17400,10 +18588,10 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" zBias="-15" MeshV="28" MeshI="78">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" zBias="-15" MeshV="29" MeshI="84">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
@@ -17646,7 +18834,7 @@
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="141" MeshI="417">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
@@ -17673,7 +18861,7 @@
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
@@ -17694,13 +18882,13 @@
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="91" MeshI="267">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="2" MeterProTex2="10" MeshV="40" MeshI="162">
@@ -17712,13 +18900,40 @@
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="103" MeshI="303">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" zBias="-2" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\stubble-field.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
