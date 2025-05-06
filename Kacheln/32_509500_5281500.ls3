@@ -29582,11 +29582,17 @@
 <phi Z="-0.462305"/>
 <sk X="1.0042" Y="1.0042" Z="1.0042"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1179" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
 <p X="416.3922" Y="-36.4668" Z="397.6727"/>
 <phi Z="-1.746457"/>
 <sk X="1.0869" Y="1.0869" Z="1.0869"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1744" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Reichenau_Empfang\KoPf_Reichenau_Empfang.lod.ls3"/>
+<p X="-35.9026" Y="285.2385" Z="398.667"/>
+<phi Z="1.119192"/>
+<sk/>
 </Verknuepfte>
 <lsb Dateiname="32_509500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeterProTex="5" MeterProTex2="10" MeshV="729" MeshI="1224">
