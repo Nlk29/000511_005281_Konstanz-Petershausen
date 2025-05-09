@@ -29588,7 +29588,7 @@
 <phi Z="-1.746457"/>
 <sk X="1.0869" Y="1.0869" Z="1.0869"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1744" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Reichenau_Empfang\KoPf_Reichenau_Empfang.lod.ls3"/>
 <p X="-35.9026" Y="285.2385" Z="398.667"/>
 <phi Z="1.119192"/>
@@ -29763,10 +29763,10 @@
 <Datei Dateiname="Terrain\Default\embankment01.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeshV="10" MeshI="24">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="Terrain\Default\embankment01.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="12" MeshI="30">
@@ -30183,7 +30183,7 @@
 <Datei Dateiname="Terrain\Default\embankment01.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="54" MeshI="156">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="54" MeshI="156">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment01.dds"/>
