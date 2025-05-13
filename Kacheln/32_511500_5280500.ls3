@@ -1496,11 +1496,875 @@
 <phi Z="2.699455"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="542" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="91" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005929_Wilhelmsburg\Objekte\AVL_12_Saalehafen\AVL_12_Saalehafen50.lod.ls3"/>
 <p X="45.4363" Y="212.359" Z="390.7966"/>
 <phi Z="2.699457"/>
 <sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-116.591" Y="342.1008" Z="399.3799"/>
+<phi Z="-3.468569"/>
+<sk X="1.9225" Y="1.9225" Z="1.9225"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-141.4929" Y="341.1914" Z="399.4784"/>
+<phi Z="-4.349154"/>
+<sk X="1.3204" Y="1.3204" Z="1.3204"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-162.863" Y="334.0952" Z="399.0221"/>
+<phi Z="-3.54862"/>
+<sk X="0.6957" Y="0.6957" Z="0.6957"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-180.273" Y="323.6292" Z="399.2928"/>
+<phi Z="-1.580381"/>
+<sk X="0.8443" Y="0.8443" Z="0.8443"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-195.4001" Y="326.5501" Z="399.092"/>
+<phi Z="-2.442856"/>
+<sk X="0.4306" Y="0.4306" Z="0.4306"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-219.0912" Y="311.2508" Z="398.8549"/>
+<phi Z="-1.552631"/>
+<sk X="0.9701" Y="0.9701" Z="0.9701"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-232.6013" Y="316.2519" Z="398.4196"/>
+<phi Z="-1.743037"/>
+<sk X="0.5799" Y="0.5799" Z="0.5799"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-255.3048" Y="308.2639" Z="398.2863"/>
+<phi Z="-3.958741"/>
+<sk X="0.7988" Y="0.7988" Z="0.7988"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-271.0838" Y="311.9155" Z="398.318"/>
+<phi Z="-4.012077"/>
+<sk X="1.2754" Y="1.2754" Z="1.2754"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-291.9488" Y="302.2807" Z="398.1977"/>
+<phi Z="-1.721945"/>
+<sk X="0.8257" Y="0.8257" Z="0.8257"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-314.733" Y="300.0813" Z="398.5196"/>
+<phi Z="-3.570668"/>
+<sk X="0.7591" Y="0.7591" Z="0.7591"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-334.749" Y="284.392" Z="398.6709"/>
+<phi Z="-3.173342"/>
+<sk X="1.0728" Y="1.0728" Z="1.0728"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-347.0569" Y="285.8966" Z="398.8598"/>
+<phi Z="-2.391557"/>
+<sk X="0.8152" Y="0.8152" Z="0.8152"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-370.8203" Y="277.1401" Z="398.9828"/>
+<phi Z="-3.976416"/>
+<sk X="1.2188" Y="1.2188" Z="1.2188"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-396.6404" Y="273.6359" Z="399.0797"/>
+<phi Z="-4.01522"/>
+<sk X="0.7004" Y="0.7004" Z="0.7004"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-256.0405" Y="334.336" Z="398.7947"/>
+<phi Z="2.933836"/>
+<sk X="1.8313" Y="1.8313" Z="1.8313"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-282.6559" Y="324.7125" Z="398.2722"/>
+<phi Z="1.643754"/>
+<sk X="1.5758" Y="1.5758" Z="1.5758"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-296.9294" Y="327.4417" Z="398.5131"/>
+<phi Z="3.293809"/>
+<sk X="1.0979" Y="1.0979" Z="1.0979"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-323.4758" Y="334.4813" Z="398.7522"/>
+<phi Z="1.673196"/>
+<sk X="1.6379" Y="1.6379" Z="1.6379"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-336.0676" Y="330.4574" Z="398.8176"/>
+<phi Z="3.389243"/>
+<sk X="1.7568" Y="1.7568" Z="1.7568"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-352.0992" Y="341.9382" Z="398.9069"/>
+<phi Z="2.041313"/>
+<sk X="1.45" Y="1.45" Z="1.45"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-370.8489" Y="338.6319" Z="399.0052"/>
+<phi Z="2.856536"/>
+<sk X="0.429" Y="0.429" Z="0.429"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-394.9156" Y="341.97" Z="399.8332"/>
+<phi Z="3.539592"/>
+<sk X="1.0731" Y="1.0731" Z="1.0731"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-411.4285" Y="338.3938" Z="399.587"/>
+<phi Z="3.593175"/>
+<sk X="1.1487" Y="1.1487" Z="1.1487"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-2.1259" Y="285.8351" Z="398.8845"/>
+<phi Z="-1.66325"/>
+<sk X="1.3228" Y="1.3228" Z="1.3228"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="12.2682" Y="288.6317" Z="398.8512"/>
+<phi Z="-1.634702"/>
+<sk X="0.9" Y="0.9" Z="0.9"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="27.5233" Y="276.8112" Z="399.3715"/>
+<phi Z="-0.468117"/>
+<sk X="2.0287" Y="2.0287" Z="2.0287"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="44.4183" Y="269.3425" Z="399.4161"/>
+<phi Z="-0.255184"/>
+<sk X="1.7564" Y="1.7564" Z="1.7564"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-20m.lod.ls3"/>
+<p X="56.3916" Y="262.2785" Z="399.3175"/>
+<phi Z="-1.326384"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="69.2562" Y="254.0791" Z="399.3138"/>
+<phi Z="-0.980863"/>
+<sk X="1.2584" Y="1.2584" Z="1.2584"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="86.1105" Y="239.1479" Z="399.0512"/>
+<phi Z="-1.444721"/>
+<sk X="1.8191" Y="1.8191" Z="1.8191"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-20m.lod.ls3"/>
+<p X="98.4458" Y="244.7552" Z="399.5656"/>
+<phi Z="-1.92499"/>
+<sk X="1.5866" Y="1.5866" Z="1.5866"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="111.3591" Y="231.7123" Z="399.0172"/>
+<phi Z="0.107952"/>
+<sk X="1.3445" Y="1.3445" Z="1.3445"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="126.8878" Y="232.1038" Z="399.0169"/>
+<phi Z="-1.590447"/>
+<sk X="2" Y="2" Z="2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="143.6576" Y="223.9156" Z="399.1197"/>
+<phi Z="-0.937482"/>
+<sk X="1.6315" Y="1.6315" Z="1.6315"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-46.3942" Y="238.3801" Z="398.7348"/>
+<phi Z="1.633546"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-20m.lod.ls3"/>
+<p X="-60.4392" Y="243.8908" Z="398.6755"/>
+<phi Z="1.478569"/>
+<sk X="0.7635" Y="0.7635" Z="0.7635"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-72.2844" Y="240.2719" Z="398.6401"/>
+<phi Z="1.973583"/>
+<sk X="1.2406" Y="1.2406" Z="1.2406"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-20m.lod.ls3"/>
+<p X="-84.6118" Y="245.4524" Z="398.5957"/>
+<phi Z="4.26855"/>
+<sk X="1.3747" Y="1.3747" Z="1.3747"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-94.6197" Y="245.6001" Z="398.5836"/>
+<phi Z="2.599244"/>
+<sk X="1.284" Y="1.284" Z="1.284"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-20m.lod.ls3"/>
+<p X="-102.4611" Y="247.2678" Z="398.5598"/>
+<phi Z="4.160699"/>
+<sk X="1.3633" Y="1.3633" Z="1.3633"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-111.9247" Y="245.8816" Z="398.5372"/>
+<phi Z="2.005541"/>
+<sk X="1.7159" Y="1.7159" Z="1.7159"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-20m.lod.ls3"/>
+<p X="-120.1456" Y="243.5208" Z="398.52"/>
+<phi Z="4.19295"/>
+<sk X="1.1549" Y="1.1549" Z="1.1549"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-20m.lod.ls3"/>
+<p X="-130.9904" Y="238.7836" Z="398.6067"/>
+<phi Z="-0.706239"/>
+<sk X="0.4727" Y="0.4727" Z="0.4727"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-130.722" Y="229.3644" Z="398.5488"/>
+<phi Z="-2.937778"/>
+<sk X="1.4795" Y="1.4795" Z="1.4795"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-139.2157" Y="224.1844" Z="398.6172"/>
+<phi Z="-0.438257"/>
+<sk X="0.7105" Y="0.7105" Z="0.7105"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="65" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0058\000519_005758_Bad_Pyrmont\Objekte\03Phoenix\Phoenix2.lod.ls3"/>
+<p X="178.7068" Y="133.0523" Z="398.2225"/>
+<phi Z="2.685091"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="143.3421" Y="106.5054" Z="398.9523"/>
+<phi Z="-2.022685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000505_005712_Bonenburg\Objekte\Bonenburg_09\Betonrohre-stehend.lod.ls3"/>
+<p X="176.7029" Y="192.4547" Z="398.9374"/>
+<phi Z="4.255888"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-64.8938" Y="286.5061" Z="398.5424"/>
+<phi Z="-2.145699"/>
+<sk X="1.0704" Y="1.0704" Z="1.0704"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="-101.951" Y="265.4099" Z="398.5234"/>
+<phi Z="-1.539965"/>
+<sk X="1.8045" Y="1.8045" Z="1.8045"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="-122.8976" Y="254.8291" Z="398.5934"/>
+<phi Z="-1.446478"/>
+<sk X="1.491" Y="1.491" Z="1.491"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-131.076" Y="288.3748" Z="398.8943"/>
+<phi Z="1.950534"/>
+<sk X="1.3548" Y="1.3548" Z="1.3548"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-136.5461" Y="297.2855" Z="398.9891"/>
+<phi Z="-0.82606"/>
+<sk X="0.8958" Y="0.8958" Z="0.8958"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-83.9655" Y="309.0057" Z="398.478"/>
+<phi Z="1.166573"/>
+<sk X="1.3591" Y="1.3591" Z="1.3591"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-71.3577" Y="301.0301" Z="398.5077"/>
+<phi Z="-1.079105"/>
+<sk X="1.0732" Y="1.0732" Z="1.0732"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="-76.4596" Y="315.6694" Z="398.5413"/>
+<phi Z="-3.875941"/>
+<sk X="1.0573" Y="1.0573" Z="1.0573"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-86.9573" Y="317.6245" Z="398.4835"/>
+<phi Z="-3.769408"/>
+<sk X="1.7971" Y="1.7971" Z="1.7971"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="-137.6895" Y="289.3059" Z="398.9863"/>
+<phi Z="-3.729448"/>
+<sk X="0.8899" Y="0.8899" Z="0.8899"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-142.8678" Y="307.7154" Z="399.0727"/>
+<phi Z="-1.931492"/>
+<sk X="1.758" Y="1.758" Z="1.758"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-167.402" Y="262.2977" Z="399.2196"/>
+<phi Z="-1.514741"/>
+<sk X="0.7303" Y="0.7303" Z="0.7303"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-176.8338" Y="257.4485" Z="399.3152"/>
+<phi Z="1.438042"/>
+<sk X="0.6943" Y="0.6943" Z="0.6943"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-178.6252" Y="263.0994" Z="399.3713"/>
+<phi Z="-0.07133"/>
+<sk X="1.2151" Y="1.2151" Z="1.2151"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-123.0315" Y="268.5543" Z="398.6744"/>
+<phi Z="-0.204691"/>
+<sk X="1.2239" Y="1.2239" Z="1.2239"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="-112.6024" Y="260.1796" Z="398.5056"/>
+<phi Z="-1.008281"/>
+<sk X="1.3758" Y="1.3758" Z="1.3758"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-52.7045" Y="281.2449" Z="398.5666"/>
+<phi Z="0.392861"/>
+<sk X="1.3749" Y="1.3749" Z="1.3749"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="460.5438" Y="-3.5948" Z="400.489"/>
+<phi Z="2.936298"/>
+<sk X="0.87" Y="0.87" Z="0.87"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="447.1513" Y="31.7546" Z="400.7574"/>
+<phi Z="2.959273"/>
+<sk X="0.5172" Y="0.5172" Z="0.5172"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="390.3166" Y="35.2163" Z="401.0846"/>
+<phi Z="4.007809"/>
+<sk X="0.6126" Y="0.6126" Z="0.6126"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="387.153" Y="35.0468" Z="401.0952"/>
+<phi Z="2.858529"/>
+<sk X="1.1934" Y="1.1934" Z="1.1934"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="340.2415" Y="24.8469" Z="400.869"/>
+<phi Z="3.436595"/>
+<sk X="1.1072" Y="1.1072" Z="1.1072"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="301.0882" Y="18.3614" Z="400.3641"/>
+<phi Z="2.770585"/>
+<sk X="1.3508" Y="1.3508" Z="1.3508"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="274.1075" Y="43.1986" Z="400.2729"/>
+<phi Z="2.276453"/>
+<sk X="0.9771" Y="0.9771" Z="0.9771"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="244.0677" Y="29.5374" Z="399.7473"/>
+<phi Z="3.529878"/>
+<sk X="1.6716" Y="1.6716" Z="1.6716"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="215.3543" Y="33.8319" Z="399.3482"/>
+<phi Z="4.234966"/>
+<sk X="1.4966" Y="1.4966" Z="1.4966"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="179.648" Y="41.0451" Z="399.2967"/>
+<phi Z="3.81407"/>
+<sk X="1.4051" Y="1.4051" Z="1.4051"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="198.1458" Y="81.806" Z="399.1791"/>
+<phi Z="0.909175"/>
+<sk X="1.9225" Y="1.9225" Z="1.9225"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="240.1117" Y="110.2095" Z="399.3433"/>
+<phi Z="1.087676"/>
+<sk X="1.1983" Y="1.1983" Z="1.1983"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="259.3578" Y="138.6162" Z="399.5025"/>
+<phi Z="1.586816"/>
+<sk X="0.7251" Y="0.7251" Z="0.7251"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="248.1538" Y="124.042" Z="399.2936"/>
+<phi Z="-2.289345"/>
+<sk X="0.9276" Y="0.9276" Z="0.9276"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="283.2914" Y="127.9389" Z="399.9089"/>
+<phi Z="0.489249"/>
+<sk X="0.7195" Y="0.7195" Z="0.7195"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="293.1957" Y="83.3177" Z="400.3716"/>
+<phi Z="-1.319989"/>
+<sk X="0.6297" Y="0.6297" Z="0.6297"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="319.749" Y="67.0817" Z="401.0481"/>
+<phi Z="0.81235"/>
+<sk X="0.9969" Y="0.9969" Z="0.9969"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="353.6295" Y="22.1857" Z="400.9519"/>
+<phi Z="-0.193926"/>
+<sk X="1.0331" Y="1.0331" Z="1.0331"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="368.9263" Y="4.5132" Z="400.5313"/>
+<phi Z="-0.822076"/>
+<sk X="1.0558" Y="1.0558" Z="1.0558"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="405.6472" Y="-2.993" Z="400.2504"/>
+<phi Z="-1.396254"/>
+<sk X="0.6892" Y="0.6892" Z="0.6892"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="402.5952" Y="-18.8152" Z="400.1514"/>
+<phi Z="-1.473434"/>
+<sk X="0.6334" Y="0.6334" Z="0.6334"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="450.2773" Y="-34.8549" Z="400.3023"/>
+<phi Z="1.186582"/>
+<sk X="0.8035" Y="0.8035" Z="0.8035"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="438.8261" Y="-5.2443" Z="400.4197"/>
+<phi Z="2.445362"/>
+<sk X="1.2364" Y="1.2364" Z="1.2364"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="426.524" Y="41.9065" Z="401.0641"/>
+<phi Z="2.610671"/>
+<sk X="1.3671" Y="1.3671" Z="1.3671"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="422.145" Y="57.2802" Z="402.0723"/>
+<phi Z="-2.87201"/>
+<sk X="0.373" Y="0.373" Z="0.373"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="389.9767" Y="36.8687" Z="401.121"/>
+<phi Z="-2.936204"/>
+<sk X="1.2877" Y="1.2877" Z="1.2877"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="335.2364" Y="53.9574" Z="401.3344"/>
+<phi Z="-2.534883"/>
+<sk X="0.4833" Y="0.4833" Z="0.4833"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="368.4508" Y="40.0647" Z="401.2848"/>
+<phi Z="-2.436212"/>
+<sk X="1.6211" Y="1.6211" Z="1.6211"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="366.3605" Y="-16.1026" Z="400.1071"/>
+<phi Z="-1.918134"/>
+<sk X="1.1714" Y="1.1714" Z="1.1714"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="394.3435" Y="-38.3214" Z="400.0042"/>
+<phi Z="-0.220587"/>
+<sk X="1.4022" Y="1.4022" Z="1.4022"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="415.3371" Y="-35.5699" Z="400.1355"/>
+<phi Z="1.802484"/>
+<sk X="1.336" Y="1.336" Z="1.336"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="405.9211" Y="-6.758" Z="400.2324"/>
+<phi Z="1.223742"/>
+<sk X="1.0762" Y="1.0762" Z="1.0762"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="405.1585" Y="25.0721" Z="400.8039"/>
+<phi Z="1.036848"/>
+<sk X="1.5017" Y="1.5017" Z="1.5017"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="420.4447" Y="68.5827" Z="402.9506"/>
+<phi Z="3.554402"/>
+<sk X="1.3303" Y="1.3303" Z="1.3303"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="415.682" Y="86.152" Z="403.2744"/>
+<phi Z="4.266906"/>
+<sk X="1.0508" Y="1.0508" Z="1.0508"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="384.246" Y="96.527" Z="402.4926"/>
+<phi Z="2.621869"/>
+<sk X="1.6244" Y="1.6244" Z="1.6244"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="344.1859" Y="83.69" Z="401.4505"/>
+<phi Z="3.43416"/>
+<sk X="0.8539" Y="0.8539" Z="0.8539"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="324.0772" Y="103.6345" Z="400.9599"/>
+<phi Z="1.284126"/>
+<sk X="0.7227" Y="0.7227" Z="0.7227"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="314.203" Y="101.3191" Z="400.702"/>
+<phi Z="-0.903923"/>
+<sk X="1.5016" Y="1.5016" Z="1.5016"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="265.7464" Y="91.9352" Z="399.7334"/>
+<phi Z="-3.276342"/>
+<sk X="1.4249" Y="1.4249" Z="1.4249"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="242.8957" Y="73.2258" Z="399.3964"/>
+<phi Z="-3.871777"/>
+<sk X="1.1353" Y="1.1353" Z="1.1353"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="273.8875" Y="50.2631" Z="400.2155"/>
+<phi Z="-0.920061"/>
+<sk X="0.9973" Y="0.9973" Z="0.9973"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="303.5079" Y="46.7525" Z="400.8312"/>
+<phi Z="1.054312"/>
+<sk X="0.9791" Y="0.9791" Z="0.9791"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="314.5735" Y="58.7814" Z="401.002"/>
+<phi Z="-0.712555"/>
+<sk X="1.7042" Y="1.7042" Z="1.7042"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="361.8019" Y="43.3541" Z="401.384"/>
+<phi Z="-1.379715"/>
+<sk X="0.9704" Y="0.9704" Z="0.9704"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="365.2636" Y="42.699" Z="401.3547"/>
+<phi Z="1.464151"/>
+<sk X="0.639" Y="0.639" Z="0.639"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="398.9807" Y="34.5476" Z="401.0317"/>
+<phi Z="-1.335667"/>
+<sk X="0.9915" Y="0.9915" Z="0.9915"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="439.6377" Y="61.7734" Z="402.8026"/>
+<phi Z="0.696546"/>
+<sk X="1.3558" Y="1.3558" Z="1.3558"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="433.7367" Y="28.1969" Z="400.7422"/>
+<phi Z="0.324187"/>
+<sk X="0.8008" Y="0.8008" Z="0.8008"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="477.1714" Y="5.5913" Z="400.8317"/>
+<phi Z="0.666382"/>
+<sk X="0.7001" Y="0.7001" Z="0.7001"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="498.0724" Y="-13.0691" Z="401.0411"/>
+<phi Z="0.239095"/>
+<sk X="1.864" Y="1.864" Z="1.864"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="452.2408" Y="-11.3999" Z="400.4467"/>
+<phi Z="-1.521127"/>
+<sk X="1.2854" Y="1.2854" Z="1.2854"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="444.4669" Y="-14.6984" Z="400.3914"/>
+<phi Z="-2.022465"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="412.6172" Y="-19.3914" Z="400.2047"/>
+<phi Z="-2.539359"/>
+<sk X="0.939" Y="0.939" Z="0.939"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Gong.lod.ls3"/>
+<p X="428.6469" Y="-114.7843" Z="399.6345"/>
+<phi Z="5.841043"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="287.9561" Y="161.8584" Z="401.244"/>
+<phi Z="5.838669"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="306.0125" Y="153.258" Z="401.5369"/>
+<phi Z="-0.444516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="324.0689" Y="144.6575" Z="401.8064"/>
+<phi Z="-0.444516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="342.1253" Y="136.0571" Z="402.1931"/>
+<phi Z="-0.444516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="360.1817" Y="127.4567" Z="402.6618"/>
+<phi Z="-0.444516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="378.2381" Y="118.8562" Z="402.9313"/>
+<phi Z="-0.444516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="396.2945" Y="110.2558" Z="403.2477"/>
+<phi Z="-0.444516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="414.3509" Y="101.6554" Z="403.5523"/>
+<phi Z="-0.471514"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="432.1685" Y="92.5706" Z="403.8922"/>
+<phi Z="-0.471514"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
+<p X="449.9862" Y="83.4859" Z="404.0679"/>
+<phi Z="-0.471514"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="34" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\AGD_Biogaskraftwerk\AGD_Biogaskraftwerk_Nebengebauede.lod.ls3"/>
+<p X="438.6045" Y="-57.0328" Z="401.7909"/>
+<phi Z="2.69945"/>
+<sk X="1.5" Y="1.5" Z="2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="37" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Deichstr_11\AHM_Deichstr_11.lod.ls3"/>
+<p X="397.3545" Y="-77.6344" Z="399.6346"/>
+<phi Z="7.411839"/>
+<sk X="2" Y="2" Z="2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar05-15m.lod.ls3"/>
+<p X="496.7052" Y="-64.6507" Z="400.0927"/>
+<phi Z="-2.661643"/>
+<sk X="1.601" Y="1.601" Z="1.601"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="489.1797" Y="-67.0678" Z="400.0442"/>
+<phi Z="-3.17382"/>
+<sk X="1.2248" Y="1.2248" Z="1.2248"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar05-15m.lod.ls3"/>
+<p X="482.201" Y="-70.8216" Z="399.9718"/>
+<phi Z="-2.044627"/>
+<sk X="0.564" Y="0.564" Z="0.564"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar05-15m.lod.ls3"/>
+<p X="477.0592" Y="-75.8027" Z="399.9262"/>
+<phi Z="-2.368548"/>
+<sk X="1.0846" Y="1.0846" Z="1.0846"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar06-15m.lod.ls3"/>
+<p X="470.4015" Y="-79.9679" Z="399.8807"/>
+<phi Z="-1.538969"/>
+<sk X="1.5969" Y="1.5969" Z="1.5969"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar06-15m.lod.ls3"/>
+<p X="463.9516" Y="-85.1736" Z="399.8054"/>
+<phi Z="-2.691442"/>
+<sk X="0.5351" Y="0.5351" Z="0.5351"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar06-15m.lod.ls3"/>
+<p X="457.5299" Y="-88.7714" Z="399.7599"/>
+<phi Z="-3.714349"/>
+<sk X="1.5811" Y="1.5811" Z="1.5811"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar02-15m.lod.ls3"/>
+<p X="451.9574" Y="-94.1662" Z="399.6845"/>
+<phi Z="-3.587391"/>
+<sk X="1.9317" Y="1.9317" Z="1.9317"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar05-15m.lod.ls3"/>
+<p X="446.509" Y="-101.7005" Z="399.639"/>
+<phi Z="-1.994837"/>
+<sk X="1.6096" Y="1.6096" Z="1.6096"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar06-15m.lod.ls3"/>
+<p X="442.253" Y="-106.9279" Z="399.5637"/>
+<phi Z="-3.700641"/>
+<sk X="0.719" Y="0.719" Z="0.719"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="437.875" Y="-112.2" Z="399.4928"/>
+<phi Z="-3.631805"/>
+<sk X="1.9433" Y="1.9433" Z="1.9433"/>
 </Verknuepfte>
 <lsb Dateiname="32_511500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="66" MeshI="126">
@@ -1531,12 +2395,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="76" MeshI="180">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="582" MeshI="2139">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -1605,12 +2463,6 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="61" MeshI="177">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -1663,12 +2515,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="16" MeshI="36">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="11" MeshI="21">
@@ -2040,7 +2886,7 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="28" MeshI="69">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="32" MeshI="81">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -2056,6 +2902,51 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="17" MeshI="45">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="36" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="21" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="44" MeshI="120">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" MeterProTex="30" MeterProTex2="10" MeshV="30" MeshI="84">
+<RenderFlags TexVoreinstellung="2"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="63">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="26" MeshI="57">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="66">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>

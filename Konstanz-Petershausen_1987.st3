@@ -12817,9 +12817,7 @@
 <StrElement Nr="744" kr="0.000799" spTrass="3.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1926.915" Y="-862.4225" Z="400.6855"/>
 <b X="1939.87" Y="-868.3088" Z="400.6881"/>
-<InfoNormRichtung vMax="38.8889" km="412.2664" pos="1">
-<Ereignis Er="1000010"/>
-</InfoNormRichtung>
+<InfoNormRichtung vMax="38.8889" km="412.2664" pos="1"/>
 <InfoGegenRichtung vMax="33.3333" km="412.2806"/>
 <NachNorm Nr="745"/>
 <NachGegen Nr="41"/>
@@ -12904,7 +12902,6 @@
 <b X="1992.337" Y="-890.3702" Z="400.6985"/>
 <InfoNormRichtung vMax="38.8889" km="412.3233" pos="1"/>
 <InfoGegenRichtung vMax="33.3333" km="412.3376">
-<Ereignis Er="1000007"/>
 <Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" SignalTyp="1" BoundingR="10">
 <p X="1978.3278" Y="-887.0748" Z="402.6959"/>
 <phi Z="2.760615"/>
@@ -27654,6 +27651,10 @@
 <StrElement Nr="1853" spTrass="38.8889" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1504.2728" Y="759.9172" Z="398.8631"/>
 <b X="-1526.442" Y="770.3926" Z="398.8586"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="6"/>
+<Ereignis Er="1000008"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="408.4465" pos="1">
 <Ereignis Er="1000012" Beschr="Reichenau Baden"/>
 </InfoGegenRichtung>
@@ -27663,6 +27664,10 @@
 <StrElement Nr="1858" spTrass="38.8889" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1564.5892" Y="788.4182" Z="398.8508"/>
 <b X="-1526.442" Y="770.3926" Z="398.8586"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000011"/>
+<Ereignis Er="6"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="408.4465">
 <Ereignis Er="1000009" Beschr="Reichenau Baden"/>
 <Signal NameBetriebsstelle="Reichenau Baden" Stellwerk="Reichenau Baden" SignalTyp="1" BoundingR="10">
@@ -27703,6 +27708,7 @@
 <b X="-1515.0475" Y="760.5746" Z="398.8612"/>
 <InfoNormRichtung vMax="38.8889" km="408.471">
 <Ereignis Er="1000011" Beschr="Reichenau Baden"/>
+<Ereignis Er="6"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="408.4608" pos="1">
 <Ereignis Er="1000009" Beschr="Reichenau Baden"/>
@@ -31113,15 +31119,15 @@
 <InfoNormRichtung vMax="-1">
 <Signal NameBetriebsstelle="Konstanz Petershausen" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 1" SignalTyp="4" BoundingR="10">
 <p X="1015.8949" Y="-656.1728" Z="399.6333"/>
-<phi Z="2.699456"/>
+<phi Z="2.699455"/>
 <SignalFrame>
-<p Y="2.4"/>
+<p Y="3.6"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-2.4"/>
+<p Y="-3.6"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
@@ -31141,13 +31147,13 @@
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
-<p Y="2.4"/>
+<p Y="3.6"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-2.4"/>
+<p Y="-3.6"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
@@ -31174,15 +31180,15 @@
 <InfoNormRichtung vMax="-1">
 <Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Petershausen Pf (Stw2)" Signalname="BÜ Max Stromeyer 2" SignalTyp="4" BoundingR="10">
 <p X="933.1937" Y="-617.0225" Z="399.6345"/>
-<phi Z="2.699453"/>
+<phi Z="2.699454"/>
 <SignalFrame>
-<p Y="2.4"/>
+<p Y="3.6"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-2.4"/>
+<p Y="-3.6"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
@@ -31202,13 +31208,13 @@
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
-<p Y="2.4"/>
+<p Y="3.6"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-2.4"/>
+<p Y="-3.6"/>
 <phi/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>

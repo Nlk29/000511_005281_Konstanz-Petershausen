@@ -5210,6 +5210,138 @@
 <phi Z="2.700333"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
+<p X="-491.1216" Y="-35.6173" Z="400.7174"/>
+<phi Z="-2.411416"/>
+<sk X="1.5406" Y="1.5406" Z="1.5406"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahlprofil2_rost.lod.ls3"/>
+<p X="55.479" Y="-200.9959" Z="400.5705"/>
+<phi Z="5.841778"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh0-scheibe.lod.ls3"/>
+<p X="55.0071" Y="-199.8881" Z="401.8705"/>
+<phi Z="-0.441407"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Gong.lod.ls3"/>
+<p X="-488.4292" Y="-153.9697" Z="399.6333"/>
+<phi Z="5.841046"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="-428.3835" Y="-50.9298" Z="400.6311"/>
+<phi Z="4.490195"/>
+<sk X="0.6135" Y="0.6135" Z="0.6135"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="-436.4052" Y="-50.2735" Z="400.5663"/>
+<phi Z="4.233094"/>
+<sk X="1.053" Y="1.053" Z="1.053"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar022-12m.lod.ls3"/>
+<p X="-444.1855" Y="-50.6313" Z="400.5165"/>
+<phi Z="-3.89175"/>
+<sk X="1.178" Y="1.178" Z="1.178"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar02-15m.lod.ls3"/>
+<p X="-452.7535" Y="-52.0803" Z="400.471"/>
+<phi Z="-2.35627"/>
+<sk X="0.9822" Y="0.9822" Z="0.9822"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar06-15m.lod.ls3"/>
+<p X="-459.6342" Y="-52.866" Z="400.3957"/>
+<phi Z="-3.896194"/>
+<sk X="1.2112" Y="1.2112" Z="1.2112"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar02-15m.lod.ls3"/>
+<p X="-466.6439" Y="-53.2974" Z="400.3501"/>
+<phi Z="-4.164633"/>
+<sk X="1.204" Y="1.204" Z="1.204"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar05-15m.lod.ls3"/>
+<p X="-475.0974" Y="-54.5135" Z="400.3046"/>
+<phi Z="-2.023009"/>
+<sk X="0.68" Y="0.68" Z="0.68"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar05-15m.lod.ls3"/>
+<p X="-481.486" Y="-56.3496" Z="400.2591"/>
+<phi Z="-3.67022"/>
+<sk X="1.6684" Y="1.6684" Z="1.6684"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar02-15m.lod.ls3"/>
+<p X="-490.4265" Y="-58.6124" Z="400.1837"/>
+<phi Z="-3.259444"/>
+<sk X="1.282" Y="1.282" Z="1.282"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar02-15m.lod.ls3"/>
+<p X="-496.3412" Y="-61.3138" Z="400.1382"/>
+<phi Z="-3.87981"/>
+<sk X="0.8343" Y="0.8343" Z="0.8343"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="91" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000355_005663_Langenfeld\Objekte\Sportplaetze\Sportplatz2.lod.ls3"/>
+<p X="-262.7715" Y="-141.7685" Z="400.5782"/>
+<phi Z="13.814234"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-203.3602" Y="-105.6032" Z="400.7999"/>
+<phi Z="1.825074"/>
+<sk X="1.6712" Y="1.6712" Z="1.6712"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-187.7654" Y="-98.0947" Z="401.2322"/>
+<phi Z="4.02805"/>
+<sk X="1.1" Y="1.1" Z="1.1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-227.292" Y="-98.6045" Z="400.5249"/>
+<phi Z="3.153624"/>
+<sk X="0.9677" Y="0.9677" Z="0.9677"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-237.849" Y="-82.7987" Z="400.981"/>
+<phi Z="3.233735"/>
+<sk X="0.8554" Y="0.8554" Z="0.8554"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-255.9679" Y="-82.8944" Z="400.5279"/>
+<phi Z="3.251422"/>
+<sk X="0.7953" Y="0.7953" Z="0.7953"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-276.7539" Y="-78.554" Z="400.2101"/>
+<phi Z="3.884193"/>
+<sk X="0.9744" Y="0.9744" Z="0.9744"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1349" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-278.1156" Y="-69.3992" Z="400.8472"/>
+<phi Z="2.662791"/>
+<sk X="1.1287" Y="1.1287" Z="1.1287"/>
+</Verknuepfte>
 <lsb Dateiname="32_512500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeterProTex="5" MeterProTex2="10" MeshV="729" MeshI="1224">
 <RenderFlags TexVoreinstellung="3"/>
@@ -5263,15 +5395,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="656" MeshI="1779">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="334" MeshI="783">
@@ -5431,12 +5554,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="76" MeshI="216">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="41" MeshI="117">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -5781,12 +5898,6 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="4" MeterProTex2="10" MeshV="26" MeshI="33">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="9">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -6063,12 +6174,6 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="124" MeshI="360">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\cess.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="52" MeshI="180">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -6222,10 +6327,10 @@
 <Datei Dateiname="Terrain\General\Water\river04_10m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="34" MeshI="102">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="34" MeshI="102">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
@@ -6528,10 +6633,61 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="9">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="3">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="32" MeshI="90">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="20">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="63">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="38" MeshI="108">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="66" MeshI="192">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="23" MeshI="57">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="60" MeshI="174">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="22" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
