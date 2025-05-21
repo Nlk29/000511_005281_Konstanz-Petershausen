@@ -1088,12 +1088,6 @@
 <phi Z="2.01012"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
-<p X="-16.6191" Y="278.3887" Z="410.6043"/>
-<phi Z="2.113899"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\Speiseleitung_Arm-einfach.lod.ls3"/>
 <p X="-42.3838" Y="313.801" Z="409.3273"/>
@@ -1110,12 +1104,6 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\Speiseleitung_Arm-einfach.lod.ls3"/>
 <p X="-104.6204" Y="389.6633" Z="410.5822"/>
 <phi Z="-0.858667"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
-<p X="-135.5347" Y="420.8789" Z="411.6255"/>
-<phi Z="-0.71576"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -2260,7 +2248,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
-<p X="-131.397" Y="421.5227" Z="400.4405"/>
+<p X="-131.1064" Y="425.1391" Z="400.4405"/>
 <phi Z="-0.501681"/>
 <sk X="1.0073" Y="1.0073" Z="1.0073"/>
 </Verknuepfte>
@@ -4568,10 +4556,64 @@
 <phi Z="1.032123"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3022" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
 <p X="-18.5735" Y="-201.5375" Z="398.2163"/>
 <phi Z="1.447983"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\ZumStellwerk\ZumStellwerk.lod.ls3"/>
+<p X="-85.3996" Y="-173.9971" Z="396.8289"/>
+<phi Z="2.529974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Speiseleitungen\Speiseleitung_Arm-einfach.lod.ls3"/>
+<p X="39.6399" Y="-1.713" Z="412.4333"/>
+<phi Z="4.550073"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Speiseleitungen\Speiseleitung_Arm-einfach.lod.ls3"/>
+<p X="44.3982" Y="47.5068" Z="412.0929"/>
+<phi Z="4.674596"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\Speiseleitung_Arm-einfach.lod.ls3"/>
+<p X="42.8652" Y="90.8369" Z="411.3592"/>
+<phi Z="-1.504923"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\Speiseleitung_Arm-einfach.lod.ls3"/>
+<p X="26.6423" Y="179.1041" Z="410.7919"/>
+<phi Z="1.844159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\Speiseleitung_Arm-einfach.lod.ls3"/>
+<p X="16.2258" Y="209.1667" Z="410.5648"/>
+<phi Z="1.927196"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Speiseleitungen\Speiseleitung_Arm-einfach.lod.ls3"/>
+<p X="-16.5469" Y="278.2688" Z="410.5043"/>
+<phi Z="5.255492"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Mastschalter\Mastschalter.lod.ls3"/>
+<p X="-135.5347" Y="420.8789" Z="411.7505"/>
+<phi Z="0.855036"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Speiseleitungen\Speiseleitung_Arm-einfach.lod.ls3"/>
+<p X="39.248" Y="129.4043" Z="411.0823"/>
+<phi Z="1.719701"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
@@ -5286,7 +5328,7 @@
 <Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="7.5" zBias="-5" MeshV="20" MeshI="51">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" zBias="-5" MeshV="20" MeshI="51">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
