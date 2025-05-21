@@ -482,12 +482,6 @@
 <phi Z="2.728662"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="101" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Berufsschule\AHM_Berufsschule.lod.ls3"/>
-<p X="-302.7741" Y="-438.4646" Z="400.39"/>
-<phi Z="1.159111"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000400_005700_Schwerte\Objekte\Schwerte_24_Westendamm\Schwerte_24_WH_1\Schwerte_24_Parkplatz.lod.ls3"/>
 <p X="-265.0114" Y="-471.4472" Z="400.5647"/>
@@ -524,6 +518,414 @@
 <phi Z="-0.441259"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
+<p X="-378.2195" Y="-471.6913" Z="400.7263"/>
+<phi Z="-0.443312"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000455_005689_Eversberg\Objekte\Eversberg_24_Hochstein\Eversberg_24_Remise.lod.ls3"/>
+<p X="-487.5853" Y="-478.354" Z="400.1081"/>
+<phi Z="4.331837"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-497.8713" Y="-450.3644" Z="400.5461"/>
+<phi Z="-0.314095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-495.9691" Y="-450.9823" Z="400.5422"/>
+<phi Z="-0.314095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-494.067" Y="-451.6003" Z="400.5382"/>
+<phi Z="-0.314095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-492.1648" Y="-452.2182" Z="400.5342"/>
+<phi Z="-0.314095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-490.2627" Y="-452.8361" Z="400.5302"/>
+<phi Z="-0.249054"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-488.3174" Y="-453.2989" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-486.3694" Y="-453.7517" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-484.4213" Y="-454.2045" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-482.4733" Y="-454.6573" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-480.5251" Y="-455.1101" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-478.577" Y="-455.563" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-476.629" Y="-456.0158" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-474.6809" Y="-456.4686" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-472.7329" Y="-456.9214" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-470.7848" Y="-457.3742" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-468.8368" Y="-457.827" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-466.8887" Y="-458.2798" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-464.9407" Y="-458.7326" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-462.9926" Y="-459.1855" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-461.0444" Y="-459.6383" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-459.0964" Y="-460.0911" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-457.1483" Y="-460.5439" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-455.2003" Y="-460.9967" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-453.2522" Y="-461.4496" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-451.8495" Y="-462.6479" Z="400.5274"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-452.3511" Y="-463.8978" Z="400.5055"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-453.0939" Y="-465.7547" Z="400.4836"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-453.8368" Y="-467.6116" Z="400.4618"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-454.5796" Y="-469.4685" Z="400.4399"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-455.3225" Y="-471.3255" Z="400.418"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-456.0653" Y="-473.1824" Z="400.3961"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-456.8082" Y="-475.0393" Z="400.3743"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-457.5511" Y="-476.8962" Z="400.3524"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-458.2939" Y="-478.7531" Z="400.3305"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-459.0369" Y="-480.6101" Z="400.3087"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-459.7797" Y="-482.467" Z="400.2868"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-460.5226" Y="-484.3239" Z="400.2649"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-461.2654" Y="-486.1808" Z="400.243"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-462.0083" Y="-488.0378" Z="400.2212"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-462.7511" Y="-489.8947" Z="400.1993"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-463.494" Y="-491.7516" Z="400.1774"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-464.2369" Y="-493.6085" Z="400.1555"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-464.9797" Y="-495.4654" Z="400.1337"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-465.3113" Y="-496.3251" Z="400.1118"/>
+<phi Z="-1.951348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-466.6073" Y="-497.1122" Z="400.11"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-467.5997" Y="-496.638" Z="400.114"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-469.4148" Y="-495.7981" Z="400.1181"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-471.23" Y="-494.9582" Z="400.1221"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-473.045" Y="-494.1183" Z="400.1262"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-474.8601" Y="-493.2784" Z="400.1302"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-476.6753" Y="-492.4385" Z="400.1343"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-478.4904" Y="-491.5987" Z="400.1383"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-480.3054" Y="-490.7588" Z="400.1424"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-482.1206" Y="-489.9189" Z="400.1464"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-483.9357" Y="-489.079" Z="400.1505"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-485.7507" Y="-488.2391" Z="400.1545"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-487.5658" Y="-487.3993" Z="400.1586"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-489.381" Y="-486.5594" Z="400.1626"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-491.196" Y="-485.7195" Z="400.1667"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-493.0111" Y="-484.8796" Z="400.1707"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-494.8263" Y="-484.0397" Z="400.1748"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-496.6414" Y="-483.1998" Z="400.1788"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-498.4564" Y="-482.36" Z="400.1829"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="-452.786" Y="-461.5673" Z="400.53"/>
+<phi Z="-0.228387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="56" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Suedkurier\KoPf_Suedkurier.lod.ls3"/>
+<p X="-380.7896" Y="-513.6254" Z="400.7294"/>
+<phi Z="4.26519"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lademass\lademass.lod.ls3"/>
+<p X="-395" Y="-461" Z="400.7211"/>
+<phi Z="5.839875"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="132" MeshI="252">
 <RenderFlags TexVoreinstellung="3"/>
@@ -543,31 +945,13 @@
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weichenschwellen_Holz.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="71" MeshI="177">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="170" MeshI="426">
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="172" MeshI="432">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 <Textur>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="76" MeshI="180">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="111" MeshI="357">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="56" MeshI="138">
@@ -577,12 +961,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="5" MeshV="44" MeshI="120">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="352" MeshI="1185">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -616,15 +994,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="178" MeshI="450">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="76" MeshI="180">
@@ -741,12 +1110,6 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="4" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -802,12 +1165,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="3" MeterProTex2="10" MeshV="4">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="3" MeterProTex2="10" MeshV="29" MeshI="42">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
@@ -984,10 +1341,52 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="48">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="16" MeshI="42">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\gravel02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="47" MeshI="135">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="25" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="50" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="9" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="2" MeterProTex2="10" MeshV="19" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="2" MeterProTex2="10" MeshV="20" MeshI="66">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

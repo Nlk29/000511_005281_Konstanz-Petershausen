@@ -4756,8 +4756,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_schotterweg2m_gleisabstand4m.ls3"/>
-<p X="444.8535" Y="-394.0441" Z="400.6911"/>
-<phi Z="2.698272"/>
+<p X="444.8535" Y="-394.0441" Z="400.5739"/>
+<phi X="-0.036816" Z="2.698272"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
@@ -5306,7 +5306,7 @@
 <phi Z="1.825074"/>
 <sk X="1.6712" Y="1.6712" Z="1.6712"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
 <p X="-187.7654" Y="-98.0947" Z="401.2322"/>
 <phi Z="4.02805"/>
@@ -5336,11 +5336,1475 @@
 <phi Z="3.884193"/>
 <sk X="0.9744" Y="0.9744" Z="0.9744"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1349" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
 <p X="-278.1156" Y="-69.3992" Z="400.8472"/>
 <phi Z="2.662791"/>
 <sk X="1.1287" Y="1.1287" Z="1.1287"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000386_005701_Witten-Annen_Nord\Objekte\30_Industrie\30_Witten-Annen-Nord-Futterhaus\30_Witten-A-N-Futterhaus.lod.ls3"/>
+<p X="-119.5642" Y="-55.0117" Z="400.9607"/>
+<phi Z="4.270257"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="38" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Luisenhospital\AC_Luisenhospital_Bettenhaus.lod.ls3"/>
+<p X="68.9763" Y="-57.9531" Z="401.9682"/>
+<phi Z="4.270259"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="38" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Luisenhospital\AC_Luisenhospital_Bettenhaus.lod.ls3"/>
+<p X="-8.7776" Y="-25.457" Z="403.2339"/>
+<phi Z="4.270259"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="85" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0061\000456_006085_Westerland\Objekte\AWLA_Gehlsen\ANB_Gehlsen_Haupthalle.lod.ls3"/>
+<p X="10.8982" Y="-70.4452" Z="401.7221"/>
+<phi Z="2.699462"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="52.342" Y="-203.3376" Z="400.2767"/>
+<phi Z="-0.441407"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-116.5698" Y="-162.4095" Z="400.5094"/>
+<phi Z="7.412384"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-130.1438" Y="-156.0158" Z="396.649"/>
+<phi Z="7.41238"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-137.6086" Y="-152.2892" Z="396.6489"/>
+<phi Z="7.411848"/>
+<sk X="0.99" Y="0.99" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-103.0734" Y="-168.8361" Z="396.6489"/>
+<phi Z="7.412385"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-94.8819" Y="-172.4805" Z="396.6489"/>
+<phi Z="7.41238"/>
+<sk X="0.99" Y="0.99" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-81.519" Y="-179.0502" Z="400.5094"/>
+<phi Z="7.41238"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-81.5189" Y="-179.0502" Z="412.9898"/>
+<phi Z="7.41238"/>
+<sk X="1.01" Y="1.01" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-116.5697" Y="-162.4096" Z="413.0485"/>
+<phi Z="7.41238"/>
+<sk X="1.01" Y="1.01" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-68.046" Y="-185.4766" Z="396.6489"/>
+<phi Z="7.41238"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-59.4913" Y="-189.7657" Z="396.6489"/>
+<phi Z="7.41238"/>
+<sk X="1.01" Y="1.01" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-45.7487" Y="-195.9615" Z="400.5116"/>
+<phi Z="7.411844"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Objekte\AHAR_16_Brenntag\AHAR_16_Brenntag.lod.ls3"/>
+<p X="-32.2018" Y="-202.3834" Z="400.5116"/>
+<phi Z="7.412385"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000400_005700_Schwerte\Objekte\Schwerte_24_Westendamm\Schwerte_24_WH_1\Schwerte_24_Parkplatz.lod.ls3"/>
+<p X="-147.5776" Y="-149.0033" Z="400.8141"/>
+<phi Z="5.841588"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000400_005700_Schwerte\Objekte\Schwerte_24_Westendamm\Schwerte_24_WH_1\Schwerte_24_Parkplatz.lod.ls3"/>
+<p X="-153.812" Y="-143.4838" Z="400.9078"/>
+<phi Z="-0.442134"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-137.3564" Y="-125.3183" Z="400.8785"/>
+<phi Z="0.828338"/>
+<sk X="1.3235" Y="1.3235" Z="1.3235"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-127.5455" Y="-128.852" Z="400.8565"/>
+<phi Z="-0.175185"/>
+<sk X="1.8405" Y="1.8405" Z="1.8405"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-118.1229" Y="-133.3014" Z="400.8087"/>
+<phi Z="-1.31918"/>
+<sk X="0.6059" Y="0.6059" Z="0.6059"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-109.0835" Y="-137.5535" Z="400.7632"/>
+<phi Z="1.028501"/>
+<sk X="1.6459" Y="1.6459" Z="1.6459"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-101.9624" Y="-142.9083" Z="400.6765"/>
+<phi Z="0.278519"/>
+<sk X="1.4145" Y="1.4145" Z="1.4145"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-92.6122" Y="-146.8532" Z="400.6887"/>
+<phi Z="1.089639"/>
+<sk X="1.4922" Y="1.4922" Z="1.4922"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-83.3142" Y="-151.0414" Z="400.8109"/>
+<phi Z="0.979371"/>
+<sk X="0.5284" Y="0.5284" Z="0.5284"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-74.5325" Y="-155.8282" Z="400.7919"/>
+<phi Z="-1.950905"/>
+<sk X="1.1276" Y="1.1276" Z="1.1276"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-64.5801" Y="-158.9375" Z="400.7923"/>
+<phi Z="-0.309059"/>
+<sk X="1.4791" Y="1.4791" Z="1.4791"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-55.2972" Y="-163.5889" Z="400.7737"/>
+<phi Z="0.860476"/>
+<sk X="1.7308" Y="1.7308" Z="1.7308"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-46.4061" Y="-168.8936" Z="400.7467"/>
+<phi Z="1.030271"/>
+<sk X="0.75" Y="0.75" Z="0.75"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-37.5953" Y="-173.3228" Z="400.7289"/>
+<phi Z="0.134046"/>
+<sk X="1.167" Y="1.167" Z="1.167"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-28.8047" Y="-175.8477" Z="400.7315"/>
+<phi Z="-1.365829"/>
+<sk X="1.0151" Y="1.0151" Z="1.0151"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-19.4812" Y="-181.0281" Z="400.7073"/>
+<phi Z="-1.429095"/>
+<sk X="1.6443" Y="1.6443" Z="1.6443"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-11.6688" Y="-185.7111" Z="400.6857"/>
+<phi Z="-0.662012"/>
+<sk X="1.0307" Y="1.0307" Z="1.0307"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-1.1814" Y="-188.3187" Z="400.7104"/>
+<phi Z="0.584247"/>
+<sk X="1.4699" Y="1.4699" Z="1.4699"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="8.275" Y="-193.1897" Z="400.7124"/>
+<phi Z="0.091589"/>
+<sk X="1.3562" Y="1.3562" Z="1.3562"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="17.0867" Y="-196.6731" Z="400.7249"/>
+<phi Z="-1.35989"/>
+<sk X="1.1065" Y="1.1065" Z="1.1065"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="25.8643" Y="-200.7894" Z="400.7309"/>
+<phi Z="-0.289329"/>
+<sk X="0.8279" Y="0.8279" Z="0.8279"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="35.1516" Y="-205.4818" Z="400.7338"/>
+<phi Z="0.716662"/>
+<sk X="0.9283" Y="0.9283" Z="0.9283"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="43.8529" Y="-210.2744" Z="400.727"/>
+<phi Z="0.925481"/>
+<sk X="0.9719" Y="0.9719" Z="0.9719"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="53.8589" Y="-213.3372" Z="400.7356"/>
+<phi Z="0.93698"/>
+<sk X="1.4774" Y="1.4774" Z="1.4774"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="63.4358" Y="-217.7536" Z="400.7266"/>
+<phi Z="0.002068"/>
+<sk X="1.6605" Y="1.6605" Z="1.6605"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="70.6334" Y="-221.5772" Z="400.714"/>
+<phi Z="0.606243"/>
+<sk X="1.5201" Y="1.5201" Z="1.5201"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="80.3103" Y="-226.0157" Z="400.7051"/>
+<phi Z="-1.673087"/>
+<sk X="0.468" Y="0.468" Z="0.468"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="89.9099" Y="-228.913" Z="400.7139"/>
+<phi Z="0.946795"/>
+<sk X="1.1029" Y="1.1029" Z="1.1029"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="99.3583" Y="-234.4738" Z="400.6909"/>
+<phi Z="-1.716418"/>
+<sk X="1.5272" Y="1.5272" Z="1.5272"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="109.0229" Y="-237.0909" Z="400.7058"/>
+<phi Z="-1.025198"/>
+<sk X="1.409" Y="1.409" Z="1.409"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="117.6833" Y="-241.196" Z="400.7493"/>
+<phi Z="-0.870612"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="125.9999" Y="-246.5426" Z="400.7347"/>
+<phi Z="-0.915119"/>
+<sk X="0.8145" Y="0.8145" Z="0.8145"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="136.4948" Y="-250.0414" Z="400.7473"/>
+<phi Z="-0.844763"/>
+<sk X="1.0625" Y="1.0625" Z="1.0625"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="144.7174" Y="-253.0585" Z="400.745"/>
+<phi Z="-0.498025"/>
+<sk X="1.2447" Y="1.2447" Z="1.2447"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="154.2616" Y="-257.9778" Z="400.7156"/>
+<phi Z="0.987065"/>
+<sk X="0.903" Y="0.903" Z="0.903"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="163.8595" Y="-261.3601" Z="400.7108"/>
+<phi Z="0.724388"/>
+<sk X="1.2301" Y="1.2301" Z="1.2301"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="172.5167" Y="-267.0307" Z="400.6759"/>
+<phi Z="-1.962282"/>
+<sk X="1.3368" Y="1.3368" Z="1.3368"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="180.6199" Y="-270.203" Z="400.6682"/>
+<phi Z="-1.741148"/>
+<sk X="1.4629" Y="1.4629" Z="1.4629"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="190.8398" Y="-273.3459" Z="400.6683"/>
+<phi Z="-1.342052"/>
+<sk X="1.1328" Y="1.1328" Z="1.1328"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="200.7562" Y="-277.7675" Z="400.6526"/>
+<phi Z="0.488332"/>
+<sk X="1.6533" Y="1.6533" Z="1.6533"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="208.4089" Y="-282.1332" Z="400.6293"/>
+<phi Z="0.021923"/>
+<sk X="1.4563" Y="1.4563" Z="1.4563"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="218.1829" Y="-286.7293" Z="400.611"/>
+<phi Z="-0.584054"/>
+<sk X="1.9853" Y="1.9853" Z="1.9853"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="226.6813" Y="-290.1318" Z="400.6002"/>
+<phi Z="-0.288151"/>
+<sk X="1.2246" Y="1.2246" Z="1.2246"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="235.9501" Y="-294.7959" Z="400.5771"/>
+<phi Z="1.099144"/>
+<sk X="1.1" Y="1.1" Z="1.1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="245.454" Y="-297.9447" Z="400.5821"/>
+<phi Z="1.01941"/>
+<sk X="0.9" Y="0.9" Z="0.9"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="255.7935" Y="-301.9833" Z="400.6013"/>
+<phi Z="-0.46478"/>
+<sk X="1.4192" Y="1.4192" Z="1.4192"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="263.5542" Y="-306.9275" Z="400.5669"/>
+<phi Z="-0.602355"/>
+<sk X="1.2636" Y="1.2636" Z="1.2636"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="273.5483" Y="-309.5494" Z="400.6219"/>
+<phi Z="0.812304"/>
+<sk X="1.4664" Y="1.4664" Z="1.4664"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000504_005709_Scherfede\Objekte\Scherfede_12_Fabrikanlagen\Scher_12_PP.lod.ls3"/>
+<p X="-3.1008" Y="-216.426" Z="400.6919"/>
+<phi Z="2.699996"/>
+<sk X="0.5" Y="0.5" Z="0.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\vw_kaefer\vw_1300_bl.lod.ls3"/>
+<p X="-143.6432" Y="-126.1955" Z="400.8578"/>
+<phi Z="-0.734207"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-156.9454" Y="-114.5937" Z="400.9533"/>
+<phi Z="-2.113024"/>
+<sk X="1.6365" Y="1.6365" Z="1.6365"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-177.3102" Y="-118.7696" Z="400.574"/>
+<phi Z="1.717542"/>
+<sk X="0.9934" Y="0.9934" Z="0.9934"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-177.1317" Y="-106.2831" Z="400.9936"/>
+<phi Z="2.653622"/>
+<sk X="1.2896" Y="1.2896" Z="1.2896"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000636_005379_Meitingen\Objekte\MMEI_Bf_Nebengebaeude\MMEI_Bf_Nebengebaeude.lod.ls3"/>
+<p X="192.3883" Y="-287.9976" Z="400.2957"/>
+<phi Z="2.692408"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\ATAT_Muehlengraben_22a\Muehlengraben_22a.lod.ls3"/>
+<p X="184.8846" Y="-272.758" Z="401.4543"/>
+<phi Z="1.12161"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Schotter\schotterhuegel.lod.ls3"/>
+<p X="51.5063" Y="-197.5741" Z="400.4064"/>
+<phi Z="2.700185"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\APO_Uebernachtungsbebaeude\APO_Uebernachtungsgebaeude.lod.ls3"/>
+<p X="208.0834" Y="-289.3376" Z="400.5444"/>
+<phi Z="4.348294"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\APO_Uebernachtungsbebaeude\APO_Uebernachtungsgebaeude.lod.ls3"/>
+<p X="303.9781" Y="-345.4919" Z="400.6863"/>
+<phi Z="-0.420297"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\APO_Uebernachtungsbebaeude\APO_Uebernachtungsgebaeude.lod.ls3"/>
+<p X="302.5795" Y="-359.4265" Z="400.5806"/>
+<phi Z="4.247129"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\APO_Uebernachtungsbebaeude\APO_Uebernachtungsgebaeude.lod.ls3"/>
+<p X="266.9655" Y="-341.2182" Z="400.3961"/>
+<phi Z="4.247129"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\APO_Uebernachtungsbebaeude\APO_Uebernachtungsgebaeude.lod.ls3"/>
+<p X="227.153" Y="-336.2691" Z="400.1987"/>
+<phi Z="1.090563"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\APO_Uebernachtungsbebaeude\APO_Uebernachtungsgebaeude.lod.ls3"/>
+<p X="262.4913" Y="-355.0091" Z="400.3429"/>
+<phi Z="-0.487596"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\APO_Uebernachtungsbebaeude\APO_Uebernachtungsgebaeude.lod.ls3"/>
+<p X="297.8297" Y="-373.7492" Z="400.3521"/>
+<phi Z="-0.487596"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_09_Industrie\Arnsberg_09_Flachbau.lod.ls3"/>
+<p X="233.2462" Y="-299.8027" Z="400.3526"/>
+<phi Z="2.745385"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_09_Industrie\Arnsberg_09_Flachbau.lod.ls3"/>
+<p X="213.9757" Y="-307.604" Z="400.1774"/>
+<phi Z="-0.423758"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_09_Industrie\Arnsberg_09_Flachbau.lod.ls3"/>
+<p X="250.4377" Y="-324.0516" Z="400.173"/>
+<phi Z="-0.423758"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_09_Industrie\Arnsberg_09_Flachbau.lod.ls3"/>
+<p X="323.3616" Y="-357.2514" Z="400.1447"/>
+<phi Z="-0.423758"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_09_Industrie\Arnsberg_09_Flachbau.lod.ls3"/>
+<p X="294.3218" Y="-362.1088" Z="400.3696"/>
+<phi Z="2.669515"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_09_Industrie\Arnsberg_09_Flachbau.lod.ls3"/>
+<p X="232.1023" Y="-352.891" Z="400.014"/>
+<phi Z="-0.478866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_09_Industrie\Arnsberg_09_Flachbau.lod.ls3"/>
+<p X="267.603" Y="-371.3219" Z="400.2018"/>
+<phi Z="-0.478866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_09_Industrie\Arnsberg_09_Flachbau.lod.ls3"/>
+<p X="303.1038" Y="-389.7528" Z="399.9101"/>
+<phi Z="-0.478866"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus1\Bauernhaus1_Schuppen.lod.ls3"/>
+<p X="279.8413" Y="-336.5379" Z="400.8145"/>
+<phi Z="2.700404"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus1\Bauernhaus1_Schuppen.lod.ls3"/>
+<p X="261.7566" Y="-327.9977" Z="400.4028"/>
+<phi Z="2.700404"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus1\Bauernhaus1_Schuppen.lod.ls3"/>
+<p X="279.2365" Y="-350.8848" Z="400.6315"/>
+<phi Z="-0.453815"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus1\Bauernhaus1_Schuppen.lod.ls3"/>
+<p X="239.5709" Y="-345.0286" Z="400.2457"/>
+<phi Z="2.656251"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus1\Bauernhaus1_Schuppen.lod.ls3"/>
+<p X="211.8545" Y="-342.6026" Z="400.1058"/>
+<phi Z="-0.469881"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus1\Bauernhaus1_Schuppen.lod.ls3"/>
+<p X="283.1833" Y="-378.8246" Z="400.2844"/>
+<phi Z="-0.469881"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000499_005737_Langeland\Objekte\09_Schuppen\09-Schuppen.lod.ls3"/>
+<p X="318.6389" Y="-342.5457" Z="400.7237"/>
+<phi Z="-1.90143"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000635_005387_Nordendorf\Objekte\MNOD_Bf_Nebengebaeude\MNOD_Bf_Nebengebaeude.lod.ls3"/>
+<p X="293.4915" Y="-335.6283" Z="400.6532"/>
+<phi Z="4.53355"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Rangiererbude\rangiererbude_af.lod.ls3"/>
+<p X="277.0211" Y="-318.4312" Z="400.406"/>
+<phi Z="-0.151425"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000499_005737_Langeland\Objekte\09_Schuppen\09-Schuppen.lod.ls3"/>
+<p X="481.0434" Y="-449.3163" Z="404.5647"/>
+<phi Z="4.281884"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000499_005737_Langeland\Objekte\10_Schuppen\10-Schuppen.lod.ls3"/>
+<p X="496.3808" Y="-456.505" Z="404.5466"/>
+<phi Z="1.127495"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Hochbahn\Stuetze_Temp.lod.ls3"/>
+<p X="503.7838" Y="-458.216" Z="405.345"/>
+<phi Z="2.699871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Hochbahn\Stuetze_Temp.lod.ls3"/>
+<p X="499.483" Y="-456.1535" Z="405.345"/>
+<phi Z="2.699871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Hochbahn\Stuetze_Temp.lod.ls3"/>
+<p X="495.0533" Y="-454.1027" Z="405.345"/>
+<phi Z="2.699871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Hochbahn\Stuetze_Temp.lod.ls3"/>
+<p X="490.7174" Y="-452.0168" Z="405.345"/>
+<phi Z="2.699871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Hochbahn\Stuetze_Temp.lod.ls3"/>
+<p X="485.8073" Y="-449.7317" Z="405.345"/>
+<phi Z="2.699871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Hochbahn\Stuetze_Temp.lod.ls3"/>
+<p X="481.2487" Y="-447.634" Z="405.345"/>
+<phi Z="2.699871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Hochbahn\Stuetze_Temp.lod.ls3"/>
+<p X="477.1237" Y="-445.759" Z="405.345"/>
+<phi Z="2.699871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Hochbahn\Stuetze_Temp.lod.ls3"/>
+<p X="473.4792" Y="-444.341" Z="405.345"/>
+<phi Z="2.699871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Hochbahn\Stuetze_Temp.lod.ls3"/>
+<p X="470.4323" Y="-442.9113" Z="405.345"/>
+<phi Z="2.699871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="71" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Ubernachtung\Altenbekenuebernacht.lod.ls3"/>
+<p X="374.6046" Y="-365.6896" Z="400.6706"/>
+<phi Z="2.6983"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus2\Bauernhaus2_Schuppen.lod.ls3"/>
+<p X="346.9107" Y="-360.8385" Z="401.3864"/>
+<phi Z="8.988311"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Farming\Beehives\Beehive_20-Dadant.lod.ls3"/>
+<p X="358.5633" Y="-351.8379" Z="400.5055"/>
+<phi Z="-0.443293"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="347.4255" Y="-350.503" Z="400.5333"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="348.5243" Y="-350.9854" Z="400.5327"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="349.623" Y="-351.4679" Z="400.532"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="350.7218" Y="-351.9503" Z="400.5313"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="351.8206" Y="-352.4328" Z="400.5307"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="352.9193" Y="-352.9153" Z="400.53"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="354.0179" Y="-353.3977" Z="400.5294"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="355.1167" Y="-353.8802" Z="400.5287"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="356.2155" Y="-354.3626" Z="400.528"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="357.3142" Y="-354.8451" Z="400.5274"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="358.413" Y="-355.3275" Z="400.5267"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="359.5117" Y="-355.81" Z="400.5261"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="360.6105" Y="-356.2924" Z="400.5254"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="361.7092" Y="-356.7749" Z="400.5248"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="362.808" Y="-357.2574" Z="400.5241"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="363.9067" Y="-357.7398" Z="400.5235"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="365.0054" Y="-358.2223" Z="400.5228"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="366.1041" Y="-358.7047" Z="400.5222"/>
+<phi Z="-0.41375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="367.2029" Y="-359.1872" Z="400.5215"/>
+<phi Z="-0.808904"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="367.8862" Y="-359.8176" Z="400.5211"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="367.34" Y="-360.8861" Z="400.5214"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="366.7938" Y="-361.9546" Z="400.5218"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="366.2476" Y="-363.023" Z="400.5221"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="365.7013" Y="-364.0915" Z="400.5225"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="365.1552" Y="-365.16" Z="400.5228"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="364.6089" Y="-366.2285" Z="400.5231"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="364.0626" Y="-367.2969" Z="400.5235"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="363.5165" Y="-368.3654" Z="400.5238"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="362.9702" Y="-369.4339" Z="400.5242"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="362.424" Y="-370.5023" Z="400.5245"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="361.8778" Y="-371.5708" Z="400.5249"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="361.3315" Y="-372.6393" Z="400.5252"/>
+<phi Z="2.669012"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="360.2559" Y="-372.1227" Z="400.5133"/>
+<phi Z="2.688699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="359.1768" Y="-371.5976" Z="400.5014"/>
+<phi Z="2.688699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="358.0978" Y="-371.0725" Z="400.4895"/>
+<phi Z="2.688699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="357.0187" Y="-370.5475" Z="400.4776"/>
+<phi Z="2.688699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="355.9397" Y="-370.0224" Z="400.4657"/>
+<phi Z="2.688699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="354.8607" Y="-369.4973" Z="400.4537"/>
+<phi Z="2.688699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="353.7816" Y="-368.9722" Z="400.4418"/>
+<phi Z="2.688699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="352.7026" Y="-368.4471" Z="400.4299"/>
+<phi Z="2.688699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="351.6237" Y="-367.922" Z="400.418"/>
+<phi Z="2.688699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="350.5446" Y="-367.3969" Z="400.406"/>
+<phi Z="7.54835"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="350.8459" Y="-366.3716" Z="400.4212"/>
+<phi Z="1.149253"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="351.3369" Y="-365.2766" Z="400.4401"/>
+<phi Z="1.149253"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="351.828" Y="-364.1817" Z="400.459"/>
+<phi Z="1.149253"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="352.319" Y="-363.0867" Z="400.4779"/>
+<phi Z="1.149253"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="352.8099" Y="-361.9918" Z="400.4968"/>
+<phi Z="1.149253"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="353.301" Y="-360.8968" Z="400.5157"/>
+<phi Z="1.33824"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="353.5057" Y="-359.9106" Z="400.529"/>
+<phi Z="2.715839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="352.413" Y="-359.4149" Z="400.517"/>
+<phi Z="2.715839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="351.3201" Y="-358.9193" Z="400.505"/>
+<phi Z="2.715839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="350.2272" Y="-358.4237" Z="400.493"/>
+<phi Z="2.715839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="349.1343" Y="-357.9281" Z="400.481"/>
+<phi Z="2.715839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="348.0414" Y="-357.4325" Z="400.469"/>
+<phi Z="2.715839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="346.9486" Y="-356.9369" Z="400.457"/>
+<phi Z="2.715839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="345.8557" Y="-356.4413" Z="400.445"/>
+<phi Z="2.507217"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="345.0005" Y="-355.859" Z="400.4378"/>
+<phi Z="1.129169"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="345.5134" Y="-354.7742" Z="400.4575"/>
+<phi Z="1.129169"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="346.0262" Y="-353.6893" Z="400.4772"/>
+<phi Z="1.129169"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="346.5392" Y="-352.6045" Z="400.4969"/>
+<phi Z="1.129169"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Holzlattenzaun\Holzlattenzaun_120cm_braun.lod.ls3"/>
+<p X="347.0521" Y="-351.5196" Z="400.5166"/>
+<phi Z="1.129169"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="353.0161" Y="-358.0196" Z="400.5391"/>
+<phi Z="2.701411"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="350.8646" Y="-356.8468" Z="400.5099"/>
+<phi Z="2.701411"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="349.0825" Y="-354.0273" Z="400.5391"/>
+<phi Z="-0.481295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="355.2222" Y="-359.0489" Z="400.5365"/>
+<phi Z="-0.481295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="348.2194" Y="-355.6725" Z="400.5025"/>
+<phi Z="0.70302"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="353.7393" Y="-356.1761" Z="400.5374"/>
+<phi Z="-0.438956"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="356.1267" Y="-357.3339" Z="400.5347"/>
+<phi Z="-0.438956"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="351.533" Y="-355.1953" Z="400.5378"/>
+<phi Z="2.750853"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Garden\scarecrow\scarecrow_3.lod.ls3"/>
+<p X="357.3209" Y="-365.4378" Z="400.5252"/>
+<phi Z="-2.043377"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="45" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000475_005692_Hoppecke\Objekte\Hoppecke01_Fabrik\Hoppecke01_Rampe1.lod.ls3"/>
+<p X="425.17" Y="-405.0851" Z="400.5099"/>
+<phi Z="-0.443289"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\kopframpe_holzbohle.lod.ls3"/>
+<p X="463.9906" Y="-426.3401" Z="400.6966"/>
+<phi Z="5.839896"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000574_005801_Haemelerwald\Objekte\09_Papendieck\lagerschuppen.lod.ls3"/>
+<p X="453.1206" Y="-435.2037" Z="400.4564"/>
+<phi Z="4.269156"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="469.4623" Y="-437.5687" Z="400.5522"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="470.4879" Y="-438.0059" Z="400.5537"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="472.3269" Y="-438.7922" Z="400.5551"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="474.1658" Y="-439.5786" Z="400.5566"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="476.0048" Y="-440.365" Z="400.5581"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="477.8436" Y="-441.1513" Z="400.5596"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="479.6826" Y="-441.9377" Z="400.5611"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="481.5215" Y="-442.724" Z="400.5626"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="483.3605" Y="-443.5103" Z="400.5641"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="485.1993" Y="-444.2967" Z="400.5656"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="487.0383" Y="-445.0831" Z="400.567"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="488.8772" Y="-445.8694" Z="400.5685"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="490.7162" Y="-446.6558" Z="400.57"/>
+<phi Z="-0.404086"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="492.6178" Y="-447.2749" Z="400.5661"/>
+<phi Z="-0.314095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="494.5199" Y="-447.8928" Z="400.5621"/>
+<phi Z="-0.314095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="496.4221" Y="-448.5107" Z="400.5581"/>
+<phi Z="-0.314095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="498.3242" Y="-449.1286" Z="400.5541"/>
+<phi Z="-0.314095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="500.2264" Y="-449.7466" Z="400.5501"/>
+<phi Z="-0.314095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="499.7283" Y="-481.5201" Z="400.187"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="497.9132" Y="-480.6801" Z="400.191"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="496.0981" Y="-479.8403" Z="400.195"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="494.283" Y="-479.0004" Z="400.1991"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="492.4679" Y="-478.1605" Z="400.2031"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="490.6528" Y="-477.3206" Z="400.2072"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="488.8376" Y="-476.4807" Z="400.2112"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="487.0226" Y="-475.6409" Z="400.2153"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="485.2075" Y="-474.801" Z="400.2193"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="483.3923" Y="-473.9611" Z="400.2234"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="481.5773" Y="-473.1212" Z="400.2274"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="479.7622" Y="-472.2813" Z="400.2315"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="477.947" Y="-471.4414" Z="400.2355"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="476.132" Y="-470.6016" Z="400.2396"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="474.3169" Y="-469.7617" Z="400.2437"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="472.5017" Y="-468.9218" Z="400.2477"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="470.6866" Y="-468.0819" Z="400.2517"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="468.8716" Y="-467.242" Z="400.2558"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="467.0565" Y="-466.4022" Z="400.2598"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="465.2413" Y="-465.5623" Z="400.2639"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="463.4263" Y="-464.7224" Z="400.2679"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="461.6112" Y="-463.8825" Z="400.272"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="459.796" Y="-463.0426" Z="400.276"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="457.981" Y="-462.2027" Z="400.2801"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="456.8962" Y="-460.766" Z="400.287"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="457.5654" Y="-459.3977" Z="400.3069"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="458.4595" Y="-457.6087" Z="400.3266"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="459.3535" Y="-455.8197" Z="400.3464"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="460.2476" Y="-454.0307" Z="400.3662"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="461.1417" Y="-452.2416" Z="400.386"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="462.0358" Y="-450.4526" Z="400.4058"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="462.9298" Y="-448.6635" Z="400.4256"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="463.824" Y="-446.8745" Z="400.4454"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="464.718" Y="-445.0855" Z="400.4652"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="465.6121" Y="-443.2965" Z="400.485"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="466.5061" Y="-441.5075" Z="400.5048"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="467.4003" Y="-439.7184" Z="400.5245"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="468.1056" Y="-438.3232" Z="400.5443"/>
+<phi Z="1.107344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\Palisade\Palisade2_2mx2m_Anbau.lod.ls3"/>
+<p X="457.6709" Y="-462.0799" Z="400.2834"/>
+<phi Z="2.708212"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_bus_polizei.lod.ls3"/>
+<p X="341.0221" Y="-346.9523" Z="400.4714"/>
+<phi Z="1.143794"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Opel_Rekord-P1\Opel_Rekord-P1_blauweiss.lod.ls3"/>
+<p X="349.694" Y="-319.0852" Z="400.6003"/>
+<phi Z="-1.997798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2025" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\MAN_200\SG240.lod.ls3"/>
+<p X="338.0186" Y="-353.6823" Z="400.2615"/>
+<phi Z="1.143796"/>
+<sk/>
 </Verknuepfte>
 <lsb Dateiname="32_512500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="6" MeterProTex="5" MeterProTex2="10" MeshV="729" MeshI="1224">
@@ -5388,22 +6852,10 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 <Textur>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_BetonB55_SKL-Oberbau.dds"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="130" MeshI="303">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="334" MeshI="783">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="480" MeshI="1752">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -5463,15 +6915,6 @@
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\55cm\55cm_Kassettenstein01_Rechteckpflaster04_Linie.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="138" MeshI="384">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_BetonB55_SKL-Oberbau.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="130" MeshI="303">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -5493,7 +6936,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="480" MeshI="1752">
+<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="480" MeshI="1740">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -5509,12 +6952,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="1017" MeshI="2820">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\cess.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="5" MeshV="77" MeshI="213">
@@ -5577,55 +7014,13 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="84">
+<SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="1" MeshV="30" MeshI="84">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="4" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="4" MeshI="3">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -5655,6 +7050,30 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
 <SubSet Cd="00FFFFFF" MeterProTex="4" MeterProTex2="10" MeshV="3">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -5698,12 +7117,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" MeterProTex="20" MeterProTex2="10" MeshV="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="20" MeterProTex2="1" MeshV="30" MeshI="33">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
@@ -5721,25 +7134,10 @@
 <Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="3" MeterProTex2="10" MeshV="12" MeshI="15">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" zBias="-5" MeshV="40" MeshI="114">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="40" MeshI="114">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="4" MeterProTex2="10" zBias="-20" MeshV="4" MeshI="6">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel02.dds"/>
 </Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
@@ -6495,7 +7893,7 @@
 <Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
@@ -6583,18 +7981,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="6" MeshI="12">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel02.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="48">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel02.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\gravel02.dds"/>
@@ -6688,6 +8074,153 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="46" MeshI="132">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="27">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="1" MeshV="61" MeshI="150">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="1" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="1" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="35" MeshI="99">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" zBias="1" MeshV="31" MeshI="81">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="23" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel02.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="59" MeshI="171">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\Schotterplatz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="34" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="1" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\vineyard02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="1" MeterProTex2="10" zBias="-1" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\soil02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="2" MeterProTex2="10" MeshV="39" MeshI="153">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="2" MeterProTex2="10" MeshV="42" MeshI="162">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

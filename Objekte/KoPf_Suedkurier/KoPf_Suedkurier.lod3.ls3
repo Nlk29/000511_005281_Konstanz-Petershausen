@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="KoPf_Suedkurier.lod3.lsb"/>
+<SubSet Cd="FFFFFFFF" TypGF="1" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="46" MeshI="78">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Holz_grau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="16" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Objekte\KoPf_Suedkurier\KoPf_Suedkurier_lod3\texture1.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="40" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Dachziegel.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>
